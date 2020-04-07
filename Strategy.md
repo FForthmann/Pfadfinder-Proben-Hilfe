@@ -2,6 +2,7 @@
 disablearabicstart: true
 lang: de-DE
 forceimages: true
+include-after: [PflanzenMemory.pdf]
 force-image-position: true
 link-citations: true
 lof: true
@@ -675,7 +676,7 @@ Ganz nach dem Pfadfindergesetz *'Ein Pfadfinder schützt die Natur und bewahrt d
 
 ## Du kannst fünf verschiedene Pflanzen und Sträucher unserer Wälder nach ihrem Aussehen und ihren Früchten bestimmen.
 
-*Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem die hier benutzen Grafiken als Memorie ausgeschnitten werden. Genauso kann man auch ein Quizz machen.*
+*Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem in einem Memorie die Blätter den Früchten zugeordnet werden (ein fertiges Memorie ist im Anhang zu finden). Genauso kann man auch ein Quizz machen.*
 
 In dieser Probe beschränken wir uns nicht nur auf Sträucher, sondern behandeln als Pflanzen unter anderem Bäume. Die Pflanzen werden anhand ihrer Blätter und Früchte identifiziert.
 
