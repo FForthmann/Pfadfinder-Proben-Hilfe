@@ -52,9 +52,9 @@ include-after: ["Interview-Finja-Hauschild-signed.pdf", "Interview-Tim-Gurke-sig
 
 **Vorwort**
 
-Als Pfadfinderprobenhilfe bensprucht dieses Werk keinen Anspruch auf Vollständigkeit oder absolute Aktualität. Viel mehr kann es als ergänzendes Mittel zu bereits vorhandenen Werken wie dem 'Sippenführer', alten Probenheften oder Schulungskladden verwendet werden. Als Sippenführer ist es immer wichtig, individuellen Sippenabend zu machen. Deswegen sind Aufzeichnungen wie diese als Orientierung, nicht aber als fertiger Sippenabend, zu verstehen. An dieser Stelle sei in aller Deutlichkeit darauf hingewiesen, dass Sipplinge Inhalte am besten verstehen, wenn sie kreativ aufbereitet werden. Deswegen lohnt es sich als Sippenführer, einen Moment zu nehmen, um eine spannende Probenarbeit vorzubereiten. Gegebenenfalls kann auch die Sammlung für kreatives Sippenabendprogramm behilflich sein.
+Als Pfadfinderprobenhilfe beansprucht dieses Werk keinen Anspruch auf Vollständigkeit oder absolute Aktualität. Viel mehr kann es als ergänzendes Mittel zu bereits vorhandenen Werken wie dem 'Sippenführer', alten Probenheften oder Schulungskladden verwendet werden. Als Sippenführer ist es immer wichtig, individuellen Sippenabend zu machen. Deswegen sind Aufzeichnungen wie diese als Orientierung, nicht aber als fertiger Sippenabend, zu verstehen. An dieser Stelle sei in aller Deutlichkeit darauf hingewiesen, dass Sipplinge Inhalte am besten verstehen, wenn sie kreativ aufbereitet werden. Deswegen lohnt es sich als Sippenführer, einen Moment zu nehmen, um eine spannende Probenarbeit vorzubereiten. Gegebenenfalls kann auch die Sammlung für kreatives Sippenabendprogramm behilflich sein.
 
-Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2020 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' (in dieser Probenhilfe wird sich auf die *4. Auflage von 1998* bezogen) auf den Seiten 98 & 99. Wegen der Nutzung von Urheberrechtlich geschützten Inhalten ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
+Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2020 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' (in dieser Probenhilfe wird sich auf die *4. Auflage von 1998* bezogen) auf den Seiten 98 & 99. Wegen der Nutzung von Urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
 
 &nbsp;
 
@@ -123,15 +123,15 @@ Amen.
 
 ## Du hältst eine Andacht mit einem Sippenführer oder einer anderen Person.
 
-Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönlichen Gesprächen die beste Grundlage etwas über das Evangelium zu erzählen. Eine erfolgreiche Andacht lebt neben einer guten Vorbereitung und einer Prise Gott vor allem von persönlichen Eindrücken und kreativen Visualisierungen von Bibelstellen. *Ideen für Andachtsthemen finden sich im Sippenführer auf Seite 12 oder im C-Konzept.*
+Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönlichen Gesprächen die beste Grundlage etwas über das Evangelium zu erzählen. Eine erfolgreiche Andacht lebt neben einer guten Vorbereitung und einer Prise Gott vor allem von persönlichen Eindrücken und kreativen Darstellungen von Bibelstellen. *Ideen für Andachtsthemen finden sich im Sippenführer auf Seite 12 oder im C-Konzept.*
 
 \underline{Eine Andacht kann grob in folgende Phasen unterteilt werden:}
 
 * Vorbereitung
-    * Thema auswählen
+    * Thema & passende Bibelstellen auswählen
     * Wichtige Kernbotschaften identifizieren und über kreative Gestaltung nachdenken
     * Mit anderen Ulanen über das Thema austauschen und Gott mit einbeziehen
-    * Lieder für die Andacht auswählen und gegebenenfalls Requisiten besorgen
+    * Reinschrift anfertigen, Lieder für die Andacht auswählen und ggf. Requisiten besorgen
 * Beginn der Andacht mit einem gemeinsamen Gebet (evtl. auch zusätzlich mit einem Lied)
 * Verkündigung
 * Stille Zeit und Anbetung 
@@ -140,11 +140,11 @@ Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönli
 
 \underline{Zur inhaltlichen Gestaltung einer Andacht kann folgendes Schema verwendet werden:}
 
-Zuerst wird ein Thema anhand einer Bibelstelle ausgewählt, auf welches die Andacht zuläuft.
+Zuerst wird ein Thema anhand einer Bibelstelle ausgewählt, auf welches die Andacht zuläuft. Daraufhin muss für die Reinschrift Struktur geschaffen werden, was man wann und wie in dem Verkündigungsteil der Andacht sagt.
 
 
 **Me**\
-*Der Andachtshaltende erläutert das Thema anhand eines persönlichen Einblicks in sein Leben. Wie hast Du das Thema erlebt? Was bedeutet es für Dich?*
+*Der Andachtshaltende erläutert das Thema anhand eines persönlichen Einblicks in sein Leben. Wie habe ich das Thema erlebt? Was bedeutet es für mich?*
 
 **We**\
 *Der Andachtshaltende bezieht seine persönlichen Erfahrungen und das Thema generell auf die Gruppe. Wieso ist das Thema für die Gruppe wichtig? Wem ist schonmal etwas Ähnliches passiert?*
@@ -163,11 +163,11 @@ Zuerst wird ein Thema anhand einer Bibelstelle ausgewählt, auf welches die Anda
 
 ## Du besuchst mit Deiner Sippe einen Gottesdienst oder eine andere christliche Veranstaltung. 
 
-Diese Probe muss individuell durchgeführt werden und bedarf keiner theoretischen Betrachtung. Trotzdem ist wichtig zu verstehen, dass viele Kinder von Haus aus nicht mehr die Kirche besuchen. Deswegen ist es wertvoll, ihnen ein solches Umfeld nahezubringen. Je nach Alter der Sipplinge und Komplexität der Predigt, sollte der Gottesdienst oder die christliche Veranstaltung im Nachgang nochmal nachbereitet werden.
+Diese Probe muss individuell durchgeführt werden und bedarf keiner theoretischen Betrachtung. Trotzdem ist wichtig zu verstehen, dass viele Kinder von Haus aus nicht mehr die Kirche besuchen. Deswegen ist es wertvoll, ihnen ein solches Umfeld nahezubringen. Je nach Alter der Sipplinge und Komplexität der Predigt, sollte der Gottesdienst oder die christliche Veranstaltung im Nachgang nochmal besprochen werden.
 
 # Pfadfindertum
 
-Als Pfadfinder sollte man auch den Hintergrund der Pfadfinderbewegung, des eigenen Stammes und der eigenen Sippe verstehen, um kompliziertere Zusammenhänge nachvollziehen zu können. 
+Als Pfadfinder sollte man auch den Hintergrund der Pfadfinderbewegung, des eigenen Stammes und der eigenen Sippe verstehen, um weitere Zusammenhänge der weltweiten Pfadfinderschaft und des eigenen Stammes nachvollziehen zu können.
 
 ## Du zeichnest die Pfadfinderlilie in Dein Pfadfinderbuch ein und erklärst sie.
 
@@ -179,14 +179,14 @@ Die Kreuzlilie beinhaltet als verbindendes Symbol der Lilie das Kreuz, welches f
 
 ## Du kennst die stammesinterne Ständeregelung.
 
-Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unterschiedliche Wissensstände unter den Sipplingen und Ulanen aus, sondern sind auch ein Weg Gemeinschaft, Verbindlichkeit und Hierarchien zu etablieren. Im Folgenden sind die unterschiedlichen Stände des Stammes mit ihren Aufgaben und einzusetzenden Bereichen aufgeführt. 
+Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unterschiedliche Wissensstände unter den Sipplingen und Ulanen aus, sondern sind auch ein Weg, Verbindlichkeit und Hierarchien in einer Organisation zu etablieren. Im Folgenden sind die unterschiedlichen Stände des Stammes mit ihren Aufgaben und einzusetzenden Bereichen aufgeführt. Die in der Tabelle genannten Altersspannen beziehen sich auf das typische Alter für den Stand.
 
 | Alter | Stand | Bereiche | Aufgabe |
 |-|---|---|------|
-| 8-10  | Wölfling        | Sippe   |    Sippe zugehörig  |
-| 10-12 | Jungpfadfinder  | Sippe   |   Grundlegendes Pfadfinderwissen vorhanden   |
-| 12-14 | Pfadfinder      | Sippe   |     Sippe mitgestalten  |
-| 14-16 | Knappe          | Sippe & Stamm              |     Sippe leiten  |
+| 8-9  | Wölfling        | Sippe   |    Sippe zugehörig  |
+| 9-11 | Jungpfadfinder  | Sippe   |   Grundlegendes Pfadfinderwissen vorhanden   |
+| 11-13 | Pfadfinder      | Sippe   |     Sippe aktiv mitgestalten  |
+| 13-16 | Knappe          | Sippe & Stamm              |     Sippe hauptverantwortlich leiten  |
 | 16-18 | Späher          | Sippe & Stamm |     Stamm führend gestalten  |
 | ab 18 | Kreuzpfadfinder | Sippe, Stamm & wahlweise weitere | Christliche Botschaft lebenslang teilen |
 |    ab 14  |    Rover |     Stamm   |  Externer Unterstützer  |
@@ -195,7 +195,7 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 
 ## Du weißt über die Stammessituation bescheid.
 
-Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Kinder während des Things Notizen machen zu lassen.
+*Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Kinder während des Things Notizen machen zu lassen. Zur Stammessituation gehören die Ämterbesetzungen und ein paar weitere Kennzahlen sowie ggf. weitere aktuelle Ereignisse.*
 
 **Ämter:**
 
@@ -203,14 +203,14 @@ Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Ansch
 |-------|-------------|----|
 |   Stammesführer  |  Leitung & Koordination des Stammes  | ________ |
 |  Geschäftsführer  | Verwaltung der Stammesgelder  | ________ |
-| Stammesältester | Ansprechpartner bei Problemen | ________ |
+| Stammesältester | Außenstehender Ansprechpartner bei Problemen | ________ |
 |    Materialwart  |  Stammesmaterial (Kohten, Beile, Tampen etc.) | ________ |
 | Bürowart | Verkauf & Verwaltung kleinerer Budgets | ________ |
 | Speikawart | Speisekammer & Kochutensilien | ________ |
 | Musischer Wart | Musische Mittel (Basteln & Musik) | ________ |
 | Erste-Hilfe Wart | Medizinische Versorgung  | ________ |
 | Werkkammerwart  | Werkkammer | ________ |
-| Thinggraf | Einberufung & Durchführung d. Things | ________ |
+| Thinggraf | Einberufung & Durchführung des Things | ________ |
 | Neue Medien Wart |  Website und Ähnliches | ________ |
 | Schulfuchs Beauftragter | Verbindung zum Schulprojekt |________ |
 
@@ -225,7 +225,7 @@ Außerdem sind folgende Kennzahlen zu besprechen:
 
 ## Du kannst das Pfadfinderversprechen und besprichst es mit Deinem Sippenführer.
 
-Nun folgt das Pfadfinderversprechen. In der Besprechung des Versprechens lohnt es sich, den Begriff 'Mitgestalter des Sippenlebens' sowie die Redewendung 'Im Vertraun auf Gottes Hilfe' zu vertiefen. Außerdem kann beim Sippenabend ein Vergleich dieses Versprechens mit dem ursprünglichen Pfadfinderversprechen BiPis hilfreich sein. 
+*Nun folgt das Pfadfinderversprechen. In der Besprechung des Versprechens lohnt es sich, den Begriff 'Mitgestalter des Sippenlebens' sowie die Redewendung 'Im Vertraun auf Gottes Hilfe' zu vertiefen. Außerdem kann beim Sippenabend ein Vergleich dieses Versprechens mit dem ursprünglichen Pfadfinderversprechen BiPis hilfreich sein.*
 
 \underline{Versprechen:}
 
@@ -237,13 +237,13 @@ On my honour I promise that I will do my best –
 
 * To do my duty to God and the King (or to God and my Country)
 * To help other people at all times
-* To obey the Scout Law.
+* To obey the Scout Law
 
 ## Du kennst die Stammesgeschichte in ihrern Grundzügen.
 
 Im Folgenden wird die Stammesgeschichte in zwei Formen dargelegt. Einmal in kompakten Stichpunkten und das zweite Mal als detaillierter Fließtext. 
 
-**Stichpunkte:**
+\underline{Stichpunkte}
 
 * Gegründet am 27. März 1949 von dem Theologiestudenten Hartmut Classen
 * Anfang 1950 bereits 20 Mitglieder in 3 Sippen (Eichkatzen, Biber, Hirsche). Später ca. 40 Mitglieder
@@ -269,7 +269,7 @@ Im Folgenden wird die Stammesgeschichte in zwei Formen dargelegt. Einmal in komp
 
 &nbsp;
 
-**Fließtext:**
+\underline{Fließtext}
 
 Am 27.03.1949 wurde die Gründungsidee der Pfadfinderarbeit zu St. Andreas geboren. Hartmut Clasen, ein Theologiestudent, war der Begründer dieser Idee. In den Anfängen der 50iger Jahre erlebte die „Siedlung St. Andreas“ einen stetigen Anstieg in der Pfadfinderarbeit. Dieser Elan hielt zunächst bis zum Ende dieses Jahrzehnts an, flachte danach aber etwas ab. 1957 fand eine neue Mode Einzug in den Fahrten Stil: Ab sofort fuhr man nur noch mit den neuen Kohten auf Fahrt. 
 
@@ -289,15 +289,15 @@ Nach einem großen Pfingstlager 2004 zeichnete sich erneut eine Stammesspaltung 
 
 ## Du kennst den Stammesleitsatz und die Stammesvision.
 
-Der Stammesleitsatz ist eine kurze und prägnante Zusammenfassung unserer Absichten und Ziele als Pfadfinder St. Andreas. Außerdem beinhaltet er, wie wir uns verhalten wollen. Die Stammesvision konkretisiert diese für ein ganzes Leben geltende Einstellung für den Kontext der aktiven Pfadfinderarbeit. 
+Der Stammesleitsatz ist eine kurze und prägnante Zusammenfassung unserer Absichten und Ziele als Pfadfinder St. Andreas. Außerdem beinhaltet er, wie wir uns verhalten wollen. Die Stammesvision konkretisiert diese für ein ganzes Leben geltende Einstellung im Kontext der aktiven Pfadfinderarbeit - vor allem für Ulanen. 
 
-Es ist sinnvoll, mit den Sipplingen aktiv darüber zu diskutieren, wieso ein Leitsatz und eine Vision wichtig sind und, wie unser Stamm aussehen würde, wenn sich jeder nach diese Ideen richten würde. 
+*Es ist sinnvoll, mit den Sipplingen aktiv darüber zu diskutieren, wieso ein Leitsatz und eine Vision wichtig sind und, wie unser Stamm aussehen würde, wenn sich jeder an diesen Ideen orientieren würde.*
 
-\underline{Stammesleitsatz:}
+\underline{Stammesleitsatz}
 
 Als christlicher Pfadfinderstamm St. Andreas bekennen wir uns zu unserem Herrn Jesus Christus. Diesen Glauben wollen wir in Wort und Tat leben und andere dazu einladen. Allzeit bereit wollen wir nach den Pfadfindergesetzen handeln und unsere Gaben in der Gemeinschaft einsetzen.
 
-\underline{Stammesvision:}
+\underline{Stammesvision}
 
 **Wir wollen** in unserem Stamm eine von Nächstenliebe bestimmte Gemeinschaft leben, die ihre Mitglieder mit ihren Stärken und Schwächen trägt und niemanden ausschließt.
 
@@ -313,11 +313,11 @@ Als christlicher Pfadfinderstamm St. Andreas bekennen wir uns zu unserem Herrn J
 
 # Fahrt und Lager
 
-Êines der Pfadfinderprinzipen von BiPi ist 'Fahrt und Lager'. Ein Pfadfinder ohne Sippen-, Wander- oder Großfahrten ist kein Pfadfinder. Deswegen gilt es, die Sipplinge bestmöglich und praktisch auf diesen wichtigen Teil der Pfadfinderarbeit vorzubereiten. Viele dieser Proben können deswegen bestmöglich auf Fahrt praktisch umgesetzt werden.
+Eines der Pfadfinderprinzipen von BiPi ist 'Fahrt und Lager'. Ein Pfadfinder ohne Sippen-, Wander- oder Großfahrten ist kein Pfadfinder. Deswegen gilt es, die Sipplinge bestmöglich und praktisch auf diesen wichtigen Teil der Pfadfinderarbeit vorzubereiten. Viele dieser Proben können deswegen am besten praktisch auf Fahrt umgesetzt werden.
 
 ## Du kannst einen Waldpenner aufstellen und weißt wie man eine Kohte aufbaut.
 
-*Auf dem Weg zum Sippenführer ist es besonders wichtig, grundlegende Fahrtenbauten[^footnote3] zu kennen. Die Kohte und der Waldpenner sind die Lagerbauten, die in der Praxis am regelmäßigsten verwendet werden. Es ist sinnvoll, im Anschluss an diese Probe bei einem Sippenabend oder auf Fahrt die Sipplinge beide Lagerbauten eigenständig aufbauen zu lassen.*
+Auf dem Weg zum Sippenführer ist es besonders wichtig, grundlegende Fahrtenbauten[^footnote3] zu kennen. Die Kohte und der Waldpenner sind die Lagerbauten, die in der Praxis am regelmäßigsten verwendet werden. *Es ist sinnvoll, im Anschluss an diese Probe bei einem Sippenabend oder auf Fahrt die Sipplinge beide Lagerbauten eigenständig aufbauen zu lassen.*
 
 [^footnote3]: Weitere Informationen zu wichtigen Fahrtenbauten sind in dem 'Sippenführer' ab Seite 109 zu finden. Dort werden unter anderem der Frosch, die Kröte, der Mor og barn und Jurten thematisert. 
 
@@ -325,11 +325,11 @@ Als christlicher Pfadfinderstamm St. Andreas bekennen wir uns zu unserem Herrn J
 
 \underline{Waldpenner}
 
-Der Waldpenner ist ein Ein-Personen-Zelt mit nur begrenztem Platz: Leute über 1,60 cm ragen leider aus dem Zelt heraus, schlafen also mit dem Kopf mehr oder weniger im Freien. Auch bläst einem der Wind gerne den Regen ins Zelt. Dafür ist der Waldpenner schnell nur mit einer Kohtenbahn aufzubauen und kann im Notfall auch zwei Menschen  ohne Rucksäcke beherbergen. Zum Aufbau benötigt man neben einer Kohtenbahn eine 100cm hohe Stütze und fünf Heringe.
+Der Waldpenner ist ein Ein-Personen-Zelt mit begrenztem Platz: Leute über 1,60 cm ragen leider aus dem Zelt heraus, schlafen also mit dem Kopf mehr oder weniger im Freien. Auch bläst einem der Wind gerne den Regen ins Zelt. Dafür ist der Waldpenner schnell nur mit einer Kohtenbahn aufzubauen und kann im Notfall auch zwei Menschen  ohne Rucksäcke beherbergen. Zum Aufbau benötigt man neben einer Kohtenbahn eine 100 cm hohe Stütze und fünf Heringe.
 
 ![Skizze eines Waldpenners](Waldpenner.jpg){width=100%}
 
-Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldpenner gegenüber zu stellen. Ein solches Konstrukt nennt man eine Kröte. Dort werden zusätzlich die Kohtenbahnen in der Mitte zusammengeknüpft und nur eine Stütze benutzt. Dadurch gibt es am Kopfende des Waldpenners kein Loch mehr, das Platz Wind oder Regen gibt. 
+Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldpenner gegenüber zu stellen. Ein solches Konstrukt nennt man eine Kröte. Dort werden zusätzlich die Kohtenbahnen in der Mitte zusammengeknüpft und nur eine Stütze benutzt. Dadurch gibt es am Kopfende des Waldpenners kein Loch mehr, welches Platz für Wind oder Regen lässt. 
 
 ![Skizze einer Kröte](Waldpenner-zusammen.jpg){width=50%}
 
@@ -352,14 +352,14 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 * 1 Kohtendeckel
 * 8 Stützen (an Erdstreifen ausmessen)
 * 8 Heringe
-* 1x ca. 4m lange Kohtenstange
-* 2x ca. 1m lange Stangen fürs Kohtenkreuz
+* 1x ca. 4 m lange Kohtenstange
+* 2x ca. 1 m lange Stangen fürs Kohtenkreuz
 
 *Aufbauschritte:*
 
-#. Knüpfen, Regenknebel schließen
+#. Knüpfen & Regenknebel schließen
 #. Kreuz & Stange binden
-#. Ausspannen
+#. Ausspannen (rechter Winkel an jeder Ecke)
 #. Hochziehen
 #. Deckel montieren
 #. Achtel ausspannen
@@ -367,11 +367,11 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 
 ## Du kannst den Palstek (Weberknoten), Mastwurf, Achterknoten, Spannzug sowie den Kreuz-, Parallel- und Dreibocksbund.
 
-*Auch bei dieser Probe muss die Anwendung praktisch erfolgen. Ganz nach BiPis Pfadfinderprinzip Learning by doing lernen die Sipplinge Knoten nur in der praktischen Anwendung. Man kann beispielsweise mit Tampen üben und später zwischen den Sipplingen einen Geschwindigkeitswettbewerb veranstalten oder die Knoten mit Süßigkeitenfäden erstellen.*
+*Auch bei dieser Probe muss die Anwendung praktisch erfolgen. Ganz nach BiPis Pfadfinderprinzip 'Learning by doing' lernen die Sipplinge Knoten nur in der praktischen Anwendung. Man kann beispielsweise mit Tampen üben und später zwischen den Sipplingen einen Geschwindigkeitswettbewerb veranstalten oder die Knoten mit Süßigkeitenschlangen erstellen.*
 
 \underline{Palstek (Weberknoten)}
 
-Der Palstek ist der wohl schwierigste grundlegende Knoten dieser Probe. Er ist aber um so nützlicher. Denn im Gegensatz zum Slipstek ('Zauberknoten' oder 'Hausfrauenknoten') läßt er sich leicht (auch nachdem er lange unter Zug stand) wieder öffnen: Man muss nur die Schlinge, die man im letzten Schritt gelegt hat, um das Zugseil kippen (siehe dafür Kreuzknoten). Deswegen wird der Palstek meist benutzt, wenn eine Schlinge gebraucht wird. Zum Beispiel bei der Kohtenstange zum Hochziehen des Kohtenkreuzes. 
+Der Palstek ist der wohl schwierigste grundlegende Knoten dieser Probe. Er ist aber um so nützlicher. Denn im Gegensatz zum Slipstek ('Zauberknoten' oder 'Hausfrauenknoten') lässt er sich leicht (auch nachdem er lange unter Zug stand) wieder öffnen: Man muss nur die Schlinge, die man im letzten Schritt gelegt hat, um das Zugseil kippen (siehe dafür Kreuzknoten). Deswegen wird der Palstek meist benutzt, wenn eine Schlinge gebraucht wird. Zum Beispiel bei der Kohtenstange zum Hochziehen des Kohtenkreuzes. 
 
 Zum Binden des Palsteks kann folgende Eselsbrücke hilfreich sein: Es wird ein See mit dem Seil gebildet. Das obere Ende ist eine Schlange, die aus dem See herauskommt. Im nächsten Schritt geht die Schlange um den Baum (anderes Ende des Seils) herum und taucht wieder in den See ein. Zum Schluss wird der Knoten festgezogen. 
 
@@ -389,7 +389,7 @@ Das Gegenstück zum Mastwurf ist der Zimmermannsschlag, der an dieser Stelle kur
 
 \underline{Achterknoten}
 
-Als besonderer Überhandknoten (gängiger 'normaler' Knoten) hat sich der Achterknoten etabliert. Bei der Erstellung dieses Knotens macht man eine Extrarunde um da Seil und erstellt dadurch einen voluminösen Knoten. Deswegen wird der Achterknoten in der Praxis als Stoppknoten am Ende eines Tampen verwendet. Um einen noch größeren Achterknoten zu erzeugen, kann man den Achterknoten mit doppeltem Seil erstellen. Dieser Knoten nennt sich dann Doppelter Achterknoten.
+Als besonderer Überhandknoten (gängiger 'normaler' Knoten) hat sich der Achterknoten etabliert. Bei der Erstellung dieses Knotens macht man eine Extrarunde um das Seil und erstellt dadurch einen voluminösen Knoten. Deswegen wird der Achterknoten in der Praxis als Stoppknoten am Ende eines Tampen verwendet. Um einen noch größeren Achterknoten zu erzeugen, kann man den Achterknoten mit doppeltem Seil erstellen. Dieser Knoten nennt sich dann Doppelter Achterknoten.
 
 ![Erstellungsprozess eines Achterknotens](Achterknoten.png){width=40%}
 
@@ -403,19 +403,19 @@ Zur Erstellung dieses Spannzugs wird ungefähr auf der Hälfte des Seils ein Sli
 
 Mindestens genauso wichtig wie ein Spannzug ist das normale Abspannen mit Halben Schlägen. Leider hält der Abspannknoten nicht wirklich bombenfest. Der große Vorteil an dem Knoten ist jedoch, dass man leicht durch Hochschieben der Schlingen nachspannen kann. Gerne dehnen sich nämlich Kohtenbahnen ein wenig, wenn sie länger stehen oder es geregnet hat.
 
-![Skizze von Abspannknoten](Abspann.png){width=50%}
+![Skizze von mehreren Halben Schlägen](Abspann.png){width=50%}
 
 \underline{Kreuzbund}
 
-*Bünde werden vor allem bei Lagerbauten gerne verwendet und sind zur Fixierung mehrerer Stangen vorgesehen.* Der Kreuzbund verbindet zwei Stangen, die im rechten Winkel aufeinander liegen sollen. So wird der Kreuzbund beispielsweise beim Kohtenkreuz verwendet.
+Bünde werden vor allem bei Lagerbauten gerne verwendet und sind zur Fixierung mehrerer Stangen vorgesehen. Der Kreuzbund verbindet zwei Stangen, die im rechten Winkel aufeinander liegen sollen. So wird der Kreuzbund beispielsweise beim Kohtenkreuz verwendet.
 
-Wie jeder Bund beginnt der Kreuzbund mit einem Zimmermannsschlag. Der Tampen wird von da an immer abwechselnd über die eine Stange und unter die andere Stange gelegt. Wichtig ist dabei zu beachten, dass der Tampen immer weiter nach innen gelegt wird, damit der Bund nicht zerfällt. Wenn sich der Tampen selber berüht, wird der Bund geknebelt und mit einem Mastwurf fixiert.
+Wie jeder Bund beginnt der Kreuzbund mit einem Zimmermannsschlag. Der Tampen wird von da an immer abwechselnd über die eine Stange und unter die andere Stange gelegt. Wichtig ist dabei, zu beachten, dass der Tampen immer weiter nach innen gelegt wird, damit der Bund nicht zerfällt. Wenn sich der Tampen selber berüht, wird der Bund geknebelt und mit einem Mastwurf fixiert.
 
 ![Skizze des Kreuzbundes](Kreuzbund.png){width=60%}
 
 \underline{Parallelbund}
 
-Dieser Bund ist zu verwenden, wenn zwei Stangen wirklich parallel gehalten werden und nicht wie beispielsweise beim Dreibock aufgeschert werden sollen. Ein Beispiel dafür kann die Verlängerung einer Stange sein. 
+Dieser Bund ist zu verwenden, wenn zwei Stangen wirklich parallel gehalten werden und nicht, wie beispielsweise beim Dreibock, aufgeschert werden sollen. Ein Beispiel dafür kann die Verlängerung einer Stange sein. 
 
 Ein Parallelbund wird durch das einfache Umwickeln zweier Stangen und das anschließende Knebeln zwischen beiden Stangen erstellt.
 
@@ -423,54 +423,56 @@ Ein Parallelbund wird durch das einfache Umwickeln zweier Stangen und das anschl
 
 \underline{Dreibocksbund}
 
-Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Scherenbund zu verwenden. Anders als beim Parallelbund werden hier die Stangen nicht einfaach sondern wechselseitig umwickelt und jeder Zwischenraum am Ende geknebelt.
+Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Scherenbund zu verwenden. Anders als beim Parallelbund werden hier die Stangen nicht einfach, sondern wechselseitig umwickelt und jeder Zwischenraum am Ende geknebelt.
 
 ![Skizze des Scherenbundes](Scherenbund.png){width=45%}
 
 ## Du kannst Feuer machen und drei verschiedene Feuerarten anwenden.
 
-*Feuer ist ein wichtiges Fahrtenelement - es ist nicht nur warm und sieht gut aus, sondern ist auch fürs Kochen wichtig und kann an kalten Tagen die Stimmung merklich heben. Feuerproben eignen sich in Kombination mit Stockbrot, Spatenei oder Marshmellows als Belohnung für die Sipplinge, wenn sie ein Feuer anbekommen haben.*
+*Feuer ist ein wichtiges Fahrtenelement: Es ist nicht nur warm und sieht gut aus, sondern ist auch fürs Kochen wichtig und kann an kalten Tagen die Stimmung merklich bessern. Praktische Feuerproben eignen sich in Kombination mit Stockbrot, Spatenei oder Marshmellows als Belohnung für die Sipplinge, wenn sie ein Feuer anbekommen haben.*
 
-**Ablauf**
+\underline{Ablauf}
 
-\underline{Vorbereitung}
+**Vorbereitung**
 
 * Arbeitshandschuhe anziehen
-* Feuerstelle bauen. Entzündliches Material im Umkreis entfernen. **Achtung: nicht auf Heide oder Moorboden, weil sich das Feuer dort durchfressen und an anderen Orten wieder aufflammen kann!**
+* Feuerstelle bauen. Entzündliches Material im Umkreis entfernen. **Achtung: Nicht auf Heide oder Moorboden, weil sich das Feuer dort durchfressen und an anderen Orten wieder aufflammen kann!**
 * Feuerstelle nach Möglichkeit mit Steinen oder einem Erdwall eingrenzen, damit es sich nicht unvorhergesehen ausbreiten kann
 * Reisig sammeln (dünne, trockene Zweigchen, Birkenrinde o.ä.)
 * Kleinholz und größeres Holz sammeln (damit das Feuer nicht gleich wieder ausgeht)
 * Unterschiedliche Haufen für variierende Holzdicken machen, damit schnell passend nachgelegt werden kann
 * **Niemals das Feuer unbeaufsichtigt lassen!**
 
-\underline{Anzünden}
+**Anzünden**
 
-Wenn diese Vorbereitungen getroffen sind, gilt es, das Feuer möglichst effektiv anzumachen. Wie sonst auch gilt: Vorbereitung ist die halbe Arbeit. Anfangs wird ein Haufen von Reisich gebildet und dort ein kleiner Aufbau der ausgewählten Feuerart mit dünneren Stöckern gebaut. Sobald der Reisich dann angezündet wurde und sich etwas durchgebrannt hat, kann man anfangen, ein paar Stöcker dazuzulegen und zu blasen. Dabei ist darauf zu achten das Feuer nicht durch zu viel Wind auszublasen oder es durch zu viel Holz zu ersticken - Übung macht den Meister.
+Wenn diese Vorbereitungen getroffen sind, gilt es, das Feuer möglichst effektiv anzumachen. Wie sonst auch gilt: Vorbereitung ist die halbe Arbeit. Anfangs wird ein Haufen von Reisich gebildet und darüber ein kleiner Aufbau der ausgewählten Feuerart mit dünneren Stöckern gebaut. Sobald der Reisich dann angezündet wurde und sich etwas durchgebrannt hat, kann man anfangen, ein paar Stöcker dazuzulegen und zu blasen. Dabei ist darauf zu achten, das Feuer nicht durch zu viel Wind auszublasen oder es durch zu viel Holz zu ersticken - Übung macht den Meister.
 
 ![Ablauf fürs Anzünden eines Feuers](Anzuenden.png){width=75%}
 
-\underline{Nachbereitung}
+**Nachbereitung**
 
-* Wasser oder Sand draufgeben oder Asche mit dem Brenngut verrühren (dauert lange). **Achtung: Asche nur wegschmeißen, wenn sie absolut erloschen ist**
-* Feuerstelle abbauen, Holz wegräumen
+* Wasser oder Sand draufgeben oder Asche mit dem Brenngut verrühren (dauert lange) **Achtung: Asche nur wegschmeißen, wenn sie absolut erloschen ist**
+* Feuerstelle abbauen
+* Vorm Zuschütten der Feuerstelle ein Kreuz aus Stöckern in die Feuerstelle legen
+* Holz wegräumen
 
-**Feuerarten**
+\underline{Feuerarten}
 
-\underline{Sternfeuer}
+**Sternfeuer**
 
-Das Sternfeuer besteht aus einem brennenden Kern, der von in Sternform in die Brennquelle ragenden Hölzern gespeist wird. Abgebranntes Holz wird dadurch kompensiert, dass die Scheite weiter in die Mitte geschoben werden. Durch diese Struktur hat das Sternfeuer einen KLeinen Brennpunkt und hat einne geringen Holzverbrauch. Es wird als Koch- und Wachfeuer verwendet.
+Das Sternfeuer besteht aus einem brennenden Kern, der von in Sternform in die Brennquelle ragenden Hölzern gespeist wird. Abgebranntes Holz wird dadurch kompensiert, dass die Scheite weiter in die Mitte geschoben werden. Durch diese Struktur hat das Sternfeuer einen kleinen Brennpunkt und hat einen geringen Holzverbrauch. Es wird als Koch- und Wachfeuer verwendet.
 
-\underline{Pyramidenfeuer} 
+**Pyramidenfeuer**
 
-Bei dem Pyramidenfeuer werden die Holzscheite in Pyramiedenform aufgestellt. Dadurch entsteht ein sehr heißer Wärmepunkt im Zentrum des Feuers. Deshalb ist es als Kochfeuer mit einer Topfkette und als Wärmefeuer geeignet.
+Bei dem Pyramidenfeuer werden die Holzscheite in Pyramidenform aufgestellt. Dadurch entsteht ein sehr heißer Wärmepunkt im Zentrum des Feuers. Deshalb ist es als Kochfeuer mit einer Topfkette und als Wärmefeuer geeignet.
 
-\underline{Pagodenfeuer}
+**Pagodenfeuer**
 
 Ein Pagodenfeuer entsteht durch das systematische Stapeln der Holzscheite zu einem pagodenähnlichen Turm. Durch diese Struktur kann man gut einen Kochtopf auf das Feuer stellen. Außerdem ist ein Pagodenfeuer hell und hat eine große Wärmestrahlung nach außen.
 
-\underline{Polynesisches Feuer}
+**Polynesisches Feuer**
 
-Das Polynesische Feuer ist ein weiteres Kochfeuer, was gegenüber den vorher genannten Feuerarten aber den Vorteil hat, Wind- und Regengeschützt zu sein, weil es sich in einem Loch befindet. in das Loch werden an die Seiten Holzscheite gestellt, die die Feuerquelle am Boden des Lochs speisen. Durch diese Feuerstrutur gibt es beim Kochen auch fast keinen Wärmeverlust und das Feuer ist von weitem fast unsichtbar.
+Das Polynesische Feuer ist ein weiteres Kochfeuer, was gegenüber den vorher genannten Feuerarten aber den Vorteil hat, Wind- und Regengeschützt zu sein, weil es sich in einem Loch befindet. In das Loch werden an die Seiten Holzscheite gestellt, die die Feuerquelle am Boden des Lochs speisen. Durch diese Feuerstrutur gibt es beim Kochen auch fast keinen Wärmeverlust und das Feuer ist von weitem fast unsichtbar.
 
 ![Visualisierung unterschiedlicher Feuerarten](feuerarten.png){width=100%}
 
@@ -504,7 +506,7 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 
 *Ein Großteil dieser Probe wird bereits auf der A-Schulung besprochen. Trotzdem ist es wichtig, die hier beschriebenen Regel praktisch, beispielsweise anhand eines Fehler-Such-Bildes auf Fahrt zu festigen.* Im Folgenden werden wichtige Umgangsweisen mit den wichtigsten Fahrtenmaterialien genannt.
 
-\underline{Gängige Fahrtenmaterialien:}
+\underline{Gängige Fahrtenmaterialien}
 
 * Säge
 * Beil oder Axt
@@ -542,7 +544,7 @@ Für die \underline{konkreten Holzarten} bedeutet das:
     * Vergleichsweise hitzeresistent
     * Wenn nass wegen Schimmelgefahr zum Trocknen aufhängen
 * Plastiktampen
-    * Können bei Hitze schmilzen, nicht in der Nähe von Feuer benutzen 
+    * Können bei Hitze schmelzen, nicht in der Nähe von Feuer benutzen 
     * Sehr witterungsresistent
 
 \underline{Klappspaten}
@@ -565,11 +567,12 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 
 \underline{Kartoffeln}
 
-#. Kartoffeln schälen und je nach Größe halbieren oder vierteln und waschen
+#. Kartoffeln schälen, je nach Größe halbieren oder vierteln und waschen
 #. In einen Topf füllen und so viel Wasser zufügen, dass die Kartoffeln bedeckt sind
 #. Etwas Salz zugeben und Deckel schließen
 #. Bei großer Hitze zum Kochen bringen
-#. Wenn die Kartoffeln kochen, die Hitze reduzieren und sie 15 -20 Minuten köcheln lassen. Mit der Gabel testen, ob sie gar sind
+#. Wenn die Kartoffeln kochen, die Hitze reduzieren und sie 15-20 Minuten köcheln lassen
+#. Mit der Gabel testen, ob die Kartoffeln gar sind
 #. Wasser abgießen und abdampfen lassen
 
 \underline{Reis}
@@ -586,28 +589,28 @@ Für die Zubereitung von Reis wird die doppelte Menge an Wasser, etwas Salz und 
 
 \underline{Nudeln}
 
-#. Wasser mit einer großzügiger Menge Salz zum Kochen bringen
+#. Wasser mit einer großzügigen Menge Salz zum Kochen bringen
 #. Nudeln in das Wasser geben und je nach Geschmack etwas Fett oder Öl hinzugeben
-#. Je nach Art der Nudeln 8-20 Minuten unter ständigem Rühren Garen (Es ist auf die Packung zu achten und die Nudeln stetig zu probieren) 
+#. Je nach Art der Nudeln 8-20 Minuten unter ständigem Rühren garen (Es ist auf die Packung zu achten und die Nudeln stetig zu probieren) 
 #. Wasser vollständig abgießen
-#. Je nach Geschmack kann noch etwas Butter oder Öl zugegeben werden.
+#. Je nach Geschmack kann noch etwas Butter oder Öl zugegeben werden
 
 ## Du kannst einen Rucksack packen und weißt, was man auf Fahrt mitnimmt.
 
 *Bei dieser Probe kann es klug sein, mit den Sipplingen zusammen nach dem theoretischen Teil praktisch den Rucksack für eine Fahrt zu packen. Zum Beispiel jeder Sippling seinen Rucksack für die Fahrt am folgenden Wochenende.*
 
-Bevor der Rucksack gepackt wird, muss darauf geachtet werden, ob der Wanderrucksack auch gut passt. Entscheidend dafür ist die Größe und, wie er eingestellt ist. Für das Packen gilt die Goldene Regel: **„So viel wie nötig, so wenig wie möglich.“**. Die Sipplinge müssen dafür sensibilisiert werden, dass eine (Wander-)Fahrt nicht der Ausrüstung vom Alltag bedarf, denn **jedes Gramm wandert mit**.
+Bevor der Rucksack gepackt wird, muss darauf geachtet werden, ob der Wanderrucksack auch gut passt. Entscheidend dafür ist die Größe und, wie er eingestellt ist. Für das Packen gilt die goldene Regel: **„So viel wie nötig, so wenig wie möglich“**. Die Sipplinge müssen dafür sensibilisiert werden, dass eine (Wander-)Fahrt nicht der Ausrüstung vom Alltag bedarf, denn **jedes Gramm wandert mit**.
 
 Beim Packen eines Rucksacks gilt es zwei Punkte zu beachten, wenn Gegenstände verstaut werden: 
 
-#. Wo muss ich die Sachen hinpacken, damit der Rucksack insgesamt am leichtesten bleibt? 
-#. Wie oft benutze ich diese Sache und wo sollte ich sie deswegen hinpacken, um gut auf sie zugreifen zu können? 
+#. Wo muss ich die Sachen hinpacken, damit der Rucksack insgesamt leicht bleibt? 
+#. Wie oft benutze ich diese Sache und wo sollte ich es deswegen hinpacken, um gut auf die Sache zugreifen zu können? 
 
-Deshalb ist es klug, wie in Abbildung 15 zu sehen ist, schwere Gegenstände an den Rücken des Rucksacks zu packen, weil dort die geringste Hebelwirkung gilt. Außerdem sollte darauf geachtet werden, dass keine Gegenstände draußen am Rucksack befestigt sind oder dort rumbaumeln, weil das beim Wandern nervig ist, und durch die Bewegungen einen Widerstand aufbaut. Wichtige Sachen wie die Taschenlampe, das Brotbrettchen, ein Messer etc. werden gerne im Deckelfach aufbewahrt, weil sie dort schnell zu erreichen sind. Außerdem ist es sinnvoll, den Schlafsack mit allen weiteren Schlafsacken in das unterste Fach des Rucksacks zu packen, da dieser auf keinen Fall nass werden darf und dort am besten geschützt ist. 
+Deshalb ist es klug, wie in Abbildung 15 zu sehen ist, schwere Gegenstände an den Rücken des Rucksacks zu packen, weil dort die geringste Hebelwirkung greift. Außerdem sollte darauf geachtet werden, dass keine Gegenstände draußen am Rucksack befestigt werden oder dort rumbaumeln, weil das beim Wandern nervig ist, und durch die Bewegungen einen Widerstand aufbaut. Wichtige Sachen wie die Taschenlampe, das Brotbrettchen, ein Messer etc. werden gerne im Deckelfach aufbewahrt, weil sie dort schnell zu erreichen sind. Außerdem ist es sinnvoll, den Schlafsack mit allen weiteren Schlafsachen in das unterste Fach des Rucksacks zu packen, da dieser auf keinen Fall nass werden darf und dort am besten geschützt ist. 
 
 ![Packhilfe für einen Rucksack](packen.png){width=50%}
 
-Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variiren. Die hier angeführte Packliste fasst aber die wichtigsten Gegenstände zusammen: 
+Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. Die hier angeführte Packliste fasst aber die wichtigsten Gegenstände zusammen: 
 
 * Schlafsack
 * Rucksack (gut sitzend und für eine Wanderung tragbar)
@@ -626,7 +629,7 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variiren. D
 * Kluft (schon angezogen) ggf. Halstuch + Stift (!)
 * Stammespullover (schon angezogen)
 * Regenjacke oder ggf. JuJa
-* ggf. Sippen- oder Stammes- T-Shirt
+* ggf. Sippen- oder Stammes-T-Shirt
 * ggf. Stammespullover
 * ausreichend Wechselwäsche
 * Stammesliederbuch
@@ -653,38 +656,38 @@ Eine Konuss ist ein Trinkgefäß, das aus der ausgehöhlten unteren Hälfe einer
 
 \underline{Gefäß aus Birkenrinde}
 
-Ein solches Gefäß braucht in der Zubereitung viel Ruhe und Feingefühl. Vor allem werden zwei große Birkenrindenstücke benötigt, um die Probe durchführen zu können. 
+Ein solches Gefäß braucht in der Zubereitung viel Ruhe und Feingefühl. Vor allem werden zwei große Birkenrindenstücke benötigt, um die Probe durchführen zu können. Zum Formen eines stabilen Gefäßes eignet sich Birkenrinde am meisten.
 
 #. Das größere Birkenrindenstück wird in eine rechteckige Form gebracht. Das kleinere Stück bekommt eine runde Form, die als Boden fungieren wird.
 #. Mit dem größeren der beiden Stücke Birkenrinde wird ein Zylinder geform. Dieser wird mit Sekundenkleber fixiert und durch Garn gefestigt. 
 #. Das kleiere, runde Stück wird als Boden an dem Zylinder mit Klebe und Garn befestigt. 
-#. Gegebenenfalls wird die Lücke zwischen Boden und Rand außen mit Wachs oder Klebe abgeschlossen 
+#. Gegebenenfalls wird die Lücke zwischen Boden und Rand außen mit Wachs oder Klebe verschlossen 
 
 \underline{Trinkgefäß schnitzen}
 
 Das Schnitzen eines Gefäßes aus Holz erfordert viel Kreativität und Durchhaltevermögen. Besonders gut zum Schnitzen eignen sich Lindenholz, Ahornholz und Zirbelholz. Generell kann man sagen, dass Holz mit breiten Jahresringen weicher als Holz mit engen Jahresringen ist. Außerdem kann man sprödes Holz durch das Besprühen mit etwas Wasser wieder geschmeidiger machen. Als unterstützende Werkzeuge zum Schnitzen werden neben einem Messer vor allem ein Bohrer, ein Löffelmesser und ein rundes Stämmeisen empfohlen. 
 
-#. Einen quadratischen Klotz der oben genannten Holzarten vorbereiten, damit damit das Trinkgefäß geschnitzt werden kann. 
+#. Einen quadratischen Klotz der oben genannten Holzarten vorbereiten, damit damit das Trinkgefäß daraus geschnitzt werden kann. 
 #. Ein breites Loch in die Mitte des Klotzes (nicht ganz durch!) bohren. Von dort wird angefangen zu schnitzen. 
-#. Zuerst die Äußere Form des Gefäßes schnitzen und dann von dem Loch aus eine Einhöhlung entwerfen. 
-#. Dem fertigen Gefäß mit Schmirgelpapier eine Weiche Oberfläche verleihen
-#. Das Holz mehrfach mit Olivenöl bearbeiten und / oder es außen mit durchsichtigem Lack lackieren.
+#. Zuerst die äußere Form des Gefäßes schnitzen und dann von dem Loch aus eine Einhöhlung entwerfen. 
+#. Dem fertigen Gefäß mit Schmirgelpapier eine weiche Oberfläche verleihen
+#. Das Holz mehrfach mit Olivenöl behandeln und / oder es außen mit durchsichtigem Lack lackieren.
 
 # Natur
 
-Ganz nach dem Pfadfindergesetz *'Ein Pfadfinder schützt die Natur und bewahrt die Schöpfung.'* soll dieser wichtige Teil eines Pfadfinders nicht vernachlässigt werden. Als Pfadfinder verbringen wir einen Großteil unserer Fahrtenzeit mitten in der Schöpfung Gottes Deswegen ist es wichtig, diese Umgebung zu kennen und zu schätzen.
+Ganz nach dem Pfadfindergesetz *'Ein Pfadfinder schützt die Natur und bewahrt die Schöpfung'* soll dieser wichtige Teil eines Pfadfinders nicht vernachlässigt werden. Als Pfadfinder verbringen wir einen Großteil unserer Fahrtenzeit mitten in der Schöpfung Gottes. Deswegen ist es wichtig, diese Umgebung zu kennen und zu schätzen.
 
 ## Du kannst fünf verschiedene Pflanzen und Sträucher unserer Wälder nach ihrem Aussehen und ihren Früchten bestimmen.
 
-*Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem in einem Memorie die Blätter den Früchten zugeordnet werden (ein fertiges Memorie ist im Anhang zu finden). Genauso kann man auch ein Quizz machen.*
+*Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem in einem Memorie die Blätter den Früchten zugeordnet werden (ein fertiges Memorie ist im Anhang zu finden). Genauso kann man auch ein Quizz machen. Hier werden zehn Beispiele genannt, die auch auf fünf eingeschränkt werden können.*
 
-In dieser Probe beschränken wir uns nicht nur auf Sträucher, sondern behandeln als Pflanzen unter anderem Bäume. Die Pflanzen werden anhand ihrer Blätter und Früchte identifiziert.
+In dieser Probe beschränken wir uns nicht nur auf Sträucher, sondern behandeln als Pflanzen vor allem Bäume. Die Pflanzen werden anhand ihrer Blätter und Früchte identifiziert.
 
 \underline{Linde}
 
-Eine der in Deutschland am weitesten verbreiteten Baumarten ist die Linde. Sie kommt aber auch in anderen Ländern in Mitteleuropa vor und kann besonders gut in genäßigten bis subtropischen Gebieten gedeihen.
+Eine der in Deutschland am weitesten verbreiteten Baumarten ist die Linde. Sie kommt aber auch in anderen Ländern in Mitteleuropa vor und kann besonders gut in gemäßigten bis subtropischen Gebieten gedeihen.
 
-![Skizze von Blatt und Frucht des Linde](linde.png){width=60%}
+![Skizze von Blatt und Frucht der Linde](linde.png){width=60%}
 
 \underline{Hainbuche}
 
@@ -718,7 +721,7 @@ Ein gängier Baum, der noch mehr Arten als die Ulme hat, ist die Weide. Sie ist 
 
 \underline{Rostkastanie}
 
-Vor allem im Herbst entfaltet sie ihre volle Schönheit: die Rostkastanie. Kaum ein Baum ist durch seine Frucht, die Kastanie, so beliebt für bastelarbeiten wie die Rostkastanie. Die Rostkastanie ist in Nordamerika, Europa und Asien aufzufinden.
+Vor allem im Herbst entfaltet sie ihre volle Schönheit: die Rostkastanie. Kaum ein Baum ist durch seine Frucht, die Kastanie, so beliebt für Bastelarbeiten wie die Rostkastanie. Die Rostkastanie ist in Nordamerika, Europa und Asien aufzufinden.
 
 ![Skizze von Blatt und Frucht der Rostkastanie](rostkastanie.png){width=60%}
 
@@ -730,21 +733,21 @@ Der Strauch der Hasel, besser bekannt als Haselstrauch oder Haselnussstrauch, is
 
 \underline{Kirsche}
 
-Auch der Kirschbaum ist vermutlich durch seine Fruch bekannt, die vor allem im Sommer gerne verzehrt wird. Die Frucht der Kirsche befindet sich in einem Kirschbaum. Neben der in Deutschland als Speisekirsche bekannte Kirsche gibt es auch noch viele andere Kirschsorten.
+Auch der Kirschbaum ist vor allem durch seine Fruch bekannt, die gerne im Sommer verzehrt wird. Die Frucht der Kirsche befindet sich an einem Kirschbaum. Neben der in Deutschland als Speisekirsche bekannten Kirsche gibt es auch noch viele andere Kirschsorten.
 
 ![Skizze von Blatt und Frucht des Kirschbaums](kirsche.png){width=60%}
 
 \underline{Weißdorne}
 
-Die Weißdorne ist ein in Deutschland mit drei unterschiedlichen Arten vertretener Strauch. Er ist außerdem in Nordamerika und anderen Ländern Europas verbreitet und erfreut dort vor allem durch schöne, weiße Blüten im Sommer.
+Die Weißdorne ist ein in Deutschland mit drei unterschiedlichen Arten vertretener Strauch. Er ist außerdem in Nordamerika und anderen Ländern Europas verbreitet und überzeugt dort vor allem durch schöne, weiße Blüten im Sommer.
 
 ![Skizze von Blatt und Frucht der Weißdorne](weissdorn.png){width=60%}
 
 ## Du bestimmst das Sternbild des Großen Wagens (Gr. Bär) und den Polarstern.
 
-*Es ist lohnenswert, diese Probe kreativ anzugehen. Ein Beispiel für einen kreativen Sternen-Sippenabend ist es, die Sternenbilder in eine dunkle Oberfläche zu stechen und in einem abgedunkelten Raum durch eine einzige Lichtquelle an die Decke zu projezieren. Noch besser ist es natürlich, auf Fahrt diese Sternenbilder durchzusprechen und zu entdecken.*
+*Es ist lohnenswert, diese Probe kreativ anzugehen. Ein Beispiel für einen kreativen Sternen-Sippenabend ist es, die Sternenbilder in eine dunkle Oberfläche zu stechen und die Sterne in einem abgedunkelten Raum durch eine einzige Lichtquelle an die Decke zu projezieren. Noch besser ist es natürlich, auf Fahrt diese Sternenbilder durchzusprechen und zu entdecken.*
 
-Der Große Wagen, auch Großer Bär genannt, ist das wohl einfachste Sternenbild und kann meistens bei sternenklarer Nacht erkannt werden. Wie der Große Wagen aussieht, ist in Abbildung 16 dargestellt. 
+Der Große Wagen, auch Großer Bär genannt, ist das wohl einfachste Sternenbild und kann meistens bei sternenklarer Nacht erkannt werden. Wie der Große Wagen aussieht, ist in Abbildung 26 dargestellt. 
 
 Wenn man die hintere Achse des Großen Wagens 5x verlängter, kommt man zum Polarstern. Dieser Stern ist zur Orientierung besonders wichtig, weil er immer im Norden steht. Außerdem ist er Teil des Kleinen Wagens und stellt den Griff dieses Sternenbilds dar. 
 
@@ -754,7 +757,7 @@ Wenn man die hintere Achse des Großen Wagens 5x verlängter, kommt man zum Pola
 
 # Musisches
 
-Wer schonmal einen fetzigen Tschaiabend miterlebt hat, wird sich bewusst sein, wie wichtig Musisches bei uns als Pfadfinder ist. Musisches bietet, wie diese Probenhilfe zeigt, aber noch viel mehr als nur zu singen und zu basteln...
+Wer schonmal einen fetzigen Tschaiabend miterlebt hat, wird sich bewusst sein, wie wichtig Musisches bei uns als Pfadfinder ist. Musisches bietet, wie diese Probenhilfe zeigt, aber noch viel mehr, als nur zu singen und zu basteln...
 
 ## Du hast in Dein Pfadfinderbuch das nötige Pfadfinderwissen eingeschrieben.
 
@@ -785,12 +788,12 @@ In ein Probenbuch gehören unter anderem folgende Inhalte, die es gilt im Proben
 * Planung in Halbjahresplänen auf der Ulanenfahrt
 * Erreicht seinen Höhepunkt im letzten Viertel
 * Zeiteinteilung: Für manche Programmpunkte (Liederbücher etc.) werden mehrere Sippenabende benötigt
-* Gut geplant ist wichtig, die Sipplinge merken es wenn 10 Minuten vor dem Sippenabend geplant wurde
+* Gut geplant ist wichtig, die Sipplinge merken es, wenn 10 Minuten vor dem Sippenabend geplant wurde
 * Genauso wichtig ist eine kreative Gestaltung der Inhalte
 * Bei gutem Wetter bietet es sich natürlich an, draußen Programm zu machen (z.B. Rallye, Fußball, Garten) auch, wenn eigentlich etwas anderes geplant war - deswegen Alternativprogramm vorbereiten!
 * Viel auf- oder abschreiben sollte man eher auf Fahrt machen, weil man nur eine Wochenstunde Sippenabend hat
 
-Es gibt fünf unterschiedliche Sippenabendtypen, für die es sich lohnt, ein Beispiel in der Sippe zu besprechen: 
+Es gibt fünf unterschiedliche **Sippenabendtypen**, für die es sich lohnt, ein Beispiel in der Sippe zu besprechen: 
 
 * Spielesippenabend
     * Spiele im Garten, Gesellschaftsspiele, Schatzsuche, Rallye etc.
@@ -822,27 +825,26 @@ Eine Auswahl von möglichen Spielen wäre folgende:
 
 Die Erstellung einer Fahrtenchronik ist für eine Sippe wichtig, weil sie das Erlebte für spätere Tage zusammenfasst. In dem aktuellen Moment mag das nicht relevant erscheinen, doch später erinnert man sich gerne an die Zeit in der eigenen Sippe. Außerdem stärkt es den Sippengeist ein gemeinsames Werk zu haben. *Sollte deine Sippe noch keine Chronik haben, kann das ein Anstoß sein, nun mit einer (möglichst auch mit Fotos!) anzufangen.*
 
-Neben Sippenfahrtseinträgen von den Sipplingen kann es auch schön sein, die Sippenchronik gemeinsam zu verzieren und als Sippe die vergangenen Fahrten mit Hilfe der Chronik revue passieren zu lassen. Besonders schön ist es dabei, wenn auch Fotos von den Fahrten in der Sippenchronik vorhanden sind. 
+Neben Sippenfahrtseinträgen von den Sipplingen kann es auch schön sein, die Sippenchronik gemeinsam zu verzieren und als Sippe die vergangenen Fahrten mit Hilfe der Chronik revue passieren zu lassen. Besonders schön ist es dabei, wenn auch Fotos von den Fahrten in der Sippenchronik zu finden sind. 
 
 # Neigungsproben
 
-Die Neigungsproben stellen einen variableren Teil der Pfadfinderproben dar. Dieser Teil ist genauso wichtig wie alle anderen Proben, passt aber nicht in die Einteilung der Grundlegenden 'Pfadfinderelemente'.
+Die Neigungsproben stellen einen variableren Teil der Pfadfinderproben dar. Dieser Teil ist genauso wichtig wie alle anderen Proben, passt aber nicht in die Einteilung der grundlegenden 'Pfadfinderelemente'.
 
 ## Du weißt, wie man sich bei Bränden und Unfällen verhält und erste Hilfsmaßnahmen einleitet.
 
-*Um das hier gesammelte theoretische Wissen zu festigen, kann es sinnvoll sein, anhand eines Rollenspiels sie vorher besprochenen Schritte durchzuspielen.*
+*Um das hier gesammelte theoretische Wissen zu festigen, kann es sinnvoll sein, anhand eines Rollenspiels die vorher besprochenen Schritte durchzuspielen.*
 
 Wenn ein Unfall oder ein Brand auf Fahrt passiert, gibt es ein paar grundlegende Regeln, die eingehalten werden müssen, bevor Maßnahmen zur Erste-Hilfe oder andere Schritte eingeleitet werden.[^footnote4]
 
-[^footnote4]: Detailliertere Informationen zur Ersten-Hilfe und anderen Notfallmaßnahmen finden sich in dem 'Sippenführer' ab Seite 79.
+[^footnote4]: Detailliertere Informationen zur Ersten-Hilfe und anderen Notfallmaßnahmen sind in dem 'Sippenführer' ab Seite 79 zu finden.
 
 \underline{Verhalten bei Unfällen}
 
 #. **Ruhe bewahren**
-#. Hilfe holen
 #. Notruf tätigen
 #. Den Verletzten beruhigen
-#. Wenn keine Sippenführer in der Nähe sind, Hilfe zum Beispiels in einem naheliegenden Dorf holen. Bei mehreren Anwesenden sollte mindestens einer beim Verletzten bleiben
+#. Wenn keine Sippenführer in der Nähe sind, Hilfe, zum Beispiel in einem naheliegenden Dorf, holen. Bei mehreren Anwesenden sollte mindestens einer beim Verletzten bleiben
 #. Erste Hilfe Maßnahmen einleiten
 
 \underline{Verhalten bei einem Brand}
@@ -855,7 +857,7 @@ Wenn ein Unfall oder ein Brand auf Fahrt passiert, gibt es ein paar grundlegende
 
 \underline{Notruf}
 
-Sobald man beim Notruf mit der Zentrale verbunden ist, müssen die 6 W-Fragen beantwortet werden. Du muss sie dir nicht zwingend merken, die Beamten fragen nach allem, was sie wissen müssen. 
+Sobald man beim Notruf mit der Zentrale verbunden ist, müssen die fünf W-Fragen beantwortet werden. Du muss sie dir nicht zwingend merken, die Beamten fragen nach allem, was sie wissen müssen. Trotzdem sind die W-Fragen folgende:
 
 * Wer ruft an?
 * Was ist passiert?
@@ -868,13 +870,13 @@ Sobald man beim Notruf mit der Zentrale verbunden ist, müssen die 6 W-Fragen be
 
 Wenn die oben beschriebenen Schritte abgeschlossen sind, hat man rechtlich seine mindeste Pflicht getan. Rechtlich ist man nämlich nur verpflichtet, Hilfe zu Holen und den Notruf zu wählen. Trotzdem können Erste-Hilfe-Maßnahmen helfen, bis der Krankenwagen da ist. Deswegen wollen wir hier ein paar Grundlagen erläutern. Trotzdem werden diese Grundlagen aber zusätzlich für Sippenführer in Erste-Hilfe Kursen aufgefrischt und von Profis vemrittelt.
 
-Ergänzend zu den oben genannten Schritten können beim Auffinden einer Person unterschiedliche Schritte der ersten Hilfe ausgeführt werden, wie in Abbildung 17 zu erkennen ist. Zuerst wird durch Ansprechen das Bewusstsein der Verletzten überprüft, falls der Patient nicht bewusst ist, wird die Atmung überprüft. Sollte der Patient nicht atmen, ist eine Herzdruckmassage einzuleiten, die hier aber nicht thematisiert wird.
+Ergänzend zu den oben genannten Schritten können beim Auffinden einer Person unterschiedliche Schritte der ersten Hilfe ausgeführt werden, wie in Abbildung 27 zu erkennen ist. Zuerst wird durch Ansprechen das Bewusstsein des Verletzten überprüft. Falls der Patient sein Bewusstsein verloren hat, wird die Atmung überprüft. Sollte der Patient nicht atmen, ist eine Herzdruckmassage einzuleiten, die hier aber nicht thematisiert wird.
 
 ![Ablauf von Maßnahmen am Unfallort](erstehilfe.jpg){width=60%}
 
 **Stabile Seitenlage**
 
-Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzleiten, wenn der Verletzte kein Bewusstsein mehr besitzt, aber atment. Sie ist wichtig, um die Schmerzen erträglicher zu machen aber vor allem, damit der Patient nicht an seiner Zunge oder an Erbrochenem ersticken kann. Zusätzlich zu der stabilen Seitenlage sollte der Puls und die Atmung des Patienten stetig überprüft und eine Decke zum über- unterlegen besorgt werden. 
+Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzuleiten, wenn der Verletzte kein Bewusstsein mehr besitzt, aber atment. Sie ist wichtig, um die Schmerzen erträglicher zu machen aber vor allem, damit der Patient nicht an seiner Zunge oder an Erbrochenem ersticken kann. Zusätzlich zu der stabilen Seitenlage sollte der Puls und die Atmung des Patienten stetig überprüft und eine Decke zum über- & unterlegen besorgt werden. Außerdem muss darauf geachtet werden, den Betroffenen möglichst nicht auf eine Wunde oder Verletzung zu drehen.
 
 ![Skizze der stabilen Seitenlage](seitenlage.png){width=40%}
 
@@ -897,7 +899,7 @@ rechten Winkel zur Hüfte liegt
 
 ## Auswahlweise Neigungsproben
 
-Aus den folgenden drei Proben kann der Sippling zwei auswählen. Genauer gesagt kann er entweder die zwei hier vorgesehenen Proben machen oder eine der Proben durch eine individuell, mit dem Sippenführer abgesprochene Probe ersetzen. 
+Aus den folgenden drei Proben kann der Sippling zwei auswählen. Genauer gesagt kann er entweder die zwei hier vorgesehenen Proben machen oder eine der Proben durch eine individuell mit dem Sippenführer abgesprochene Probe ersetzen. 
 
 ### Du besprichst mit Deinem Sippenführer eine Sonderprobe, die Du gerne erfüllen möchtest.
 
@@ -913,7 +915,7 @@ Diese Probe ist wahlweise von dem Sippenführer auszuwählen. Es gilt darauf zu 
 
 \underline{Einnorden}
 
-Das Einnorden einer Karte ist wichtig, um die Karte mit der Umgebung um sich herum in Zusammenhang bringen zu können. Bevor man mit Karte und Kompass loswandert, ist es also notwendig die Karte einzunorden. Eine Karte wird wie folgt eingenordet: 
+Das Einnorden einer Karte ist wichtig, um die Karte mit der Umgebung um sich herum in Zusammenhang bringen zu können. Bevor man mit Karte und Kompass loswandert, ist es also notwendig, die Karte einzunorden. Eine Karte wird wie folgt eingenordet: 
 
 #. Kompass an Rasterlinien anlegen
 #. Karte so lange drehen, bis die Karte mit der Nadel in eine Richtung, nach Norden zeigt
@@ -935,7 +937,7 @@ Wandern nach Marschzahl ist sinnvoll, wenn man gerade auf ein Ziel zu wandern wi
 
 #. Ziel mit Kompass anpeilen 
 #. Die Kompassdose so weit drehen, dass die Nordspitze der Nadel über der Nordmarkierung am Kompass liegt
-#. Dadurch wurde die Richtung in Grad zum Zielpunkt emrittelt, die am hinteren Ende des Kompasses abgelesen werden kann
-#. Um zum Ziel zu kommen, muss man nun stetig mit dieser ermittelten Gradzahl - der Marschzahl - wandern und gucken, dass sich der Grad zum Ziel nicht verändert
+#. Dadurch wurde die Richtung in Grad zum Zielpunkt ermittelt, die am hinteren Ende des Kompasses abgelesen werden kann
+#. Um zum Ziel zu kommen, muss man nun stetig nach dieser ermittelten Gradzahl - der Marschzahl - wandern und gucken, dass sich der Grad zum Ziel nicht verändert
 
-*Die Ermittlung der Marschzahl mit Hilfe der Karte (wenn man das Ziel nicht direkt anpeilen kann) funktioniert indem man den Kompass auf die Gerade zwischen der eigenen Position und dem Ziel legt und die Kompassdose genau so wie oben beschrieben dreht.*
+Die Ermittlung der Marschzahl mit Hilfe der Karte (wenn man das Ziel nicht direkt anpeilen kann) funktioniert indem man den Kompass auf die Gerade zwischen der eigenen Position und dem Ziel legt und die Kompassdose genau so wie oben beschrieben dreht.
