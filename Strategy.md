@@ -842,8 +842,8 @@ Wenn ein Unfall oder ein Brand auf Fahrt passiert, gibt es ein paar grundlegende
 \underline{Verhalten bei Unfällen}
 
 #. **Ruhe bewahren**
+#. Den Verletzten beruhigen & Verletzung feststellen
 #. Notruf tätigen
-#. Den Verletzten beruhigen
 #. Wenn keine Sippenführer in der Nähe sind, Hilfe, zum Beispiel in einem naheliegenden Dorf, holen. Bei mehreren Anwesenden sollte mindestens einer beim Verletzten bleiben
 #. Erste Hilfe Maßnahmen einleiten
 
@@ -868,7 +868,7 @@ Sobald man beim Notruf mit der Zentrale verbunden ist, müssen die fünf W-Frage
 
 \underline{Erste-Hilfe}
 
-Wenn die oben beschriebenen Schritte abgeschlossen sind, hat man rechtlich seine mindeste Pflicht getan. Rechtlich ist man nämlich nur verpflichtet, Hilfe zu Holen und den Notruf zu wählen. Trotzdem können Erste-Hilfe-Maßnahmen helfen, bis der Krankenwagen da ist. Deswegen wollen wir hier ein paar Grundlagen erläutern. Trotzdem werden diese Grundlagen aber zusätzlich für Sippenführer in Erste-Hilfe Kursen aufgefrischt und von Profis vemrittelt.
+Wenn die oben beschriebenen Schritte abgeschlossen sind, hat man rechtlich seine mindeste Pflicht getan. Rechtlich ist man nämlich nur verpflichtet, Hilfe zu holen und den Notruf zu wählen. Trotzdem können Erste-Hilfe-Maßnahmen helfen, bis der Krankenwagen da ist. Deswegen wollen wir hier ein paar Grundlagen erläutern. Trotzdem werden diese Grundlagen aber zusätzlich für Sippenführer in Erste-Hilfe Kursen aufgefrischt und von Profis vemrittelt.
 
 Ergänzend zu den oben genannten Schritten können beim Auffinden einer Person unterschiedliche Schritte der ersten Hilfe ausgeführt werden, wie in Abbildung 27 zu erkennen ist. Zuerst wird durch Ansprechen das Bewusstsein des Verletzten überprüft. Falls der Patient sein Bewusstsein verloren hat, wird die Atmung überprüft. Sollte der Patient nicht atmen, ist eine Herzdruckmassage einzuleiten, die hier aber nicht thematisiert wird.
 
@@ -896,6 +896,7 @@ rechten Winkel zur Hüfte liegt
 #. Hals überstrecken, damit die Atemwege frei werden
 #. Mund des Betroffenen leicht öffnen
 #. Die an der Wange liegende Hand so ausrichten, dass der Hals die Hand berührt
+#. Bei dem Verletzten bleiben und Überstreckung des Halses regelmäßig kontrollieren
 
 ## Auswahlweise Neigungsproben
 
