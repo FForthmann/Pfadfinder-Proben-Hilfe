@@ -93,7 +93,7 @@ Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönli
     * Thema & passende Bibelstellen auswählen
     * Wichtige Kernbotschaften identifizieren und über kreative Gestaltung nachdenken
     * Mit anderen Ulanen über das Thema austauschen und Gott mit einbeziehen
-    * Reinschrift anfertigen, Lieder für die Andacht auswählen und ggf. Requisiten besorgen
+    * Reinschrift anfertigen, Lieder f.d. Andacht auswählen und ggf. Requisiten besorgen
 * Beginn der Andacht mit einem gemeinsamen Gebet (evtl. auch zusätzlich mit einem Lied)
 * Verkündigung
 * Stille Zeit und Anbetung 
@@ -181,8 +181,6 @@ Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige
 
   : Vorlage für Ämterbesetzung
   
-\pagebreak
-  
 Außerdem sind folgende Kennzahlen zu besprechen: 
 
 * Anzahl der Stammesmitglieder
@@ -203,6 +201,8 @@ On my honour I promise that I will do my best –
 * To do my duty to God and the King (or to God and my Country)
 * To help other people at all times
 * To obey the Scout Law
+
+\pagebreak
 
 ## Du kennst die Stammesgeschichte in ihrern Grundzügen.
 
@@ -294,13 +294,13 @@ Auf dem Weg zum Sippenführer ist es besonders wichtig, grundlegende Fahrtenbaut
 
 [^footnote3]: Weitere Informationen zu wichtigen Fahrtenbauten sind in dem 'Sippenführer' ab Seite 109 zu finden. Dort werden unter anderem der Frosch, die Kröte, der Mor og barn und Jurten thematisert. 
 
-\pagebreak
-
 \underline{Waldpenner}
 
 Der Waldpenner ist ein Ein-Personen-Zelt mit begrenztem Platz: Leute über 1,60 cm ragen leider aus dem Zelt heraus, schlafen also mit dem Kopf mehr oder weniger im Freien. Auch bläst einem der Wind gerne den Regen ins Zelt. Dafür ist der Waldpenner schnell nur mit einer Kohtenbahn aufzubauen und kann im Notfall auch zwei Menschen  ohne Rucksäcke beherbergen. Zum Aufbau benötigt man neben einer Kohtenbahn eine 100 cm hohe Stütze und fünf Heringe.
 
 ![Skizze eines Waldpenners](Waldpenner.jpg){width=100%}
+
+\pagebreak
 
 Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldpenner gegenüber zu stellen. Ein solches Konstrukt nennt man eine Kröte. Dort werden zusätzlich die Kohtenbahnen in der Mitte zusammengeknüpft und nur eine Stütze benutzt. Dadurch gibt es am Kopfende des Waldpenners kein Loch mehr, welches Platz für Wind oder Regen lässt. 
 
@@ -328,6 +328,8 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 * 1x ca. 4 m lange Kohtenstange
 * 2x ca. 1 m lange Stangen fürs Kohtenkreuz
 
+\pagebreak
+
 *Aufbauschritte:*
 
 #. Knüpfen & Regenknebel schließen
@@ -341,6 +343,8 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 ## Du kannst den Palstek (Weberknoten), Mastwurf, Achterknoten, Spannzug sowie den Kreuz-, Parallel- und Dreibocksbund.
 
 *Auch bei dieser Probe muss die Anwendung praktisch erfolgen. Ganz nach BPs Pfadfinderprinzip 'Learning by doing' lernen die Sipplinge Knoten nur in der praktischen Anwendung. Man kann beispielsweise mit Tampen üben und später zwischen den Sipplingen einen Geschwindigkeitswettbewerb veranstalten oder die Knoten mit Süßigkeitenschlangen erstellen.*
+
+\pagebreak
 
 \underline{Palstek (Weberknoten)}
 
@@ -356,6 +360,8 @@ Der Mastwurf ('Autobahnknoten') wird als Knoten zum Festmachen an einem Baum ode
 
 ![Skizze eines Mastwurfs](Mastwurf.png){width=45%}
 
+\pagebreak
+
 Das Gegenstück zum Mastwurf ist der Zimmermannsschlag, der an dieser Stelle kurz erwähnt werden soll. Mit ihm werden Bünde begonnen.
 
 ![Skizze eines Zimmermannsschlags](Zimmermann.png){width=30%}
@@ -365,6 +371,8 @@ Das Gegenstück zum Mastwurf ist der Zimmermannsschlag, der an dieser Stelle kur
 Als besonderer Überhandknoten (gängiger 'normaler' Knoten) hat sich der Achterknoten etabliert. Bei der Erstellung dieses Knotens macht man eine Extrarunde um das Seil und erstellt dadurch einen voluminösen Knoten. Deswegen wird der Achterknoten in der Praxis als Stoppknoten am Ende eines Tampen verwendet. Um einen noch größeren Achterknoten zu erzeugen, kann man den Achterknoten mit doppeltem Seil erstellen. Dieser Knoten nennt sich dann Doppelter Achterknoten.
 
 ![Erstellungsprozess eines Achterknotens](Achterknoten.png){width=40%}
+
+\pagebreak
 
 \underline{Spannzug}
 
@@ -377,6 +385,8 @@ Zur Erstellung dieses Spannzugs wird ungefähr auf der Hälfte des Seils ein Sli
 Mindestens genauso wichtig wie ein Spannzug ist das normale Abspannen mit Halben Schlägen. Leider hält der Abspannknoten nicht wirklich bombenfest. Der große Vorteil an dem Knoten ist jedoch, dass man leicht durch Hochschieben der Schlingen nachspannen kann. Gerne dehnen sich nämlich Kohtenbahnen ein wenig, wenn sie länger stehen oder es geregnet hat.
 
 ![Skizze von mehreren Halben Schlägen](Abspann.png){width=50%}
+
+\pagebreak
 
 \underline{Kreuzbund}
 
@@ -393,6 +403,8 @@ Dieser Bund ist zu verwenden, wenn zwei Stangen wirklich parallel gehalten werde
 Ein Parallelbund wird durch das einfache Umwickeln zweier Stangen und das anschließende Knebeln zwischen beiden Stangen erstellt.
 
 ![Skizze des Parallelbundes](Parallel.png){width=55%}
+
+\pagebreak
 
 \underline{Dreibocksbund}
 
@@ -415,6 +427,8 @@ Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Sch
 * Kleinholz und größeres Holz sammeln (damit das Feuer nicht gleich wieder ausgeht)
 * Unterschiedliche Haufen für variierende Holzdicken machen, damit schnell passend nachgelegt werden kann
 * **Niemals das Feuer unbeaufsichtigt lassen!**
+
+\pagebreak
 
 **Anzünden**
 
@@ -581,7 +595,7 @@ Beim Packen eines Rucksacks gilt es zwei Punkte zu beachten, wenn Gegenstände v
 
 Deshalb ist es klug, wie in Abbildung 15 zu sehen ist, schwere Gegenstände an den Rücken des Rucksacks zu packen, weil dort die geringste Hebelwirkung greift. Außerdem sollte darauf geachtet werden, dass keine Gegenstände draußen am Rucksack befestigt werden oder dort rumbaumeln, weil das beim Wandern nervig ist, und durch die Bewegungen einen Widerstand aufbaut. Wichtige Sachen wie die Taschenlampe, das Brotbrettchen, ein Messer etc. werden gerne im Deckelfach aufbewahrt, weil sie dort schnell zu erreichen sind. Außerdem ist es sinnvoll, den Schlafsack mit allen weiteren Schlafsachen in das unterste Fach des Rucksacks zu packen, da dieser auf keinen Fall nass werden darf und dort am besten geschützt ist. 
 
-![Packhilfe für einen Rucksack](packen.png){width=50%}
+![Packhilfe für einen Rucksack](packen.png){width=41%}
 
 Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. Die hier angeführte Packliste fasst aber die wichtigsten Gegenstände zusammen: 
 
@@ -613,6 +627,8 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 
 **Nicht mitnehmen: technische Geräte, Föhn oder unnötiges Gepäck**
 
+\pagebreak
+
 ## Du fertigst Dir ein Trinkgefäß aus Naturprodukten an.
 
 *Bei dieser Probe sind dem Sippenführer keine Grenzen gesetzt. Vielleicht lohnt es sich auch, mit den Sipplingen kreative Ideen für ein Trinkgefäß aus Naturprodukten zu sammeln.* Trotzdem sind hier drei Vorschläge für Trinkgefäße aus Naturprodukten. 
@@ -635,6 +651,8 @@ Ein solches Gefäß braucht in der Zubereitung viel Ruhe und Feingefühl. Vor al
 #. Mit dem größeren der beiden Stücke Birkenrinde wird ein Zylinder geform. Dieser wird mit Sekundenkleber fixiert und durch Garn gefestigt. 
 #. Das kleiere, runde Stück wird als Boden an dem Zylinder mit Klebe und Garn befestigt. 
 #. Gegebenenfalls wird die Lücke zwischen Boden und Rand außen mit Wachs oder Klebe verschlossen 
+
+\pagebreak
 
 \underline{Trinkgefäß schnitzen}
 
@@ -664,6 +682,8 @@ Eine der in Deutschland am weitesten verbreiteten Baumarten ist die Linde. Sie k
 
 ![Skizze von Blatt und Frucht der Linde](linde.png){width=60%}
 
+\pagebreak
+
 \underline{Hainbuche}
 
 Die Hainbuche ist ein sehr verbreitetes Gewächs in Europa, vor allem aber in Deutschland. Sie wächst in Europa und Westasien als mittelgroßer, laubwerfender Baum oder Strauch und ist fester Bestandteil von deutschen Laubwäldern.
@@ -675,6 +695,8 @@ Die Hainbuche ist ein sehr verbreitetes Gewächs in Europa, vor allem aber in De
 Weniger bekannt als die Buche ist die Pappel. Sie gehört zu Gattung der Weidengewächse (siehe Weide weiter unten) und ist vor allem auf der Nordhalbkugel verbreitet. In Deutschland findet man die Pappel entweder in größeren Wäldern oder am Wasser. 
 
 ![Skizze von Blatt und Frucht der Pappel](pappel.png){width=60%}
+
+\pagebreak
 
 \underline{Spitzahorn}
 
@@ -688,6 +710,8 @@ Die Ulme ist ein vergleichsweise simpler Baum. Er besitzt keine besonderen Früc
 
 ![Skizze von Blatt und Frucht der Ulme](Ulme.png){width=60%}
 
+\pagebreak
+
 \underline{Weide}
 
 Ein gängier Baum, der noch mehr Arten als die Ulme hat, ist die Weide. Sie ist in der nördlichen gemäßigten Zone bis zur Arktis mit kanppen 450 Arten vertreten. Außerdem sind einige Weiden auch in den Tropen heimisch. Weiden zeichnen sich vor allem durch ihre langen, herunterhängenden Äste und das dadurch entstehende Erscheinungsbild aus.
@@ -699,6 +723,8 @@ Ein gängier Baum, der noch mehr Arten als die Ulme hat, ist die Weide. Sie ist 
 Vor allem im Herbst entfaltet sie ihre volle Schönheit: die Rostkastanie. Kaum ein Baum ist durch seine Frucht, die Kastanie, so beliebt für Bastelarbeiten wie die Rostkastanie. Die Rostkastanie ist in Nordamerika, Europa und Asien aufzufinden.
 
 ![Skizze von Blatt und Frucht der Rostkastanie](rostkastanie.png){width=60%}
+
+\pagebreak
 
 \underline{Hasel}
 
@@ -712,11 +738,15 @@ Auch der Kirschbaum ist vor allem durch seine Fruch bekannt, die gerne im Sommer
 
 ![Skizze von Blatt und Frucht des Kirschbaums](kirsche.png){width=60%}
 
+\pagebreak
+
 \underline{Weißdorne}
 
 Die Weißdorne ist ein in Deutschland mit drei unterschiedlichen Arten vertretener Strauch. Er ist außerdem in Nordamerika und anderen Ländern Europas verbreitet und überzeugt dort vor allem durch schöne, weiße Blüten im Sommer.
 
 ![Skizze von Blatt und Frucht der Weißdorne](weissdorn.png){width=60%}
+
+\pagebreak
 
 ## Du bestimmst das Sternbild des Großen Wagens (Gr. Bär) und den Polarstern.
 
@@ -785,6 +815,8 @@ Es gibt fünf unterschiedliche **Sippenabendtypen**, für die es sich lohnt, ein
 
 Die Sippenabendtypen können sich bei einem Sippenabend durchaus überschneiden, wie man bei den hier genannten Beispielen sehen kann. Wie so oft gilt, dass eine Durchmischung der Sippenabendarten wichtig ist. Trotzdem ist klar, dass je nach Alter einige Sippenabendtypen mehr verwendet werden, als andere. Mit jungen Sipplingen spielt man beispielsweise mehr. Mit älteren Sipplingen wird dafür eine intensivere Probenarbeit praktiziert.
 
+\pagebreak
+
 \underline{Tschaiabend}
 
 Der Tschaiabend ist für viele Teilnehmer das Finale einer Pfadfinderfahrt. Bei der Vorbereitung müssen folgende Faktoren beachtet werden: **Zeitbegrenzung, Liederauswahl, Spieleauswahl**. Außerdem kann es sinnvoll sein, vor und während des Tschaiabends auf einzelne Liederwünsche einzugehen, was aber nicht die vorherige Liederplanung ersetzt. Um den Spannungsbogen eines Tschaiabends ideal zu gestalten, sollten Lieder und Spiele so ausgewählt werden, dass sich die Stimmung stetig steigert. Erst ungefähr $\frac{1}{4}$ vor Ende des Tschaiabends sollte langsam durch weniger Spiele und eine ruhigere Liedauswahl etwas mehr Ruhe einkehren, damit die Sipplinge bei der Tschaiandacht nicht so aufgedreht sind. 
@@ -834,6 +866,8 @@ Wenn ein Unfall oder ein Brand auf Fahrt passiert, gibt es ein paar grundlegende
 #. Notruf tätigen
 #. Ggf. Verbrennungen mit lauwarmem Wasser kühlen
 
+\pagebreak
+
 \underline{Notruf}
 
 Sobald man beim Notruf mit der Zentrale verbunden ist, müssen die fünf W-Fragen beantwortet werden. Du muss sie dir nicht zwingend merken, die Beamten fragen nach allem, was sie wissen müssen. Trotzdem sind die W-Fragen folgende:
@@ -845,17 +879,25 @@ Sobald man beim Notruf mit der Zentrale verbunden ist, müssen die fünf W-Frage
 * Wie viele Verletzte?
 * **Warte auf Rückfragen!**
 
+\pagebreak
+
 \underline{Erste-Hilfe}
 
 Wenn die oben beschriebenen Schritte abgeschlossen sind, hat man rechtlich seine mindeste Pflicht getan. Rechtlich ist man nämlich nur verpflichtet, Hilfe zu holen und den Notruf zu wählen. Trotzdem können Erste-Hilfe-Maßnahmen helfen, bis der Krankenwagen da ist. Deswegen wollen wir hier ein paar Grundlagen erläutern. Trotzdem werden diese Grundlagen aber zusätzlich für Sippenführer in Erste-Hilfe Kursen aufgefrischt und von Profis vemrittelt.
 
 Ergänzend zu den oben genannten Schritten können beim Auffinden einer Person unterschiedliche Schritte der ersten Hilfe ausgeführt werden, wie in Abbildung 27 zu erkennen ist. Zuerst wird durch Ansprechen das Bewusstsein des Verletzten überprüft. Falls der Patient sein Bewusstsein verloren hat, wird die Atmung überprüft. Sollte der Patient nicht atmen, ist eine Herzdruckmassage einzuleiten, die hier aber nicht thematisiert wird.
 
+&nbsp;
+
 ![Ablauf von Maßnahmen am Unfallort](erstehilfe.jpg){width=60%}
+
+\pagebreak
 
 **Stabile Seitenlage**
 
 Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzuleiten, wenn der Verletzte kein Bewusstsein mehr besitzt, aber atment. Sie ist wichtig, um die Schmerzen erträglicher zu machen aber vor allem, damit der Patient nicht an seiner Zunge oder an Erbrochenem ersticken kann. Zusätzlich zu der stabilen Seitenlage sollte der Puls und die Atmung des Patienten stetig überprüft und eine Decke zum über- & unterlegen besorgt werden. Außerdem muss darauf geachtet werden, den Betroffenen möglichst nicht auf eine Wunde oder Verletzung zu drehen.
+
+&nbsp;
 
 ![Skizze der stabilen Seitenlage](seitenlage.png){width=40%}
 
@@ -899,6 +941,8 @@ Das Einnorden einer Karte ist wichtig, um die Karte mit der Umgebung um sich her
 
 #. Kompass an Rasterlinien anlegen
 #. Karte so lange drehen, bis die Karte mit der Nadel in eine Richtung, nach Norden zeigt
+
+\pagebreak
 
 \underline{Peilen}
 
