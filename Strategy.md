@@ -9,44 +9,6 @@ lof: true
 lot: true
 ...
 
-<!-- 
-lof: true
-lot: true
-include-after: [Code.pdf]
--->
-
-<!--
-Für ein Tabellenverzeichnis in Metablock: lot: true
-
-Für ein Abbildungsverzeichnis in Metablock: lof: true
-
-# Dies ist eine große Überschrift
-
-## Dies ist eine Unterüberschrift zur Überschrift 
-
-**Diese Wörter** wurden gerade fett geschrieben 
-
-*Diese Wörter* wurden schief geschrieben[^footnote1]
-
->Dies hier ist ein Eingerückter Absatz 
-
-[^Fußnote 1]: Das ist eine Fußnote mit ihrer Beschreibung 
-
-\pagebreak wird benötigt um auf einer neuen Seite anzufangen
-
-'Dieser Text ist in Anführungszeichen und passt sich der Sprache an'
-
-[@AbkürzungBib] -> Durch die Referenzierung der Abkürzung aus der Citavi Datei wird automatische ein passendes Quellenverzeichnis erstellt
-
-So geht ein Bild: 
-
-![Bild1](RepositoryStructureVCS.png)
-Bildbeschreibung und Quelle müssen noch irgendwie hinzugefügt werden... 
-
-include-before: DeckblattTransferleistung3LaTeXCompilable.pdf
-include-after: ["Interview-Finja-Hauschild-signed.pdf", "Interview-Tim-Gurke-signed.pdf", "Interview-Niels-Stargardt-signed.pdf"]
--->
-
 \pagenumbering{roman}
 \setcounter{page}{5}
 
