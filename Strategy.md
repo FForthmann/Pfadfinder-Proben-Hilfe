@@ -14,9 +14,9 @@ lot: true
 
 **Vorwort**
 
-Als Pfadfinderprobenhilfe beansprucht dieses Werk keinen Anspruch auf Vollständigkeit oder absolute Aktualität. Viel mehr kann es als ergänzendes Mittel zu bereits vorhandenen Werken wie dem 'Sippenführer', alten Probenheften oder Schulungskladden verwendet werden. Als Sippenführer ist es immer wichtig, individuellen Sippenabend zu machen. Deswegen sind Aufzeichnungen wie diese als Orientierung, nicht aber als fertiger Sippenabend, zu verstehen. An dieser Stelle sei in aller Deutlichkeit darauf hingewiesen, dass Sipplinge Inhalte am besten verstehen, wenn sie kreativ aufbereitet werden. Deswegen lohnt es sich als Sippenführer, einen Moment zu nehmen, um eine spannende Probenarbeit vorzubereiten. Gegebenenfalls kann auch die Sammlung für kreatives Sippenabendprogramm behilflich sein.
+Als Pfadfinderprobenhilfe beansprucht dieses Werk keinen Anspruch auf Vollständigkeit oder absolute Aktualität. Vielmehr kann es als ergänzendes Mittel zu bereits vorhandenen Werken wie dem 'Sippenführer', alten Probenheften oder Schulungskladden verwendet werden. Als Sippenführer ist es immer wichtig, einen individuellen Sippenabend zu gestalten. Deswegen sind Aufzeichnungen wie diese als Orientierung, nicht aber als fertiger Sippenabend, anzuwenden. An dieser Stelle sei in aller Deutlichkeit darauf hingewiesen, dass Sipplinge Inhalte am besten verstehen, wenn sie kreativ aufbereitet werden. Deswegen lohnt es sich als Sippenführer, einen Moment zu nehmen, um eine spannende Probenarbeit vorzubereiten. Gegebenenfalls kann auch die Sammlung für kreatives Sippenabendprogramm behilflich sein.
 
-Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2020 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' (in dieser Probenhilfe wird sich auf die *4. Auflage von 1998* bezogen) auf den Seiten 98 & 99. Wegen der Nutzung von Urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
+Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2020 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' auf den Seiten 98 & 99. In dieser Probenhilfe wird sich auf die *4. Auflage des 'Sippenführers' von 1998* bezogen. Wegen der Nutzung von Urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
 
 &nbsp;
 
@@ -29,7 +29,7 @@ Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und 
 
 \underline{Das Pfadfinderversprechen}
 
-'Im Vertrauen auf Gottes Hilfe versprechen ich, die Aufgaben des Pfadfinders als Mitgestalter des Sippenlebens zu erfüllen.'
+'Im Vertrauen auf Gottes Hilfe verspreche ich, die Aufgaben des Pfadfinders als Mitgestalter des Sippenlebens zu erfüllen.'
 
 \pagebreak
 
@@ -37,18 +37,18 @@ Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und 
 
 # Christentum
 
-Als christliche Pfadfinder hat es für uns eine besondere Bedeutung, unseren Sipplingen den Charakter Gottes nahezubringen. Als 'Mitgestalter des Sippenlebens' ist es als Pfadfinder besonders wichtig, bekannte christliche Inhalte zu kennen und zu verstehen.
+Als christliche Pfadfinder hat es für uns eine besondere Bedeutung, unseren Sipplingen den Charakter Gottes nahezubringen. Als 'Mitgestalter des Sippenlebens' ist es als Pfadfinder besonders wichtig, bekannte christliche Inhalte zu kennen und zu verstehen. Ziel der Christlichen Pfadfinderschaft seit 1921 ist es, aus jungen Menschen mündige Christen zu machen.
 
 ## Du kannst das Vater Unser und die Zehn Gebote.
 
-*Es ist sinnvoll, diese Probe nicht nur auf das Auswendiglernen beider Textstellen zu reduzieren. Wichtiger als die Stellen zu kennen ist es, dass die Sipplinge das Vaterunser und die Zehn Gebote inhaltlich verstehen und nachvollziehen können, wieso beides wichtige christliche Inhalte sind. Für ein tieferes Verständnis beider Stellen ist es gegebenenfalls sinnvoll, sie nach und nach durchzugehen und zu erläutern. Außerdem ist es immer verständnisfördernd, den historischen und biblischen Hintergrund solcher Inhalte zu erklären.*
+*Es ist sinnvoll, diese Probe nicht nur auf das Auswendiglernen beider Textstellen zu reduzieren. Wichtiger als die Bibelstellen zu kennen ist es, dass die Sipplinge das Vaterunser und die Zehn Gebote inhaltlich verstehen und nachvollziehen können. Für ein tieferes Verständnis beider Bibelstellen ist es sinnvoll, sie nach und nach durchzugehen und zu erläutern. Außerdem ist es immer verständnisfördernd, den historischen und biblischen Hintergrund solcher Inhalte zu erklären.*
 
 &nbsp;
 
 **Vaterunser[^footnote1]:**
 
 Vater unser im Himmel,\
-geheiligt werde dein Name.\
+geheiligt werde Dein Name.\
 Dein Reich komme.\
 Dein Wille geschehe,\
 wie im Himmel, so auf Erden.\
@@ -57,12 +57,12 @@ Und vergib uns unsere Schuld,\
 wie auch wir vergeben unsern Schuldigern.\
 Und führe uns nicht in Versuchung,\
 sondern erlöse uns von dem Bösen.\
-Denn dein ist das Reich\
+Denn Dein ist das Reich\
 und die Kraft und die Herrlichkeit\
 in Ewigkeit.\
 Amen.
 
-[^footnote1]: Anders als das Glaubensbekenntniss ist das Vaterunser konfessionsübergreifend identisch, weil Jesus es seinen Jüngern in **Matthäus 6, 9-13** selber 'beigebracht' hat. Es ist eines der wenigen Gebete, die wir als Gläubige direkt von Gott bekommen haben. Jesus gibt dieses Gebet im Kontext von 'richtigem' Beten an seine Jünger weiter. Deswegen ist es sicherlich sinnvoll, sich den Kontext in *Matthäus 6, 5-15* anzugucken.
+[^footnote1]: Anders als das Glaubensbekenntniss ist das Vaterunser konfessionsübergreifend identisch, weil Jesus es seinen Jüngern in **Matthäus 6, 9-13** selber 'beigebracht' hat. Jesus gibt dieses Gebet im Kontext von 'richtigem' Beten an seine Jünger weiter. Deswegen ist es sicherlich sinnvoll, sich den Kontext in *Matthäus 6, 5-15* anzugucken.
 
 \pagebreak
 
@@ -79,13 +79,13 @@ Amen.
 9. Du sollst nicht lügen
 10. Du sollst nicht neiden 
 
-*Stark vereinfachte Form aus der Bibel (2. Mose 20, 2-17)*
+*Stark vereinfachte Form aus der Bibel (2. Mose 20, 2-17).*
 
 [^footnote2]: Die Zehn Gebote sind vor allem Ausdruck des alten Bunds zwischen Gott und den Menschen im Alten Testament. Bevor Jesus für uns geopfert wurde, mussten sich die gläubigen Juden an viele Gesetze halten und eigene Opfer bringen, um weniger schuldig vor Gott zu sein. Um die Zehn Gebote im Kontext des neuen Bunds zwischen Gott und den Menschen seit der Kreuzigung und Wiederauferstehung Jesu zu sehen, ist es sinnvoll, sich die Geschichte vom höchsten Gebot in *Matthäus 22, 34-40* anzusehen oder die Ostergeschichte revue passieren zu lassen. 
 
 ## Du hältst eine Andacht mit einem Sippenführer oder einer anderen Person.
 
-Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönlichen Gesprächen die beste Grundlage etwas über das Evangelium zu erzählen. Eine erfolgreiche Andacht lebt neben einer guten Vorbereitung und einer Prise Gott vor allem von persönlichen Eindrücken und kreativen Darstellungen von Bibelstellen. *Ideen für Andachtsthemen finden sich im Sippenführer auf Seite 12 oder im C-Konzept.*
+Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönlichen Gesprächen die beste Grundlage etwas über das Evangelium zu erzählen. Eine erfolgreiche Andacht lebt neben einer guten Vorbereitung und einer Prise Gott vor allem von persönlichen Eindrücken und kreativen Darstellungen von Bibelstellen. *Ideen für Andachtsthemen aller Altersstufen finden sich im Sippenführer auf Seite 12 oder im C-Konzept.*
 
 \underline{Eine Andacht kann grob in folgende Phasen unterteilt werden:}
 
@@ -103,7 +103,6 @@ Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönli
 \underline{Zur inhaltlichen Gestaltung einer Andacht kann folgendes Schema verwendet werden:}
 
 Zuerst wird ein Thema anhand einer Bibelstelle ausgewählt, auf welches die Andacht zuläuft. Daraufhin muss für die Reinschrift Struktur geschaffen werden, was man wann und wie in dem Verkündigungsteil der Andacht sagt.
-
 
 **Me**\
 *Der Andachtshaltende erläutert das Thema anhand eines persönlichen Einblicks in sein Leben. Wie habe ich das Thema erlebt? Was bedeutet es für mich?*
@@ -126,6 +125,8 @@ Zuerst wird ein Thema anhand einer Bibelstelle ausgewählt, auf welches die Anda
 ## Du besuchst mit Deiner Sippe einen Gottesdienst oder eine andere christliche Veranstaltung. 
 
 Diese Probe muss individuell durchgeführt werden und bedarf keiner theoretischen Betrachtung. Trotzdem ist wichtig zu verstehen, dass viele Kinder von Haus aus nicht mehr die Kirche besuchen. Deswegen ist es wertvoll, ihnen ein solches Umfeld nahezubringen. Je nach Alter der Sipplinge und Komplexität der Predigt, sollte der Gottesdienst oder die christliche Veranstaltung im Nachgang nochmal besprochen werden.
+
+\pagebreak
 
 # Pfadfindertum
 
@@ -159,6 +160,8 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 
 *Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Kinder während des Things Notizen machen zu lassen. Zur Stammessituation gehören die Ämterbesetzungen und ein paar weitere Kennzahlen sowie ggf. weitere aktuelle Ereignisse.*
 
+Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige Beauftragungen sind beispielsweise die *Mitgliederverwaltungs-Beauftragung*, die *Seybruch-Beauftragung* oder die *Schulfüchse-Beauftragung*.
+
 **Ämter:**
 
 | Amt | Aufgabe | Besetzung |
@@ -172,7 +175,7 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 | Musischer Wart | Musische Mittel (Basteln & Musik) | ________ |
 | Erste-Hilfe Wart | Medizinische Versorgung  | ________ |
 | Werkkammerwart  | Werkkammer | ________ |
-| Thinggraf | Einberufung & Durchführung des Things | ________ |
+| Thinggraf | Einberufung & Durchführung des Things sowie Überwachung der Stammesordnung| ________ |
 | Neue Medien Wart |  Website und Ähnliches | ________ |
 | Schulfuchs Beauftragter | Verbindung zum Schulprojekt |________ |
 
@@ -187,13 +190,13 @@ Außerdem sind folgende Kennzahlen zu besprechen:
 
 ## Du kannst das Pfadfinderversprechen und besprichst es mit Deinem Sippenführer.
 
-*Nun folgt das Pfadfinderversprechen. In der Besprechung des Versprechens lohnt es sich, den Begriff 'Mitgestalter des Sippenlebens' sowie die Redewendung 'Im Vertraun auf Gottes Hilfe' zu vertiefen. Außerdem kann beim Sippenabend ein Vergleich dieses Versprechens mit dem ursprünglichen Pfadfinderversprechen BiPis hilfreich sein.*
+*Nun folgt das Pfadfinderversprechen. In der Besprechung des Versprechens lohnt es sich, den Begriff 'Mitgestalter des Sippenlebens' sowie die Redewendung 'Im Vertraun auf Gottes Hilfe' zu vertiefen. Außerdem kann beim Sippenabend ein Vergleich dieses Versprechens mit dem ursprünglichen Pfadfinderversprechen BPs hilfreich sein.*
 
 \underline{Versprechen:}
 
-**'Im Vertrauen auf Gottes Hilfe versprechen ich, die Aufgaben des Pfadfinders als Mitgestalter des Sippenlebens zu erfüllen.'**
+**'Im Vertrauen auf Gottes Hilfe verspreche ich, die Aufgaben des Pfadfinders als Mitgestalter des Sippenlebens zu erfüllen.'**
 
-\underline{Ursprüngliches Pfadfinderversprechen von BiPi:}
+\underline{Ursprüngliches Pfadfinderversprechen von BP:}
 
 On my honour I promise that I will do my best –
 
@@ -203,26 +206,28 @@ On my honour I promise that I will do my best –
 
 ## Du kennst die Stammesgeschichte in ihrern Grundzügen.
 
-Im Folgenden wird die Stammesgeschichte in zwei Formen dargelegt. Einmal in kompakten Stichpunkten und das zweite Mal als detaillierter Fließtext. 
+*Es kann sinnvoll sein, zum tieferen Verständnis und zur besseren Veranschaulichung in der Vorbereitung und beim Sippenabend die Jubiläumsbroschüren der Jubiläen 50 und 70 Jahre Stamm St. Andreas zu verwenden. Dort sind neben detaillierten Beschreibungen auch interessante Fotos vorhanden, die sonst im Stammesarchiv besichtigt werden können.*
+
+Im Folgenden wird die Stammesgeschichte in zwei Formen dargelegt. Einmal in kompakten Stichpunkten und das zweite Mal als detaillierter Fließtext.
 
 \underline{Stichpunkte}
 
-* Gegründet am 27. März 1949 von dem Theologiestudenten Hartmut Classen
+* Gegründet am 27. März 1949 von dem Theologiestudenten Hartmut Clasen
 * Anfang 1950 bereits 20 Mitglieder in 3 Sippen (Eichkatzen, Biber, Hirsche). Später ca. 40 Mitglieder
-* Erster Fahrten in nähere Umgebung Hamburgs
+* Erste Fahrten in nähere Umgebung Hamburgs
 * Ab 1957 Kohten in der Sippe Wildgänse
 * 1960: erste Krise des Stammes, durch den Weggang der Führung --> Existenz bedroht
 * Letzte verbliebende Sippe fährt auf das Bundeslager 1960, aus ihr entstehen 1964 zwei neue Sippen (ab jetzt mit Völkernamen)
 * Es folgt eine Zeit mit interessanten Aktionen & Fahrten, vor allem ins Ausland
 * Anfang der 70er Jahre droht der Stamm erneut einzugehen (Folge der 68er)
     * Pfadfinderei wurde als veraltet angesehen, lose Aktivitäten und spontane Aktionen ohne Sippencharakter waren die Folge
-* 1972 gründet Kai Langhein die Sippe Inka, sie ist der Grundstock für 10 Sippen mit 90 Mitgliedern in den 80er Jahren
+* 1972 gründet Kai Langhein die Sippe Inka, sie ist der Grundstein für 25 Sippen mit 250 Mitgliedern in den 80er Jahren
 * 1981 Gründung der erfolgreichen Herbstschulung
 * Bis zu 200 Mitglieder in 24 Sippen --> Hamburgs größter Stamm
 * Zahlreiche Auslandssommerfahrten unter anderem nach Island
 * 1996 bislang größte Sommerfahrt des Stammes (46 Teilnehmer in Cornwall)
-* 2004: Nach inhaltlichen Differenzen spaltet sich ein Teil des Stammes ab, danach nur noch 50 Mitglieder
-* In der Folge rasantes Wachstum auf ca. 130 Mitglieder
+* 2004: Nach inhaltlichen Differenzen spaltet sich ein Teil des Stammes ab, danach nur noch 35 Mitglieder
+* In der Folge rasantes Wachstum auf ca. 180 Mitglieder
 * 2011: Jamboree in Schweden mit eigenem St. Andreas Trupp aus 40 Mitgliedern 
 * Mehrere Internationale Begegnungen mit einer Partnerkirche in den USA (Atlanta) sowie Missionsreisen nach Simbabwe und Honduras 
 * 2013: Gründung des Schulprojekts 'Schulfüchse', das mittlerweile den Großteil der Sipplingsaquise übernimmt
@@ -233,19 +238,19 @@ Im Folgenden wird die Stammesgeschichte in zwei Formen dargelegt. Einmal in komp
 
 \underline{Fließtext}
 
-Am 27.03.1949 wurde die Gründungsidee der Pfadfinderarbeit zu St. Andreas geboren. Hartmut Clasen, ein Theologiestudent, war der Begründer dieser Idee. In den Anfängen der 50iger Jahre erlebte die „Siedlung St. Andreas“ einen stetigen Anstieg in der Pfadfinderarbeit. Dieser Elan hielt zunächst bis zum Ende dieses Jahrzehnts an, flachte danach aber etwas ab. 1957 fand eine neue Mode Einzug in den Fahrten Stil: Ab sofort fuhr man nur noch mit den neuen Kohten auf Fahrt. 
+Am 27. März 1949 wurde die Gründungsidee der Pfadfinderarbeit zu St. Andreas geboren. Hartmut Clasen, ein Theologiestudent, war der Begründer dieser Idee. In den Anfängen der 50iger Jahre erlebte die „Siedlung St. Andreas“ einen stetigen Anstieg in der Pfadfinderarbeit. Dieser Elan hielt zunächst bis zum Ende dieses Jahrzehnts an, flachte danach aber etwas ab. 1957 fand eine neue Mode Einzug in den Fahrten Stil: Ab sofort fuhr man nur noch mit den neuen Kohten auf Fahrt. Außerdem wurden die Pfadinder St. Andreas Mitglieder der CPD.
 
 1960 brach die Arbeit zum ersten Mal fast zusammen. Innere Zerstrittenheit führte dazu, dass alle Sippen aufhörten zu existieren. Auf dem damaligen Bundeslager fanden nur noch wenige ältere Mitglieder zusammen. Dieser Kern hielt sich bis 1964 zusammen. Mehrere zwischenzeitliche Sippenneugründungen scheiterten. 1967 bis 1970 brachten dann wieder mehrere Höhepunkte und große Fahrten in die Stammesarbeit. Die Methode der Pfadfinderarbeit erlebte hier nochmals alle pfadfinderischen Formen in aller Kompromisslosigkeit.
 
-Der Umbruch des Bundes der CPD 1971 und 1972 war auch im Stamm zu spüren. Nahezu alle Traditionen und Arbeitsformen der Pfadfinderarbeit wurden umgestoßen und durch Experimente neuer Formen ersetzt. Die daraus resultierende Unruhe und Zerstrittenheit brachte Jahre des Auseinandergehens und der inneren Zerrüttung. Nur noch die Anfang 1972 gegründete Sippe „Inka“ leistete noch eigentliche Pfadfinderarbeit. Mehrere Teilungen dieser Sippe und allmähliches Auflösen der noch locker bestehenden alten Gruppierungen führten ab 1974 zu einem stetigen Anstieg der Arbeit. Die Kontinuität der Stammesführung und der wieder bessere Gemeindebezug der Arbeit brachte 1976 einen vorläufigen Höhepunkt. 1977 gab es eine erneute Auseinandersetzung um Arbeitsformen, die dann zu einer Abspaltung einer Rovergruppe führte. Mehrere große Fahrten und zunehmende Einflussnahme des Stammes auf den Bezirk Alstergau und das Land Hamburg führten zu immer größerer Stabilität der Arbeit. 
+1971 und 1972 verschmolzen CPD und EMP / BEMP zum VPC. Dieser Umbruch des Bundes war auch im Stamm zu spüren. Nahezu alle Traditionen und Arbeitsformen der Pfadfinderarbeit wurden umgestoßen und durch Experimente neuer Formen ersetzt. Die daraus resultierende Unruhe und Zerstrittenheit brachte Jahre des Auseinandergehens und der inneren Zerrüttung. Nur noch die Anfang 1972 gegründete Sippe „Inka“ leistete noch eigentliche Pfadfinderarbeit. Mehrere Teilungen dieser Sippe und allmähliches Auflösen der noch locker bestehenden alten Gruppierungen führten ab 1974 zu einem stetigen Anstieg der Arbeit. Die Kontinuität der Stammesführung und der wieder bessere Gemeindebezug der Arbeit brachte 1976 einen vorläufigen Höhepunkt. 1977 gab es eine erneute Auseinandersetzung um Arbeitsformen, die dann zu einer Abspaltung einer Rovergruppe führte. Mehrere große Fahrten und zunehmende Einflussnahme des Stammes auf den Bezirk Alstergau und das Land Hamburg führten zu immer größerer Stabilität der Arbeit. 
 
-1980 brachte dann auch erneut eine Stärkung der Arbeit. Diese lief parallel zu einer sich immer mehr anbahnenden Auseinandersetzung, die erneut in Land und Bund über die Arbeitsformen geführt wurde. Als einer der stärksten und stabilsten Stämme des Landes wurde der Stamm St. Andreas 1981 Wortführer größerer Umwälzungen im Land Hamburg. Die Achtziger Jahre stellten die bisher erfolgreichste Zeit des Stammes St. Andreas dar. War der Stamm in der ersten Hälfte seiner Geschichte selten größer als 35 Mitglieder, wurde er jetzt mit über 200 Mitgliedern und 24 Sippen zum einem der größten VCP Stämme. Gleichzeitig entstand Bedarf nach ausreichenden Kapazitäten für die Schulung der Gruppenleiter, so dass 1981 erstmals die heute noch existierende Herbstschulung eingeführt wurde. Das Wachstum des Stammes endete um 1983/84, und es gab erneut einen Umbruch. Ältere Sippenführer wurden von jüngeren ersetzt, das Erreichte gefestigt. Mitte bis Ende der 80iger fanden zahlreiche Auslandsfahrten unter anderem nach Frankreich, England, Finnland, Polen, Irland und Island statt. Geprägt war diese Zeit durch einen christlichen Aufbruch, der in einem lebendigen Andachtsstil sichtbar war.
+1980 brachte dann auch erneut eine Stärkung der Arbeit. Diese lief parallel zu einer sich immer mehr anbahnenden Auseinandersetzung, die erneut in Land und Bund über die Arbeitsformen geführt wurde. Als einer der stärksten und stabilsten Stämme des Landes wurde der Stamm St. Andreas 1981 Wortführer größerer Umwälzungen im Land Hamburg. Die Achtziger Jahre stellten die bisher erfolgreichste Zeit des Stammes St. Andreas dar. War der Stamm in der ersten Hälfte seiner Geschichte selten größer als 35 Mitglieder, wurde er jetzt mit über 200 Mitgliedern und 24 Sippen zum einem der größten VCP Stämme. Gleichzeitig entstand Bedarf nach ausreichenden Kapazitäten für die Schulung der Gruppenleiter, so dass 1981 erstmals die heute noch existierende Herbstschulung eingeführt wurde. Das Wachstum des Stammes endete um 1983 / 84, und es gab erneut einen Umbruch. Ältere Sippenführer wurden von jüngeren ersetzt, das Erreichte gefestigt. Mitte bis Ende der 80iger fanden zahlreiche Auslandsfahrten unter anderem nach Frankreich, England, Finnland, Polen, Irland und Island statt. Geprägt war diese Zeit durch einen christlichen Aufbruch, der in einem lebendigen Andachtsstil sichtbar war.
 
 Die Neunziger gehen einher mit zahlreichenden Veränderungen. Trotz allem ist die Arbeit im Stamm von zahlreichen Höhepunkten geprägt. Neben dem Kamerunprojekt, das dortigen Jugendlichen bei der Ausbildung helfen soll, wird Mitte der Neunziger mit dem „Friedenslicht“, aus der Geburtskirche Jesu in Bethlehem, ein weiterer Schwerpunkt unserer Arbeit gesetzt. 1996 findet mit 46 Teilnehmern die erfolgreichste Sommerfahrt der letzten 10 Jahre nach Cornwall statt. Obgleich sich bereits ein weiterer Generationswechsel bei den Sippenführern abzeichnete, war die Arbeit der letzten Jahre von Konsistenz geprägt. 1997 gab es im Stamm Auseinandersetzungen zwischen verschiedenen Gruppen innerhalb der Ulanen, so dass daraus eine Abspaltung entstehen sollte. Zwei sehr erfolgreiche Sippenführer von 2 Sippen verließen mit Ihren Sipplingen den Stamm und gründeten in Hoheluft den Stamm St. Markus.
 
-Die folgenden Jahre verliefen ruhig. Die Sommerfahrtstradition wurde aufrechterhalten und viele Fahrten und Lager wurden organisiert. Der Stamm St. Andreas war Kopf des Bezirkes Alstergau und einflussreich im Landesverband. In dieser Zeit fand ein Generationswechsel im Stamm statt. Viele junge Sippenführer gründeten oder übernahmen Sippen. Leider ging die inhaltliche Arbeit in den folgenden Jahren zurück. Viele Sipplinge verließen den Stamm bevor sie Verantwortung übernehmen konnten, so dass Pfingstlager stattfanden, an denen 50 und weniger Pfadfinder teilnahmen. Sippen wurden gegründet und mangels Sipplingen bald wieder zusammengelegt und viele Sippen hatten oft wechselnde Sippenführer, so daß eine kontinuierliche, gemeinschaftsbezogene Arbeit immer mehr auf dem Rückgang war. 2003 wurden dann erstmalig wieder drei neue Sippen, von motivierten und jungen Sippenführern gegründet, die Jicarillas, Yerbateros und Yakima. Dennoch gab es innerhalb der Ulanen immer wieder Spannungen über pfadfinderische Prinzipien und den christlichen Glauben. Die gemeindebezogene Arbeit wurde mehr und mehr zurückgefahren, so daß der Stamm innerhalb der Kirchengemeinde zunehmend isoliert wurde. Von einer Gruppe der Ulanen wurde 2003 zusammen einigen Älteren und der Gemeinde an „ProChrist“ teilgenommen, einem evangelistischen Übertragungsgottesdienst. Die verschiedenen Gruppen innerhalb der Ulanen entfremdeten sich zunehmend, so wurden getrennte Fahrten organisiert, unter anderem unterschiedliche Sommerfahrten für 2004.
+Die folgenden Jahre verliefen ruhig. Die Sommerfahrtstradition wurde aufrechterhalten und viele Fahrten und Lager wurden organisiert. Der Stamm St. Andreas war Kopf des Bezirkes Alstergau und einflussreich im Landesverband. In dieser Zeit fand ein Generationswechsel im Stamm statt. Viele junge Sippenführer gründeten oder übernahmen Sippen. Leider ging die inhaltliche Arbeit in den folgenden Jahren zurück. Viele Sipplinge verließen den Stamm bevor sie Verantwortung übernehmen konnten, sodass Pfingstlager stattfanden, an denen 50 und weniger Pfadfinder teilnahmen. Sippen wurden gegründet und mangels Sipplingen bald wieder zusammengelegt und viele Sippen hatten oft wechselnde Sippenführer, so daß eine kontinuierliche, gemeinschaftsbezogene Arbeit immer mehr auf dem Rückgang war. 2003 wurden dann erstmalig wieder drei neue Sippen, von motivierten und jungen Sippenführern gegründet, die Jicarillas, Yerbateros und Yakima. Dennoch gab es innerhalb der Ulanen immer wieder Spannungen über pfadfinderische Prinzipien und den christlichen Glauben. Die gemeindebezogene Arbeit wurde mehr und mehr zurückgefahren, so daß der Stamm innerhalb der Kirchengemeinde zunehmend isoliert wurde. Von einer Gruppe der Ulanen wurde 2003 zusammen mit einigen Älteren und der Gemeinde an „ProChrist“ teilgenommen, einem evangelistischen Übertragungsgottesdienst. Die verschiedenen Gruppen innerhalb der Ulanen entfremdeten sich zunehmend, so wurden getrennte Fahrten organisiert, unter anderem unterschiedliche Sommerfahrten für 2004.
 
-Nach einem großen Pfingstlager 2004 zeichnete sich erneut eine Stammesspaltung ab. Nach den Sommerfahrten war es dann soweit. Ca. 12 Ulanen verließen mit ihren Sippen den Stamm St. Andreas, um in der Nachbarschaft an der Christuskirche den Stamm St. Paulus zu gründen. Andere Ulanen hörten mit der Pfadfinderarbeit auf. Übrig blieben ca. 10 motivierte, junge Ulanen, die in den folgenden Jahren eine christlich und pfadfinderisch starke Arbeit aufbauten, so dass sich in wenigen Jahren die Sipplingszahlen nahezu verdoppelten. Die alten St. Andreas Traditionen wurden aufrechterhalten und ausgebaut. Immer mehr Sippen wurden erfolgreich gegründet. Der Kontakt zur Kirchengemeinde und die Einbindung in die Gemeinde entwickelten sich ausgesprochen gut. Der Kontakt zum Bezirk Alstergau und dem Landesverband wurde auf ein Minimum zurückgefahren, um eine Eigendynamik entstehen zu lassen und sich auf inhaltsstarke und christliche Pfadfinderarbeit zu konzentrieren. Viele neue und junge Sippenführer sind aus dieser konstanten Arbeit hervorgekommen. Die Ulanen haben zu einer seit langem nicht bekannten Stärke, in jeglicher Hinsicht, zurückgefunden.
+Nach einem großen Pfingstlager 2004 zeichnete sich erneut eine Stammesspaltung ab. Nach den Sommerfahrten war es dann soweit. Ca. 12 Ulanen verließen mit ihren Sippen den Stamm St. Andreas, um in der Nachbarschaft an der Christuskirche den Stamm St. Paulus zu gründen. Andere Ulanen hörten mit der Pfadfinderarbeit auf. Übrig blieben ca. 9 motivierte, junge Ulanen, die in den folgenden Jahren eine christlich und pfadfinderisch starke Arbeit aufbauten, so dass sich in wenigen Jahren die Sipplingszahlen nahezu verdoppelten. Die alten St. Andreas Traditionen wurden aufrechterhalten und ausgebaut. Immer mehr Sippen wurden erfolgreich gegründet. Der Kontakt zur Kirchengemeinde und die Einbindung in die Gemeinde entwickelten sich ausgesprochen gut. Der Kontakt zum Bezirk Alstergau und dem Landesverband wurde auf ein Minimum zurückgefahren, um eine Eigendynamik entstehen zu lassen und sich auf inhaltsstarke und christliche Pfadfinderarbeit zu konzentrieren. Viele neue und junge Sippenführer sind aus dieser konstanten Arbeit hervorgekommen. Die Ulanen haben zu einer seit langem nicht bekannten Stärke, in jeglicher Hinsicht, zurückgefunden.
 
 ... weitere Inhalte bis 2020 von Nils ...
 
@@ -273,9 +278,11 @@ Als christlicher Pfadfinderstamm St. Andreas bekennen wir uns zu unserem Herrn J
 
 **Wir wollen** bei alldem unseren Sipplingen das Gefühl geben, geliebt zu sein.
 
+\pagebreak
+
 # Fahrt und Lager
 
-Eines der Pfadfinderprinzipen von BiPi ist 'Fahrt und Lager'. Ein Pfadfinder ohne Sippen-, Wander- oder Großfahrten ist kein Pfadfinder. Deswegen gilt es, die Sipplinge bestmöglich und praktisch auf diesen wichtigen Teil der Pfadfinderarbeit vorzubereiten. Viele dieser Proben können deswegen am besten praktisch auf Fahrt umgesetzt werden.
+Eines der Pfadfinderprinzipen von BP ist 'Fahrt und Lager'. Ein Pfadfinder ohne Sippen-, Wander- oder Großfahrten ist kein Pfadfinder. Deswegen gilt es, die Sipplinge bestmöglich und praktisch auf diesen wichtigen Teil der Pfadfinderarbeit vorzubereiten. Viele dieser Proben können deswegen am besten praktisch auf Fahrt umgesetzt werden.
 
 ## Du kannst einen Waldpenner aufstellen und weißt wie man eine Kohte aufbaut.
 
@@ -329,7 +336,7 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 
 ## Du kannst den Palstek (Weberknoten), Mastwurf, Achterknoten, Spannzug sowie den Kreuz-, Parallel- und Dreibocksbund.
 
-*Auch bei dieser Probe muss die Anwendung praktisch erfolgen. Ganz nach BiPis Pfadfinderprinzip 'Learning by doing' lernen die Sipplinge Knoten nur in der praktischen Anwendung. Man kann beispielsweise mit Tampen üben und später zwischen den Sipplingen einen Geschwindigkeitswettbewerb veranstalten oder die Knoten mit Süßigkeitenschlangen erstellen.*
+*Auch bei dieser Probe muss die Anwendung praktisch erfolgen. Ganz nach BPs Pfadfinderprinzip 'Learning by doing' lernen die Sipplinge Knoten nur in der praktischen Anwendung. Man kann beispielsweise mit Tampen üben und später zwischen den Sipplingen einen Geschwindigkeitswettbewerb veranstalten oder die Knoten mit Süßigkeitenschlangen erstellen.*
 
 \underline{Palstek (Weberknoten)}
 
@@ -611,7 +618,7 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 Eine Konuss ist ein Trinkgefäß, das aus der ausgehöhlten unteren Hälfe einer Kokusnuss besteht. Bei viel Engagement kann auch noch ein Ständer für dieses Gefäß gebaut werden. 
 
 #. Ein Loch in den oberen Teil einer Kokusnuss bohren und das Wasser abtropfen lassen.
-#. Mit einer Säge vorsichtig die obere Hälfte (ca. 1/3) der Kokusnuss absägen.
+#. Mit einer Säge vorsichtig die obere Hälfte (ca. $\frac{1}{3}$) der Kokusnuss absägen.
 #. Das Kokusnussfleisch sorgfältig mit einem Löffel oder einem Messer aus der Kokusnuss rausschneiden - nach diesem Schritt muss die Kokusnuss vollkommen leer sein.
 #. Mit Schmirgelpapier die Haare der Kokusnuss entfernen so, dass die Oberfläche vollkommen Glatt wird.
 #. Die Außenseite der Konuss mit durchsichtigem Lack lackieren.
@@ -634,6 +641,8 @@ Das Schnitzen eines Gefäßes aus Holz erfordert viel Kreativität und Durchhalt
 #. Zuerst die äußere Form des Gefäßes schnitzen und dann von dem Loch aus eine Einhöhlung entwerfen. 
 #. Dem fertigen Gefäß mit Schmirgelpapier eine weiche Oberfläche verleihen
 #. Das Holz mehrfach mit Olivenöl behandeln und / oder es außen mit durchsichtigem Lack lackieren.
+
+\pagebreak
 
 # Natur
 
@@ -717,6 +726,8 @@ Wenn man die hintere Achse des Großen Wagens 5x verlängter, kommt man zum Pola
 
 ![Darstellung von Kleinem & Großem Wagen sowie von dem Polarstern](wagen.jpg){width=50%}
 
+\pagebreak
+
 # Musisches
 
 Wer schonmal einen fetzigen Tschaiabend miterlebt hat, wird sich bewusst sein, wie wichtig Musisches bei uns als Pfadfinder ist. Musisches bietet, wie diese Probenhilfe zeigt, aber noch viel mehr, als nur zu singen und zu basteln...
@@ -788,6 +799,8 @@ Eine Auswahl von möglichen Spielen wäre folgende:
 Die Erstellung einer Fahrtenchronik ist für eine Sippe wichtig, weil sie das Erlebte für spätere Tage zusammenfasst. In dem aktuellen Moment mag das nicht relevant erscheinen, doch später erinnert man sich gerne an die Zeit in der eigenen Sippe. Außerdem stärkt es den Sippengeist ein gemeinsames Werk zu haben. *Sollte deine Sippe noch keine Chronik haben, kann das ein Anstoß sein, nun mit einer (möglichst auch mit Fotos!) anzufangen.*
 
 Neben Sippenfahrtseinträgen von den Sipplingen kann es auch schön sein, die Sippenchronik gemeinsam zu verzieren und als Sippe die vergangenen Fahrten mit Hilfe der Chronik revue passieren zu lassen. Besonders schön ist es dabei, wenn auch Fotos von den Fahrten in der Sippenchronik zu finden sind. 
+
+\pagebreak
 
 # Neigungsproben
 
