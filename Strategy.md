@@ -63,7 +63,7 @@ und die Kraft und die Herrlichkeit\
 in Ewigkeit.\
 Amen.
 
-[^footnote1]: Anders als das Glaubensbekenntniss ist das Vaterunser konfessionsübergreifend identisch, weil Jesus es seinen Jüngern in **Matthäus 6, 9-13** selber 'beigebracht' hat. Jesus gibt dieses Gebet im Kontext von 'richtigem' Beten an seine Jünger weiter. Deswegen ist es sicherlich sinnvoll, sich den Kontext in *Matthäus 6, 5-15* anzugucken.
+[^footnote1]: Anders als das Glaubensbekenntnis ist das Vaterunser konfessionsübergreifend identisch, weil Jesus es seinen Jüngern in **Matthäus 6, 9-13** selber 'beigebracht' hat. Jesus gibt dieses Gebet im Kontext von 'richtigem' Beten an seine Jünger weiter. Deswegen ist es sicherlich sinnvoll, sich den Kontext in *Matthäus 6, 5-15* anzugucken.
 
 \pagebreak
 
@@ -82,7 +82,7 @@ Amen.
 
 *Stark vereinfachte Form aus der Bibel (2. Mose 20, 2-17).*
 
-[^footnote2]: Die Zehn Gebote sind vor allem Ausdruck des alten Bunds zwischen Gott und den Menschen im Alten Testament. Bevor Jesus für uns geopfert wurde, mussten sich die gläubigen Juden an viele Gesetze halten und eigene Opfer bringen, um weniger schuldig vor Gott zu sein. Um die Zehn Gebote im Kontext des neuen Bunds zwischen Gott und den Menschen seit der Kreuzigung und Wiederauferstehung Jesu zu sehen, ist es sinnvoll, sich die Geschichte vom höchsten Gebot in *Matthäus 22, 34-40* anzusehen oder die Ostergeschichte revue passieren zu lassen. 
+[^footnote2]: Die Zehn Gebote sind vor allem Ausdruck des alten Bunds zwischen Gott und den Menschen im Alten Testament. Bevor Jesus für uns geopfert wurde, mussten sich die gläubigen Juden an viele Gesetze halten und eigene Opfer bringen, um weniger schuldig vor Gott zu sein. Um die Zehn Gebote im Kontext des neuen Bunds zwischen Gott und den Menschen seit der Kreuzigung und Wiederauferstehung Jesu zu sehen, ist es sinnvoll, sich die Geschichte vom höchsten Gebot in *Matthäus 22, 34-40* anzusehen oder die Ostergeschichte Revue passieren zu lassen. 
 
 \pagebreak
 
@@ -115,7 +115,7 @@ Zuerst wird ein Thema anhand einer Bibelstelle ausgewählt, auf welches die Anda
 *Der Andachtshaltende erläutert das Thema anhand eines persönlichen Einblicks in sein Leben. Wie habe ich das Thema erlebt? Was bedeutet es für mich?*
 
 **We**\
-*Der Andachtshaltende bezieht seine persönlichen Erfahrungen und das Thema generell auf die Gruppe. Wieso ist das Thema für die Gruppe wichtig? Wem ist schonmal etwas Ähnliches passiert?*
+*Der Andachtshaltende bezieht seine persönlichen Erfahrungen und das Thema generell auf die Gruppe. Wieso ist das Thema für die Gruppe wichtig? Wem ist schon mal etwas Ähnliches passiert?*
 
 **God**\
 *Nun kommt Gott ins Spiel. Was sagt er und besonders die Bibel zu diesem Thema? Wie unterscheidet sich Gottes Sicht auf das Thema zu unseren Auffassungen?*
@@ -171,7 +171,7 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 
 \pagebreak
 
-## Du weißt über die Stammessituation bescheid
+## Du weißt über die Stammessituation Bescheid
 
 *Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Sipplinge während des Things Notizen machen zu lassen. Zur Stammessituation gehören die Ämterbesetzungen und ein paar weitere Kennzahlen sowie ggf. weitere aktuelle Ereignisse.*
 
@@ -209,7 +209,7 @@ Außerdem sind folgende Kennzahlen zu besprechen:
 
 ## Du kannst das Pfadfinderversprechen und besprichst es mit Deinem Sippenführer
 
-*Nun folgt das Pfadfinderversprechen. In der Besprechung des Versprechens lohnt es sich, den Begriff 'Mitgestalter des Sippenlebens' sowie die Redewendung 'Im Vertraun auf Gottes Hilfe' zu vertiefen. Außerdem kann beim Sippenabend ein Vergleich dieses Versprechens mit dem ursprünglichen Pfadfinderversprechen BPs hilfreich sein.*
+*Nun folgt das Pfadfinderversprechen. In der Besprechung des Versprechens lohnt es sich, den Begriff 'Mitgestalter des Sippenlebens' sowie die Redewendung 'Im Vertrauen auf Gottes Hilfe' zu vertiefen. Außerdem kann beim Sippenabend ein Vergleich dieses Versprechens mit dem ursprünglichen Pfadfinderversprechen BPs hilfreich sein.*
 
 &nbsp;
 
@@ -229,7 +229,7 @@ On my honour I promise that I will do my best –
 
 \pagebreak
 
-## Du kennst die Stammesgeschichte in ihrern Grundzügen
+## Du kennst die Stammesgeschichte in ihren Grundzügen
 
 *Es kann sinnvoll sein, zum tieferen Verständnis und zur besseren Veranschaulichung in der Vorbereitung und beim Sippenabend die Jubiläumsbroschüren der Jubiläen 50 und 70 Jahre Stamm St. Andreas zu verwenden. Dort sind neben detaillierten Beschreibungen auch interessante Fotos vorhanden, die sonst im Stammesarchiv besichtigt werden können. Diese Schilderung ist **Stand Mai 2020**. Alle weiteren wichtigen Ereignisse müssen nach Ermessen des Sippenführers ergänzt werden.*
 
@@ -263,7 +263,7 @@ Im Folgenden wird die Stammesgeschichte in zwei Formen dargelegt. Einmal in komp
 * Nach Auseinandersetzungen im VCP über eine VCP-unabhängige Stammesmitgliedschaft der Pfadfinder St. Andreas wird dem Stamm im selben Jahr die VCP-Mitgliedschaft aberkannt und er tritt der EJH bei
 * 2013: Gründung des Schulprojekts 'Schulfüchse', das mittlerweile den Großteil der Sipplingsaquise übernimmt
 * 2018 eines der größten Pfingstlager der Stammesgeschichte mit ungefähr 130 Teilnehmern
-* 2019 feiern die Pfadfinder St. Andreas ihr 70-jähriges Juiläum mit vielen aktiven und ehemaligen Pfadfindern
+* 2019 feiern die Pfadfinder St. Andreas ihr 70-jähriges Jubiläum mit vielen aktiven und ehemaligen Pfadfindern
 * Anfang 2020 trennt sich die Kirchengemeinde St. Andreas nach  einem starken, öffentlichen Streit wegen fadenscheiniger Argumente von den Pfadfindern St. Andreas
 * Mitte 2020 zählt der Pfadfinderstamm ungefähr 180 aktive Mitglieder aufgeteilt in 20 Sippen
 
@@ -281,11 +281,11 @@ Am 27. März 1949 wurde die Gründungsidee der Pfadfinderarbeit zu St. Andreas g
 
 Die Neunziger gehen einher mit zahlreichenden Veränderungen. Trotz allem ist die Arbeit im Stamm von zahlreichen Höhepunkten geprägt. Neben dem Kamerunprojekt, das dortigen Jugendlichen bei der Ausbildung helfen soll, wird Mitte der Neunziger mit dem „Friedenslicht“, aus der Geburtskirche Jesu in Bethlehem, ein weiterer Schwerpunkt unserer Arbeit gesetzt. 1996 findet mit 46 Teilnehmern die erfolgreichste Sommerfahrt der letzten 10 Jahre nach Cornwall statt. Obgleich sich bereits ein weiterer Generationswechsel bei den Sippenführern abzeichnete, war die Arbeit der letzten Jahre von Konsistenz geprägt. 1997 gab es im Stamm Auseinandersetzungen zwischen verschiedenen Gruppen innerhalb der Ulanen, so dass daraus eine Abspaltung entstehen sollte. Zwei sehr erfolgreiche Sippenführer von 2 Sippen verließen mit Ihren Sipplingen den Stamm und gründeten in Hoheluft den Stamm St. Markus.
 
-Die folgenden Jahre verliefen ruhig. Die Sommerfahrtstradition wurde aufrechterhalten und viele Fahrten und Lager wurden organisiert. Der Stamm St. Andreas war Kopf des Bezirkes Alstergau und einflussreich im Landesverband. In dieser Zeit fand ein Generationswechsel im Stamm statt. Viele junge Sippenführer gründeten oder übernahmen Sippen. Leider ging die inhaltliche Arbeit in den folgenden Jahren zurück. Viele Sipplinge verließen den Stamm bevor sie Verantwortung übernehmen konnten, sodass Pfingstlager stattfanden, an denen 50 und weniger Pfadfinder teilnahmen. Sippen wurden gegründet und mangels Sipplingen bald wieder zusammengelegt und viele Sippen hatten oft wechselnde Sippenführer, so daß eine kontinuierliche, gemeinschaftsbezogene Arbeit immer mehr auf dem Rückgang war. 2003 wurden dann erstmalig wieder drei neue Sippen, von motivierten und jungen Sippenführern gegründet, die Jicarillas, Yerbateros und Yakima. Dennoch gab es innerhalb der Ulanen immer wieder Spannungen über pfadfinderische Prinzipien und den christlichen Glauben. Die gemeindebezogene Arbeit wurde mehr und mehr zurückgefahren, so daß der Stamm innerhalb der Kirchengemeinde zunehmend isoliert wurde. Von einer Gruppe der Ulanen wurde 2003 zusammen mit einigen Älteren und der Gemeinde an „ProChrist“ teilgenommen, einem evangelistischen Übertragungsgottesdienst. Die verschiedenen Gruppen innerhalb der Ulanen entfremdeten sich zunehmend, so wurden getrennte Fahrten organisiert, unter anderem unterschiedliche Sommerfahrten für 2004.
+Die folgenden Jahre verliefen ruhig. Die Sommerfahrtstradition wurde aufrechterhalten und viele Fahrten und Lager wurden organisiert. Der Stamm St. Andreas war Kopf des Bezirkes Alstergau und einflussreich im Landesverband. In dieser Zeit fand ein Generationswechsel im Stamm statt. Viele junge Sippenführer gründeten oder übernahmen Sippen. Leider ging die inhaltliche Arbeit in den folgenden Jahren zurück. Viele Sipplinge verließen den Stamm bevor sie Verantwortung übernehmen konnten, sodass Pfingstlager stattfanden, an denen 50 und weniger Pfadfinder teilnahmen. Sippen wurden gegründet und mangels Sipplingen bald wieder zusammengelegt und viele Sippen hatten oft wechselnde Sippenführer, so dass eine kontinuierliche, gemeinschaftsbezogene Arbeit immer mehr auf dem Rückgang war. 2003 wurden dann erstmalig wieder drei neue Sippen, von motivierten und jungen Sippenführern gegründet, die Jicarillas, Yerbateros und Yakima. Dennoch gab es innerhalb der Ulanen immer wieder Spannungen über pfadfinderische Prinzipien und den christlichen Glauben. Die gemeindebezogene Arbeit wurde mehr und mehr zurückgefahren, so dass der Stamm innerhalb der Kirchengemeinde zunehmend isoliert wurde. Von einer Gruppe der Ulanen wurde 2003 zusammen mit einigen Älteren und der Gemeinde an „ProChrist“ teilgenommen, einem evangelistischen Übertragungsgottesdienst. Die verschiedenen Gruppen innerhalb der Ulanen entfremdeten sich zunehmend, so wurden getrennte Fahrten organisiert, unter anderem unterschiedliche Sommerfahrten für 2004.
 
 Nach einem großen Pfingstlager 2004 zeichnete sich erneut eine Stammesspaltung ab. Nach den Sommerfahrten war es dann soweit: Ca. 12 Ulanen verließen mit ihren Sippen den Stamm St. Andreas, um in der Nachbarschaft an der Christuskirche den Stamm St. Paulus zu gründen. Andere Ulanen hörten mit der Pfadfinderarbeit auf. Übrig blieben 8 junge, motivierte Ulanen, die in den folgenden Jahren eine christlich und pfadfinderisch starke Arbeit aufbauten, so dass sich in wenigen Jahren die Sipplingszahlen nahezu verdoppelten. Die alten St. Andreas Traditionen wurden aufrechterhalten und ausgebaut. Immer mehr Sippen wurden erfolgreich gegründet. Der Kontakt zur Kirchengemeinde und die Einbindung in die Gemeinde entwickelten sich ausgesprochen gut. Der Kontakt zum Bezirk Alstergau und dem Landesverband wurde auf ein Minimum zurückgefahren, um eine Eigendynamik entstehen zu lassen und sich auf inhaltsstarke und christliche Pfadfinderarbeit zu konzentrieren. Als Folge dieser Entwicklung führte der Stamm auch eigene, VCP-unabhängige Mitgliedschaften ein, die später zur Aberkennung der VCP-Mitgliedschaft des Stammes führten. Im Jahre 2005 gewinnt der Stamm eine Pachtausschreibung des Landes Niedersachsen für das Seybruch-Gelände. In Folge von intensiven Renovierungsarbeiten wird der Seybruch unser neues Pfadfindergelände. 2011 fuhr der Stamm erstmals als eigener Trupp auf das weltweite Pfadfindertreffen, das Jamboree, nach Schweden. 40 Stammesmitglieder repräsentierten dort vor der internationalen Pfadfinderschaft Hamburg und einen Teil Deutschlands.
 
-Anfang der 2010er Jahre wurde es zunehmend schwerer, neue Sipplinge für die Pfadfinder zu begeistern, weil es viele Konkurrenzangebote in Emsbüttel & Harvestehude gab und die Schulen zu großen Teilen auf Ganztagsbetreuung umstiegen. Um dieses Problem anzugehen, wurden 2013 die Schulfüchse - eine pfadfinderische Nachmittagsbetreuung, die sich sehr schnell großer Beliebtheit erfreute und viele Kinder zu den Pfadfindern brachte - gegründet. Mittlerweile konnte die Arbeit der Schulfüchse auf viele Kurse in unterschiedlichen Stadtteilen erweitert werden und sogar Ausbildungs- und FSJ-Stellen eingerichtet werden. In dieser Zeit fanden neben zunehmend erfolgriechen Fahrten (insbesondere Sommerfahrt & Sommerlager) auch internationale Begegnungen mit Teams aus den USA (Atlanta), Honduras, Dänemark oder Simbabwe statt. Ende 2013 wird den Pfadfindern St. Andreas nach längeren Auseinandersetzungen über den Einfluss des Stammes im Bezirk die Mitgliedschaft im VCP aberkannt und der Stamm tritt über die Kirche der EJH bei. Auf diesen Umbruch folgt eine lebendige Zeit bei den Pfadfindern, wo nicht nur viele Sippen gegründet, sondern auch gut besuchte Fahrten organisiert wurden. 2018 findet mit 130 Teilnehmern eines der größten Pfingstlager der Stammesgeschichte an den Schaalsee statt. 2019 feiert der Stamm sein 70-jähriges Jubiläum mit einer großen Veranstaltung. Dort waren unter anderem der Stammesgründer Hartmut Clasen und andere ehemalige Pfadfinder anwesend. In den ersten Wochen des Jahres 2020 trennt sich die Kirchengemeinde St. Andreas in Harvestehude von den Pfadfindern St. Anderas, nachdem im Herbst 2019 ein großer, öffentlicher Streit über die Pfadfinder in der Gemeinde entstanden war. Der Rauswurf konnte die Mitgliederanzahl des Stammes jedoch nicht bremsen und nur sehr wenige Sipplinge verließen den Stamm. Mitte 2020 zählen wir ungefähr 180 aktive Mitglieder in 20 Sippen.
+Anfang der 2010er Jahre wurde es zunehmend schwerer, neue Sipplinge für die Pfadfinder zu begeistern, weil es viele Konkurrenzangebote in Emsbüttel & Harvestehude gab und die Schulen zu großen Teilen auf Ganztagsbetreuung umstiegen. Um dieses Problem anzugehen, wurden 2013 die Schulfüchse - eine pfadfinderische Nachmittagsbetreuung, die sich sehr schnell großer Beliebtheit erfreute und viele Kinder zu den Pfadfindern brachte - gegründet. Mittlerweile konnte die Arbeit der Schulfüchse auf viele Kurse in unterschiedlichen Stadtteilen erweitert werden und sogar Ausbildungs- und FSJ-Stellen eingerichtet werden. In dieser Zeit fanden neben zunehmend erfolgreichen Fahrten (insbesondere Sommerfahrt & Sommerlager) auch internationale Begegnungen mit Teams aus den USA (Atlanta), Honduras, Dänemark oder Simbabwe statt. Ende 2013 wird den Pfadfindern St. Andreas nach längeren Auseinandersetzungen über den Einfluss des Stammes im Bezirk die Mitgliedschaft im VCP aberkannt und der Stamm tritt über die Kirche der EJH bei. Auf diesen Umbruch folgt eine lebendige Zeit bei den Pfadfindern, wo nicht nur viele Sippen gegründet, sondern auch gut besuchte Fahrten organisiert wurden. 2018 findet mit 130 Teilnehmern eines der größten Pfingstlager der Stammesgeschichte an den Schaalsee statt. 2019 feiert der Stamm sein 70-jähriges Jubiläum mit einer großen Veranstaltung. Dort waren unter anderem der Stammesgründer Hartmut Clasen und andere ehemalige Pfadfinder anwesend. In den ersten Wochen des Jahres 2020 trennt sich die Kirchengemeinde St. Andreas in Harvestehude von den Pfadfindern St. Andreas, nachdem im Herbst 2019 ein großer, öffentlicher Streit über die Pfadfinder in der Gemeinde entstanden war. Der Rauswurf konnte die Mitgliederanzahl des Stammes jedoch nicht bremsen und nur sehr wenige Sipplinge verließen den Stamm. Mitte 2020 zählen wir ungefähr 180 aktive Mitglieder in 20 Sippen.
 
 \pagebreak
 
@@ -327,7 +327,7 @@ Eines der Pfadfinderprinzipen von BP ist 'Fahrt und Lager'. Ein Pfadfinder ohne 
 
 Auf dem Weg zum Sippenführer ist es besonders wichtig, grundlegende Fahrtenbauten[^footnote3] zu kennen. Die Kohte und der Waldpenner sind die Lagerbauten, die in der Praxis am regelmäßigsten verwendet werden. *Es ist sinnvoll, im Anschluss an diese Probe bei einem Sippenabend oder auf Fahrt die Sipplinge beide Lagerbauten eigenständig aufbauen zu lassen.*
 
-[^footnote3]: Weitere Informationen zu wichtigen Fahrtenbauten sind in dem 'Sippenführer' ab Seite 109 zu finden. Dort werden unter anderem der Frosch, die Kröte, der Mor og barn und Jurten thematisert. 
+[^footnote3]: Weitere Informationen zu wichtigen Fahrtenbauten sind in dem 'Sippenführer' ab Seite 109 zu finden. Dort werden unter anderem der Frosch, die Kröte, der Mor og barn und Jurten thematisiert. 
 
 &nbsp;
 
@@ -339,7 +339,7 @@ Der Waldpenner ist ein Ein-Personen-Zelt mit begrenztem Platz: Leute über 1,60 
 
 \pagebreak
 
-Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldpenner gegenüber zu stellen. Ein solches Konstrukt nennt man eine Kröte. Dort werden zusätzlich die Kohtenbahnen in der Mitte zusammengeknüpft und nur eine Stütze benutzt. Dadurch gibt es am Kopfende des Waldpenners kein Loch mehr, welches Platz für Wind oder Regen lässt. 
+Um etwas geschützter vor Wind und Witterung zu sein, ist es möglich, zwei Waldpenner gegenüber zu stellen. Ein solches Konstrukt nennt man eine Kröte. Dort werden zusätzlich die Kohtenbahnen in der Mitte zusammengeknüpft und nur eine Stütze benutzt. Dadurch gibt es am Kopfende des Waldpenners kein Loch mehr, welches Platz für Wind oder Regen lässt. 
 
 ![Skizze einer Kröte](Waldpenner-zusammen.jpg){width=50%}
 
@@ -389,7 +389,7 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 
 \underline{Palstek (Weberknoten)}
 
-Der Palstek ist der wohl schwierigste grundlegende Knoten dieser Probe. Er ist aber um so nützlicher. Denn im Gegensatz zum Slipstek ('Zauberknoten' oder 'Hausfrauenknoten') lässt er sich leicht (auch nachdem er lange unter Zug stand) wieder öffnen: Man muss nur die Schlinge, die man im letzten Schritt gelegt hat, um das Zugseil kippen (siehe dafür Kreuzknoten). Deswegen wird der Palstek meist benutzt, wenn eine Schlinge gebraucht wird. Zum Beispiel bei der Kohtenstange zum Hochziehen des Kohtenkreuzes. 
+Der Palstek ist der wohl schwierigste grundlegende Knoten dieser Probe. Er ist aber umso nützlicher. Denn im Gegensatz zum Slipstek ('Zauberknoten' oder 'Hausfrauenknoten') lässt er sich leicht (auch nachdem er lange unter Zug stand) wieder öffnen: Man muss nur die Schlinge, die man im letzten Schritt gelegt hat, um das Zugseil kippen (siehe dafür Kreuzknoten). Deswegen wird der Palstek meist benutzt, wenn eine Schlinge gebraucht wird. Zum Beispiel bei der Kohtenstange zum Hochziehen des Kohtenkreuzes. 
 
 Zum Binden des Palsteks kann folgende Eselsbrücke hilfreich sein: Es wird ein See mit dem Seil gebildet. Das obere Ende ist eine Schlange, die aus dem See herauskommt. Im nächsten Schritt geht die Schlange um den Baum (anderes Ende des Seils) herum und taucht wieder in den See ein. Zum Schluss wird der Knoten festgezogen. 
 
@@ -435,7 +435,7 @@ Mindestens genauso wichtig wie ein Spannzug ist das normale Abspannen mit Halben
 
 Bünde werden vor allem bei Lagerbauten gerne verwendet und sind zur Fixierung mehrerer Stangen vorgesehen. Der Kreuzbund verbindet zwei Stangen, die im rechten Winkel aufeinander liegen sollen. So wird der Kreuzbund beispielsweise beim Kohtenkreuz verwendet.
 
-Wie jeder Bund beginnt der Kreuzbund mit einem Zimmermannsschlag. Der Tampen wird von da an immer abwechselnd über die eine Stange und unter die andere Stange gelegt. Wichtig ist dabei, zu beachten, dass der Tampen immer weiter nach innen gelegt wird, damit der Bund nicht zerfällt. Wenn sich der Tampen selber berüht, wird der Bund geknebelt und mit einem Mastwurf fixiert.
+Wie jeder Bund beginnt der Kreuzbund mit einem Zimmermannsschlag. Der Tampen wird von da an immer abwechselnd über die eine Stange und unter die andere Stange gelegt. Wichtig ist dabei, zu beachten, dass der Tampen immer weiter nach innen gelegt wird, damit der Bund nicht zerfällt. Wenn sich der Tampen selber berührt, wird der Bund geknebelt und mit einem Mastwurf fixiert.
 
 ![Skizze des Kreuzbundes](Kreuzbund.jpg){width=60%}
 
@@ -459,7 +459,7 @@ Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Sch
 
 ## Du kannst Feuer machen und drei verschiedene Feuerarten anwenden
 
-*Feuer ist ein wichtiges Fahrtenelement: Es ist nicht nur warm und sieht gut aus, sondern ist auch fürs Kochen wichtig und kann an kalten Tagen die Stimmung merklich bessern. Praktische Feuerproben eignen sich in Kombination mit Stockbrot, Spatenei oder Marshmellows als Belohnung für die Sipplinge, wenn sie ein Feuer anbekommen haben.*
+*Feuer ist ein wichtiges Fahrtenelement: Es ist nicht nur warm und sieht gut aus, sondern ist auch fürs Kochen wichtig und kann an kalten Tagen die Stimmung merklich bessern. Praktische Feuerproben eignen sich in Kombination mit Stockbrot, Spatenei oder Marshmallows als Belohnung für die Sipplinge, wenn sie ein Feuer anbekommen haben.*
 
 &nbsp;
 
@@ -508,7 +508,7 @@ Ein Pagodenfeuer entsteht durch das systematische Stapeln der Holzscheite zu ein
 
 **Polynesisches Feuer**
 
-Das Polynesische Feuer ist ein weiteres Kochfeuer, was gegenüber den vorher genannten Feuerarten aber den Vorteil hat, Wind- und Regengeschützt zu sein, weil es sich in einem Loch befindet. In das Loch werden an die Seiten Holzscheite gestellt, die die Feuerquelle am Boden des Lochs speisen. Durch diese Feuerstrutur gibt es beim Kochen auch fast keinen Wärmeverlust und das Feuer ist von weitem fast unsichtbar.
+Das Polynesische Feuer ist ein weiteres Kochfeuer, was gegenüber den vorher genannten Feuerarten aber den Vorteil hat, Wind- und Regengeschützt zu sein, weil es sich in einem Loch befindet. In das Loch werden an die Seiten Holzscheite gestellt, die die Feuerquelle am Boden des Lochs speisen. Durch diese Feuerstruktur gibt es beim Kochen auch fast keinen Wärmeverlust und das Feuer ist von weitem fast unsichtbar.
 
 &nbsp;
 
@@ -533,7 +533,7 @@ Es gibt einige \underline{Faustregeln}, die sich lohnen im Hinterkopf zu haben, 
 
 Für die \underline{konkreten Holzarten} bedeutet das: 
 
- * **Buche** brennt leicht und heiß, bildet Kohle und ist deswegen das beste Holz für eine Kochstelle 
+* **Buche** brennt leicht und heiß, bildet Kohle und ist deswegen das beste Holz für eine Kochstelle 
 * **Eiche** gibt gute Holzkohle, glüht lange, brennt aber nicht so leicht wie Buche
 * **Ahorn** ist generell gut für ein Feuer zu verwenden, hat aber keine besonderen Eigenschaften
 * **Esche** brennt sehr leicht
@@ -609,7 +609,7 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 * Regelmäßig reinigen, da sonst der Ruß festbrennt
 * Glas kann gut mit etwas Klopapier & Petroleum gereinigt werden
 * Lampe nicht ausblasen, weil der Docht dann weiter glüht
-* Aufpassen, das man den Docht nicht zu weit zurückdreht, sodass der Docht in den Tank fällt
+* Aufpassen, dass man den Docht nicht zu weit zurückdreht, sodass der Docht in den Tank fällt
 
 \pagebreak
 
@@ -659,14 +659,14 @@ Bevor der Rucksack gepackt wird, muss darauf geachtet werden, ob der Wanderrucks
 
 Beim Packen eines Rucksacks gilt es zwei Punkte zu beachten: 
 
-#. Wo muss ich die Sachen hinpacken, damit der Rucksack insgesamt leicht bleibt? 
-#. Wie oft benutze ich diese Sache und wo sollte ich es deswegen hinpacken, um gut auf die Sache zugreifen zu können? 
+#. Wo muss ich die Sachen hin packen, damit der Rucksack insgesamt leicht bleibt? 
+#. Wie oft benutze ich diese Sache und wo sollte ich es deswegen hin packen, um gut auf die Sache zugreifen zu können? 
 
 Deshalb ist es klug, wie in Abbildung 15 zu sehen ist, schwere Gegenstände an den Rücken des Rucksacks zu packen, weil dort die geringste Hebelwirkung greift. Außerdem sollte darauf geachtet werden, dass keine Gegenstände draußen am Rucksack befestigt werden oder dort rumbaumeln, weil das beim Wandern nervig ist, und durch die Bewegungen einen Widerstand aufbaut. Wichtige Sachen wie die Taschenlampe, das Brotbrettchen, ein Messer, der Impfausweis und die Krankenversicherungskarte des Sipplings werden gerne im Deckelfach aufbewahrt, weil sie dort schnell zu erreichen sind. Außerdem ist es sinnvoll, den Schlafsack mit allen weiteren Schlafsachen in das unterste Fach des Rucksacks zu packen, da dieser auf keinen Fall nass werden darf und dort am besten geschützt ist. 
 
 ![Packhilfe für einen Rucksack](packen.jpg){width=41%}
 
-Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. Die einzupackenden Gegenstände variieren jenachdem, ob es Sommer oder Winter ist und, ob man eine Wander-, Zelt- oder Hausfahrt veranstaltet. Die hier angeführte Packliste fasst aber die wichtigsten Gegenstände zusammen: 
+Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. Die einzupackenden Gegenstände variieren je nachdem, ob es Sommer oder Winter ist und, ob man eine Wander-, Zelt- oder Hausfahrt veranstaltet. Die hier angeführte Packliste fasst aber die wichtigsten Gegenstände zusammen: 
 
 * Schlafsack
 * Rucksack (gut sitzend und für eine Wanderung tragbar)
@@ -699,7 +699,7 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 
 &nbsp;
 
-Sippenführer müssen auf Fahrt zusätzliche Gegenständen mitnehmen. Ein paar wichtige Gegenstände für Ulanen sind folgende: Bibel, Ulanenmappe, Gitarre, Gitarrenliederbuch, Wanderkarte, Kamera, Akkuladekabel, Erste-Hilfe-Tasche und Extra-Bändsel.
+Sippenführer müssen auf Fahrt zusätzliche Gegenstände mitnehmen. Ein paar wichtige Gegenstände für Ulanen sind folgende: Bibel, Ulanenmappe, Gitarre, Gitarrenliederbuch, Wanderkarte, Kamera, Akkuladekabel, Erste-Hilfe-Tasche und Extra-Bändsel.
 
 \pagebreak
 
@@ -711,12 +711,12 @@ Sippenführer müssen auf Fahrt zusätzliche Gegenständen mitnehmen. Ein paar w
 
 \underline{Konuss}
 
-Eine Konuss ist ein Trinkgefäß, das aus der ausgehöhlten unteren Hälfe einer Kokusnuss besteht. Bei viel Engagement kann auch noch ein Ständer für dieses Gefäß gebaut werden. 
+Eine Konuss ist ein Trinkgefäß, das aus der ausgehöhlten unteren Hälfe einer Kokosnuss besteht. Bei viel Engagement kann auch noch ein Ständer für dieses Gefäß gebaut werden. 
 
-#. Ein Loch in den oberen Teil einer Kokusnuss bohren und das Wasser abtropfen lassen.
-#. Mit einer Säge vorsichtig die obere Hälfte (ca. $\frac{1}{3}$) der Kokusnuss absägen.
-#. Das Kokusnussfleisch sorgfältig mit einem Löffel oder einem Messer aus der Kokusnuss rausschneiden - nach diesem Schritt muss die Kokusnuss vollkommen leer sein.
-#. Mit Schmirgelpapier die Haare der Kokusnuss entfernen so, dass die Oberfläche vollkommen Glatt wird.
+#. Ein Loch in den oberen Teil einer Kokosnuss bohren und das Wasser abtropfen lassen.
+#. Mit einer Säge vorsichtig die obere Hälfte (ca. $\frac{1}{3}$) der Kokosnuss absägen.
+#. Das Kokosnussfleisch sorgfältig mit einem Löffel oder einem Messer aus der Kokosnuss rausschneiden - nach diesem Schritt muss die Kokosnuss vollkommen leer sein.
+#. Mit Schmirgelpapier die Haare der Kokosnuss entfernen so, dass die Oberfläche vollkommen Glatt wird.
 #. Die Außenseite der Konuss mit durchsichtigem Lack lackieren.
 
 \underline{Gefäß aus Birkenrinde}
@@ -724,17 +724,17 @@ Eine Konuss ist ein Trinkgefäß, das aus der ausgehöhlten unteren Hälfe einer
 Ein solches Gefäß braucht in der Zubereitung viel Ruhe und Feingefühl. Vor allem werden zwei große Birkenrindenstücke benötigt, um die Probe durchführen zu können. Zum Formen eines stabilen Gefäßes eignet sich Birkenrinde am meisten.
 
 #. Das größere Birkenrindenstück wird in eine rechteckige Form gebracht. Das kleinere Stück bekommt eine runde Form, die als Boden fungieren wird.
-#. Mit dem größeren der beiden Stücke Birkenrinde wird ein Zylinder geform. Dieser wird mit Sekundenkleber fixiert und durch Garn gefestigt. 
-#. Das kleiere, runde Stück wird als Boden an dem Zylinder mit Klebe und Garn befestigt. 
+#. Mit dem größeren der beiden Stücke Birkenrinde wird ein Zylinder geformt. Dieser wird mit Sekundenkleber fixiert und durch Garn gefestigt. 
+#. Das kleinere, runde Stück wird als Boden an dem Zylinder mit Klebe und Garn befestigt. 
 #. Gegebenenfalls wird die Lücke zwischen Boden und Rand außen mit Wachs oder Klebe verschlossen 
 
 \pagebreak
 
 \underline{Trinkgefäß schnitzen}
 
-Das Schnitzen eines Gefäßes aus Holz erfordert viel Kreativität und Durchhaltevermögen. Besonders gut zum Schnitzen eignen sich Lindenholz, Ahornholz und Zirbelholz. Generell kann man sagen, dass Holz mit breiten Jahresringen weicher als Holz mit engen Jahresringen ist. Außerdem kann man sprödes Holz durch das Besprühen mit etwas Wasser wieder geschmeidiger machen. Als unterstützende Werkzeuge zum Schnitzen werden neben einem Messer vor allem ein Bohrer, ein Löffelmesser und ein rundes Stämmeisen empfohlen. 
+Das Schnitzen eines Gefäßes aus Holz erfordert viel Kreativität und Durchhaltevermögen. Besonders gut zum Schnitzen eignen sich Lindenholz, Ahornholz und Zirbelholz. Generell kann man sagen, dass Holz mit breiten Jahresringen weicher als Holz mit engen Jahresringen ist. Außerdem kann man sprödes Holz durch das Besprühen mit etwas Wasser wieder geschmeidiger machen. Als unterstützende Werkzeuge zum Schnitzen werden neben einem Messer vor allem ein Bohrer, ein Löffelmesser und ein rundes Stemmeisen empfohlen. 
 
-#. Einen quadratischen Klotz der oben genannten Holzarten vorbereiten, damit damit das Trinkgefäß daraus geschnitzt werden kann. 
+#. Einen quadratischen Klotz der oben genannten Holzarten vorbereiten, damit das Trinkgefäß daraus geschnitzt werden kann. 
 #. Ein breites Loch in die Mitte des Klotzes (nicht ganz durch!) bohren. Von dort wird angefangen zu schnitzen. 
 #. Zuerst die äußere Form des Gefäßes schnitzen und dann von dem Loch aus eine Einhöhlung entwerfen. 
 #. Dem fertigen Gefäß mit Schmirgelpapier eine weiche Oberfläche verleihen
@@ -748,7 +748,7 @@ Ganz nach dem Pfadfindergesetz *'Ein Pfadfinder schützt die Natur und bewahrt d
 
 ## Du kannst fünf verschiedene Pflanzen und Sträucher unserer Wälder nach ihrem Aussehen und ihren Früchten bestimmen
 
-*Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem in einem Memorie die Blätter den Früchten zugeordnet werden (ein fertiges Memorie ist im Anhang zu finden). Genauso kann man auch ein Quizz machen. Hier werden zehn Beispiele genannt, die auch auf fünf eingeschränkt werden können.*
+*Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem in einem Memoire die Blätter den Früchten zugeordnet werden (ein fertiges Memoire ist im Anhang zu finden). Genauso kann man auch ein Quizz machen. Hier werden zehn Beispiele genannt, die auch auf fünf eingeschränkt werden können.*
 
 In dieser Probe beschränken wir uns nicht nur auf Sträucher, sondern behandeln als Pflanzen vor allem Bäume. Die Pflanzen werden anhand ihrer Blätter und Früchte identifiziert.
 
@@ -792,7 +792,7 @@ Die Ulme ist ein vergleichsweise simpler Baum. Er besitzt keine besonderen Früc
 
 \underline{Weide}
 
-Ein gängier Baum, der noch mehr Arten als die Ulme hat, ist die Weide. Sie ist in der nördlichen gemäßigten Zone bis zur Arktis mit kanppen 450 Arten vertreten. Außerdem sind einige Weiden auch in den Tropen heimisch. Weiden zeichnen sich vor allem durch ihre langen, herunterhängenden Äste und das dadurch entstehende Erscheinungsbild aus.
+Ein gängiger Baum, der noch mehr Arten als die Ulme hat, ist die Weide. Sie ist in der nördlichen gemäßigten Zone bis zur Arktis mit knappen 450 Arten vertreten. Außerdem sind einige Weiden auch in den Tropen heimisch. Weiden zeichnen sich vor allem durch ihre langen, herunterhängenden Äste und das dadurch entstehende Erscheinungsbild aus.
 
 ![Skizze von Blatt und Frucht der Weide](weide.jpg){width=60%}
 
@@ -806,13 +806,13 @@ Vor allem im Herbst entfaltet sie ihre volle Schönheit: die Rostkastanie. Kaum 
 
 \underline{Hasel}
 
-Der Strauch der Hasel, besser bekannt als Haselstrauch oder Haselnussstrauch, ist wohl am ehesten für seine Frucht, die Haselnus, bekannt. Die Hasel existiert in Europa und Kleinasien, kommt aber am häufigsten in Mitteleuropa vor.
+Der Strauch der Hasel, besser bekannt als Haselstrauch oder Haselnussstrauch, ist wohl am ehesten für seine Frucht, die Haselnuss, bekannt. Die Hasel existiert in Europa und Kleinasien, kommt aber am häufigsten in Mitteleuropa vor.
 
 ![Skizze von Blatt und Frucht der Hasel](hasel.jpg){width=60%}
 
 \underline{Kirsche}
 
-Auch der Kirschbaum ist vor allem durch seine Fruch bekannt, die gerne im Sommer verzehrt wird. Die Frucht der Kirsche befindet sich an einem Kirschbaum. Neben der in Deutschland als Speisekirsche bekannten Kirsche gibt es auch noch viele andere Kirschsorten.
+Auch der Kirschbaum ist vor allem durch seine Frucht bekannt, die gerne im Sommer verzehrt wird. Die Frucht der Kirsche befindet sich an einem Kirschbaum. Neben der in Deutschland als Speisekirsche bekannten Kirsche gibt es auch noch viele andere Kirschsorten.
 
 ![Skizze von Blatt und Frucht des Kirschbaums](kirsche.jpg){width=60%}
 
@@ -828,13 +828,13 @@ Die Weißdorne ist ein in Deutschland mit drei unterschiedlichen Arten vertreten
 
 ## Du bestimmst das Sternbild des Großen Wagens (Gr. Bär) und den Polarstern
 
-*Es ist lohnenswert, diese Probe kreativ anzugehen. Ein Beispiel für einen kreativen Sternen-Sippenabend ist es, die Sternenbilder in eine dunkle Oberfläche zu stechen und die Sterne in einem abgedunkelten Raum durch eine einzige Lichtquelle an die Decke zu projezieren. Noch besser ist es natürlich, auf Fahrt diese Sternenbilder durchzusprechen und zu entdecken.*
+*Es ist lohnenswert, diese Probe kreativ anzugehen. Ein Beispiel für einen kreativen Sternen-Sippenabend ist es, die Sternenbilder in eine dunkle Oberfläche zu stechen und die Sterne in einem abgedunkelten Raum durch eine einzige Lichtquelle an die Decke zu projizieren. Noch besser ist es natürlich, auf Fahrt diese Sternenbilder durchzusprechen und zu entdecken.*
 
 &nbsp;
 
 Der Große Wagen, auch Großer Bär genannt, ist das wohl einfachste Sternenbild und kann meistens bei sternenklarer Nacht erkannt werden. Wie der Große Wagen aussieht, ist in Abbildung 26 dargestellt. 
 
-Wenn man die hintere Achse des Großen Wagens 5x verlängter, kommt man zum Polarstern. Dieser Stern ist zur Orientierung besonders wichtig, weil er immer im Norden steht. Außerdem ist er Teil des Kleinen Wagens und stellt den Griff dieses Sternenbilds dar. 
+Wenn man die hintere Achse des Großen Wagens 5x verlängert, kommt man zum Polarstern. Dieser Stern ist zur Orientierung besonders wichtig, weil er immer im Norden steht. Außerdem ist er Teil des Kleinen Wagens und stellt den Griff dieses Sternenbilds dar. 
 
 &nbsp;
 
@@ -844,7 +844,7 @@ Wenn man die hintere Achse des Großen Wagens 5x verlängter, kommt man zum Pola
 
 # Musisches
 
-Wer schonmal einen fetzigen Tschaiabend miterlebt hat, wird sich bewusst sein, wie wichtig Musisches bei uns als Pfadfinder ist. Musisches bietet, wie diese Probenhilfe zeigt, aber noch viel mehr, als nur zu singen und zu basteln...
+Wer schon mal einen fetzigen Tschaiabend miterlebt hat, wird sich bewusst sein, wie wichtig Musisches bei uns als Pfadfinder ist. Musisches bietet, wie diese Probenhilfe zeigt, aber noch viel mehr, als nur zu singen und zu basteln...
 
 ## Du hast in Dein Pfadfinderbuch das nötige Pfadfinderwissen eingeschrieben
 
@@ -895,7 +895,7 @@ Es gibt fünf unterschiedliche **Sippenabendtypen**, für die es sich lohnt, ein
 
 \pagebreak
 
-* Musische Arbeit (oft mit christicher Arbeit verbunden)
+* Musische Arbeit (oft mit christlicher Arbeit verbunden)
     * Fahrtenlieder singen, Kastanienmännchen basteln etc. 
 * Probenarbeit
     * Kohtenaufbau üben, Waldläuferzeichenlauf, Theoretische Probenbesprechung etc.
@@ -975,7 +975,7 @@ Sobald man beim Notruf mit der Zentrale verbunden ist, müssen die fünf W-Frage
 
 \underline{Erste-Hilfe}
 
-Wenn die oben beschriebenen Schritte abgeschlossen sind, hat man rechtlich seine mindeste Pflicht getan. Rechtlich ist man nämlich nur verpflichtet, Hilfe zu holen und den Notruf zu wählen. Trotzdem können Erste-Hilfe-Maßnahmen helfen, bis der Krankenwagen da ist. Deswegen wollen wir hier ein paar Grundlagen erläutern. Trotzdem werden diese Grundlagen aber zusätzlich für Sippenführer in Erste-Hilfe Kursen aufgefrischt und von Profis vemrittelt.
+Wenn die oben beschriebenen Schritte abgeschlossen sind, hat man rechtlich seine mindeste Pflicht getan. Rechtlich ist man nämlich nur verpflichtet, Hilfe zu holen und den Notruf zu wählen. Trotzdem können Erste-Hilfe-Maßnahmen helfen, bis der Krankenwagen da ist. Deswegen wollen wir hier ein paar Grundlagen erläutern. Trotzdem werden diese Grundlagen aber zusätzlich für Sippenführer in Erste-Hilfe Kursen aufgefrischt und von Profis vermittelt.
 
 Ergänzend zu den oben genannten Schritten können beim Auffinden einer Person unterschiedliche Schritte der ersten Hilfe ausgeführt werden, wie in Abbildung 27 zu erkennen ist. Zuerst wird durch Ansprechen das Bewusstsein des Verletzten überprüft. Falls der Patient sein Bewusstsein verloren hat, wird die Atmung überprüft. Sollte der Patient nicht atmen, ist eine Herzdruckmassage einzuleiten, die hier aber nicht thematisiert wird.
 
@@ -987,7 +987,7 @@ Ergänzend zu den oben genannten Schritten können beim Auffinden einer Person u
 
 \underline{Stabile Seitenlage}
 
-Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzuleiten, wenn der Verletzte kein Bewusstsein mehr besitzt, aber atment. Sie ist wichtig, um die Schmerzen erträglicher zu machen aber vor allem, damit der Patient nicht an seiner Zunge oder an Erbrochenem ersticken kann. Zusätzlich zu der stabilen Seitenlage sollte der Puls und die Atmung des Patienten stetig überprüft und eine Decke zum über- & unterlegen besorgt werden. Außerdem muss darauf geachtet werden, den Betroffenen möglichst nicht auf eine Wunde oder Verletzung zu drehen.
+Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzuleiten, wenn der Verletzte kein Bewusstsein mehr besitzt, aber atmet. Sie ist wichtig, um die Schmerzen erträglicher zu machen aber vor allem, damit der Patient nicht an seiner Zunge oder an Erbrochenem ersticken kann. Zusätzlich zu der stabilen Seitenlage sollte der Puls und die Atmung des Patienten stetig überprüft und eine Decke zum über- & unterlegen besorgt werden. Außerdem muss darauf geachtet werden, den Betroffenen möglichst nicht auf eine Wunde oder Verletzung zu drehen.
 
 &nbsp;
 
@@ -1027,7 +1027,7 @@ Diese Probe ist wahlweise von dem Sippenführer auszuwählen. Es gilt darauf zu 
 
 \pagebreak
 
-### Du besitzt Grundkenntnisse im Umgang mit Karte und Kompaß (Einnorden, Peilen, Ablesen der Marschzahl).
+### Du besitzt Grundkenntnisse im Umgang mit Karte und Kompass (Einnorden, Peilen, Ablesen der Marschzahl).
 
 *Der Umgang mit Karte und Kompass ist vor allem für besonders pfadfinderische Fahrten wie die Herbstschulung oder die Sommerfahrten wichtig. Als Pfadfinder sollte man sich im Gelände bewegen können. Deswegen ergibt es großen Sinn, das Erlernte auf einer Sippenfahrt anhand einer Rallye oder eines kleinen Haiks zu festigen.*
 
@@ -1062,4 +1062,4 @@ Wandern nach Marschzahl ist sinnvoll, wenn man gerade auf ein Ziel zu wandern wi
 #. Dadurch wurde die Richtung in Grad zum Zielpunkt ermittelt, die am hinteren Ende des Kompasses abgelesen werden kann
 #. Um zum Ziel zu kommen, muss man nun stetig nach dieser ermittelten Gradzahl - der Marschzahl - wandern und gucken, dass sich der Grad zum Ziel nicht verändert
 
-Die Ermittlung der Marschzahl mit Hilfe der Karte (wenn man das Ziel nicht direkt anpeilen kann) funktioniert indem man den Kompass auf die Gerade zwischen der eigenen Position und dem Ziel legt und die Kompassdose genau so wie oben beschrieben dreht.
+Die Ermittlung der Marschzahl mit Hilfe der Karte (wenn man das Ziel nicht direkt anpeilen kann) funktioniert indem man den Kompass auf die Gerade zwischen der eigenen Position und dem Ziel legt und die Kompassdose genauso wie oben beschrieben dreht.
