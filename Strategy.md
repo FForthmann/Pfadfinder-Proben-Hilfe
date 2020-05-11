@@ -17,7 +17,7 @@ lot: true
 
 Als Pfadfinderprobenhilfe beansprucht dieses Werk keinen Anspruch auf Vollständigkeit oder absolute Aktualität. Vielmehr kann es als ergänzendes Mittel zu bereits vorhandenen Werken wie dem 'Sippenführer', alten Probenheften oder Schulungskladden verwendet werden. Als Sippenführer ist es immer wichtig, einen individuellen Sippenabend zu gestalten. Deswegen sind Aufzeichnungen wie diese als Orientierung, nicht aber als fertiger Sippenabend, anzuwenden. An dieser Stelle sei in aller Deutlichkeit darauf hingewiesen, dass Sipplinge Inhalte am besten verstehen, wenn sie kreativ aufbereitet werden. Deswegen lohnt es sich als Sippenführer, einen Moment zu nehmen, um eine spannende Probenarbeit vorzubereiten. Gegebenenfalls kann auch die Sammlung für kreatives Sippenabendprogramm behilflich sein.
 
-Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2020 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' auf den Seiten 98 & 99. In dieser Probenhilfe wird sich auf die *4. Auflage des 'Sippenführers' von 1998* bezogen. Wegen der Nutzung von Urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
+Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und die Pfadfinderprobenordnung der Stammesordnung und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2020 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' auf den Seiten 98 & 99 und in der Stammesordnung. In dieser Probenhilfe wird sich auf die *4. Auflage des 'Sippenführers' von 1998* bezogen. Wegen der Nutzung von Urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
 
 &nbsp;
 
@@ -40,7 +40,7 @@ Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und 
 
 Als christliche Pfadfinder hat es für uns eine besondere Bedeutung, unseren Sipplingen den Charakter Gottes nahezubringen. Als 'Mitgestalter des Sippenlebens' ist es als Pfadfinder besonders wichtig, bekannte christliche Inhalte zu kennen und zu verstehen. Ziel der Christlichen Pfadfinderschaft seit 1921 ist es, aus jungen Menschen mündige Christen zu machen.
 
-## Du kannst das Vater Unser und die Zehn Gebote.
+## Du kannst das Vater Unser und die Zehn Gebote
 
 *Es ist sinnvoll, diese Probe nicht nur auf das Auswendiglernen beider Textstellen zu reduzieren. Wichtiger als die Bibelstellen zu kennen ist es, dass die Sipplinge das Vaterunser und die Zehn Gebote inhaltlich verstehen und nachvollziehen können. Für ein tieferes Verständnis beider Bibelstellen ist es sinnvoll, sie nach und nach durchzugehen und zu erläutern. Außerdem ist es immer verständnisfördernd, den historischen und biblischen Hintergrund solcher Inhalte zu erklären.*
 
@@ -84,11 +84,13 @@ Amen.
 
 [^footnote2]: Die Zehn Gebote sind vor allem Ausdruck des alten Bunds zwischen Gott und den Menschen im Alten Testament. Bevor Jesus für uns geopfert wurde, mussten sich die gläubigen Juden an viele Gesetze halten und eigene Opfer bringen, um weniger schuldig vor Gott zu sein. Um die Zehn Gebote im Kontext des neuen Bunds zwischen Gott und den Menschen seit der Kreuzigung und Wiederauferstehung Jesu zu sehen, ist es sinnvoll, sich die Geschichte vom höchsten Gebot in *Matthäus 22, 34-40* anzusehen oder die Ostergeschichte revue passieren zu lassen. 
 
-## Du hältst eine Andacht mit einem Sippenführer oder einer anderen Person.
+\pagebreak
+
+## Du hältst eine Andacht mit einem Sippenführer oder einer anderen Person
 
 Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönlichen Gesprächen die beste Grundlage etwas über das Evangelium zu erzählen. Eine erfolgreiche Andacht lebt neben einer guten Vorbereitung und einer Prise Gott vor allem von persönlichen Eindrücken und kreativen Darstellungen von Bibelstellen. *Ideen für Andachtsthemen aller Altersstufen finden sich im Sippenführer auf Seite 12 oder im C-Konzept.*
 
-\underline{Eine Andacht kann grob in folgende Phasen unterteilt werden:}
+\underline{Eine Andacht hat folgende Bestandteile:}
 
 * Vorbereitung
     * Thema & passende Bibelstellen auswählen
@@ -123,7 +125,9 @@ Zuerst wird ein Thema anhand einer Bibelstelle ausgewählt, auf welches die Anda
 **You**\
 *Die Bibelstelle wird auf jeden einzelnen Zuhörer bezogen. Was kann sich in Deinem Leben verändern, wenn Du in diesem Punkt von Gott lernst? Glaube ist zwar etwas gemeinschaftliches, braucht aber eine persönliche Entscheidung.*
 
-## Du besuchst mit Deiner Sippe einen Gottesdienst oder eine andere christliche Veranstaltung. 
+\pagebreak
+
+## Du besuchst mit Deiner Sippe einen Gottesdienst oder eine andere christliche Veranstaltung
 
 Diese Probe muss individuell durchgeführt werden und bedarf keiner theoretischen Betrachtung. Trotzdem ist wichtig zu verstehen, dass viele Kinder von Haus aus nicht mehr die Kirche besuchen. Deswegen ist es wertvoll, ihnen ein solches Umfeld nahezubringen. Je nach Alter der Sipplinge und Komplexität der Predigt, sollte der Gottesdienst oder die christliche Veranstaltung im Nachgang nochmal besprochen werden.
 
@@ -133,7 +137,7 @@ Diese Probe muss individuell durchgeführt werden und bedarf keiner theoretische
 
 Als Pfadfinder sollte man auch den Hintergrund der Pfadfinderbewegung, des eigenen Stammes und der eigenen Sippe verstehen, um weitere Zusammenhänge der weltweiten Pfadfinderschaft und des eigenen Stammes nachvollziehen zu können.
 
-## Du zeichnest die Pfadfinderlilie in Dein Pfadfinderbuch ein und erklärst sie.
+## Du zeichnest die Pfadfinderlilie in Dein Pfadfinderbuch ein und erklärst sie
 
 Die Lilie entstand als Zeichen im Jahre 1140. Sie galt im Mittelalter als Zeichen der Ritterlichkeit und der Höflichkeit. Außerdem ist sie historisch als Zeichen der Orientierung belegt, weil die Lilie in der frühen Seefahrt als Zeichen für die Himmelsrichtungen verwendet wurde. Der Gründer der Pfadfinder, Robert Baden-Powell, verwendete die Lilie das erste Mal als Auszeichnung für herausragende Feldaufklärer. Heute ist sie das Zeichen aller Pfadfinder auf der Welt, die dem Sinnbild der Lilie nacheifern wollen. Das Zeichen der christlichen Pfadfinder ist die Kreuzlilie.
 
@@ -141,7 +145,9 @@ Die Lilie entstand als Zeichen im Jahre 1140. Sie galt im Mittelalter als Zeiche
 
 Die Kreuzlilie beinhaltet als verbindendes Symbol der Lilie das Kreuz, welches für den Glauben der Christlichen Pfadfinder und für die Verbindungswirkung Gottes steht. 
 
-## Du kennst die stammesinterne Ständeregelung.
+\pagebreak
+
+## Du kennst die stammesinterne Ständeregelung
 
 Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unterschiedliche Wissensstände unter den Sipplingen und Ulanen aus, sondern sind auch ein Weg, Verbindlichkeit und Hierarchien in einer Organisation zu etablieren. Im Folgenden sind die unterschiedlichen Stände des Stammes mit ihren Aufgaben und einzusetzenden Bereichen aufgeführt. Die in der Tabelle genannten Altersspannen beziehen sich auf das typische Alter für den Stand.
 
@@ -157,9 +163,11 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 
   : Zusammengefasste Ständeregelung
 
-## Du weißt über die Stammessituation bescheid.
+\pagebreak
 
-*Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Kinder während des Things Notizen machen zu lassen. Zur Stammessituation gehören die Ämterbesetzungen und ein paar weitere Kennzahlen sowie ggf. weitere aktuelle Ereignisse.*
+## Du weißt über die Stammessituation bescheid
+
+*Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Sipplinge während des Things Notizen machen zu lassen. Zur Stammessituation gehören die Ämterbesetzungen und ein paar weitere Kennzahlen sowie ggf. weitere aktuelle Ereignisse.*
 
 Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige Beauftragungen sind beispielsweise die *Mitgliederverwaltungs-Beauftragung*, die *Seybruch-Beauftragung* oder die *Schulfüchse-Beauftragung*.
 
@@ -187,7 +195,9 @@ Außerdem sind folgende Kennzahlen zu besprechen:
 * Anzahl der Stammesmitglieder
 * Anzahl der Sippen 
 
-## Du kannst das Pfadfinderversprechen und besprichst es mit Deinem Sippenführer.
+\pagebreak
+
+## Du kannst das Pfadfinderversprechen und besprichst es mit Deinem Sippenführer
 
 *Nun folgt das Pfadfinderversprechen. In der Besprechung des Versprechens lohnt es sich, den Begriff 'Mitgestalter des Sippenlebens' sowie die Redewendung 'Im Vertraun auf Gottes Hilfe' zu vertiefen. Außerdem kann beim Sippenabend ein Vergleich dieses Versprechens mit dem ursprünglichen Pfadfinderversprechen BPs hilfreich sein.*
 
@@ -205,7 +215,7 @@ On my honour I promise that I will do my best –
 
 \pagebreak
 
-## Du kennst die Stammesgeschichte in ihrern Grundzügen.
+## Du kennst die Stammesgeschichte in ihrern Grundzügen
 
 *Es kann sinnvoll sein, zum tieferen Verständnis und zur besseren Veranschaulichung in der Vorbereitung und beim Sippenabend die Jubiläumsbroschüren der Jubiläen 50 und 70 Jahre Stamm St. Andreas zu verwenden. Dort sind neben detaillierten Beschreibungen auch interessante Fotos vorhanden, die sonst im Stammesarchiv besichtigt werden können. Diese Schilderung ist **Stand Mai 2020**. Alle weiteren wichtigen Ereignisse müssen nach Ermessen des Sippenführers ergänzt werden.*
 
@@ -255,11 +265,13 @@ Die Neunziger gehen einher mit zahlreichenden Veränderungen. Trotz allem ist di
 
 Die folgenden Jahre verliefen ruhig. Die Sommerfahrtstradition wurde aufrechterhalten und viele Fahrten und Lager wurden organisiert. Der Stamm St. Andreas war Kopf des Bezirkes Alstergau und einflussreich im Landesverband. In dieser Zeit fand ein Generationswechsel im Stamm statt. Viele junge Sippenführer gründeten oder übernahmen Sippen. Leider ging die inhaltliche Arbeit in den folgenden Jahren zurück. Viele Sipplinge verließen den Stamm bevor sie Verantwortung übernehmen konnten, sodass Pfingstlager stattfanden, an denen 50 und weniger Pfadfinder teilnahmen. Sippen wurden gegründet und mangels Sipplingen bald wieder zusammengelegt und viele Sippen hatten oft wechselnde Sippenführer, so daß eine kontinuierliche, gemeinschaftsbezogene Arbeit immer mehr auf dem Rückgang war. 2003 wurden dann erstmalig wieder drei neue Sippen, von motivierten und jungen Sippenführern gegründet, die Jicarillas, Yerbateros und Yakima. Dennoch gab es innerhalb der Ulanen immer wieder Spannungen über pfadfinderische Prinzipien und den christlichen Glauben. Die gemeindebezogene Arbeit wurde mehr und mehr zurückgefahren, so daß der Stamm innerhalb der Kirchengemeinde zunehmend isoliert wurde. Von einer Gruppe der Ulanen wurde 2003 zusammen mit einigen Älteren und der Gemeinde an „ProChrist“ teilgenommen, einem evangelistischen Übertragungsgottesdienst. Die verschiedenen Gruppen innerhalb der Ulanen entfremdeten sich zunehmend, so wurden getrennte Fahrten organisiert, unter anderem unterschiedliche Sommerfahrten für 2004.
 
-Nach einem großen Pfingstlager 2004 zeichnete sich erneut eine Stammesspaltung ab. Nach den Sommerfahrten war es dann soweit: Ca. 12 Ulanen verließen mit ihren Sippen den Stamm St. Andreas, um in der Nachbarschaft an der Christuskirche den Stamm St. Paulus zu gründen. Andere Ulanen hörten mit der Pfadfinderarbeit auf. Übrig blieben ca. 9 junge, motivierte Ulanen, die in den folgenden Jahren eine christlich und pfadfinderisch starke Arbeit aufbauten, so dass sich in wenigen Jahren die Sipplingszahlen nahezu verdoppelten. Die alten St. Andreas Traditionen wurden aufrechterhalten und ausgebaut. Immer mehr Sippen wurden erfolgreich gegründet. Der Kontakt zur Kirchengemeinde und die Einbindung in die Gemeinde entwickelten sich ausgesprochen gut. Der Kontakt zum Bezirk Alstergau und dem Landesverband wurde auf ein Minimum zurückgefahren, um eine Eigendynamik entstehen zu lassen und sich auf inhaltsstarke und christliche Pfadfinderarbeit zu konzentrieren. 2011 fuhr der Stamm erstmals als eigener Trupp auf das weltweite Pfadfindertreffen, das Jamboree, nach Schweden. 40 Stammesmitglieder repräsentierten dort vor der internationalen Pfadfinderschaft Hamburg und einen Teil Deutschlands.
+Nach einem großen Pfingstlager 2004 zeichnete sich erneut eine Stammesspaltung ab. Nach den Sommerfahrten war es dann soweit: Ca. 12 Ulanen verließen mit ihren Sippen den Stamm St. Andreas, um in der Nachbarschaft an der Christuskirche den Stamm St. Paulus zu gründen. Andere Ulanen hörten mit der Pfadfinderarbeit auf. Übrig blieben 8 junge, motivierte Ulanen, die in den folgenden Jahren eine christlich und pfadfinderisch starke Arbeit aufbauten, so dass sich in wenigen Jahren die Sipplingszahlen nahezu verdoppelten. Die alten St. Andreas Traditionen wurden aufrechterhalten und ausgebaut. Immer mehr Sippen wurden erfolgreich gegründet. Der Kontakt zur Kirchengemeinde und die Einbindung in die Gemeinde entwickelten sich ausgesprochen gut. Der Kontakt zum Bezirk Alstergau und dem Landesverband wurde auf ein Minimum zurückgefahren, um eine Eigendynamik entstehen zu lassen und sich auf inhaltsstarke und christliche Pfadfinderarbeit zu konzentrieren. 2011 fuhr der Stamm erstmals als eigener Trupp auf das weltweite Pfadfindertreffen, das Jamboree, nach Schweden. 40 Stammesmitglieder repräsentierten dort vor der internationalen Pfadfinderschaft Hamburg und einen Teil Deutschlands.
 
-Anfang der 2010er Jahre wurde es zunehmend schwerer, neue Sipplinge für die Pfadfinder zu begeistern, weil es viele Konkurrenzangebote in Emsbüttel & Harvestehude gab und die Schulen zu großen Teilen auf Ganztagsbetreuung umstiegen. Um dieses Problem anzugehen, wurden 2013 die Schulfüchse - eine pfadfinderische Nachmittagsbetreuung, die sich sehr schnell großer Beliebtheit erfreute und viele Kinder zu den Pfadfindern brachte - gegründet. Mittlerweile konnte die Arbeit der Schulfüchse auf viele Kurse in unterschiedlichen Stadtteilen erweitert werden und sogar Ausbildungs- und FSJ-Stellen eingerichtet werden. In dieser Zeit fanden neben zunehmend erfolgriechen Fahrten (insgesondere die Sommeraktivitäten) auch internationale Begegnungen mit Teams aus den USA (Atlanta), Honduras oder Simbabwe statt. Ende 2013 wird den Pfadfindern St. Andreas nach längeren Auseinandersetzungen über den Einfluss des Stammes im Bezirk die Mitgliedschaft im VCP aberkannt und der Stamm tritt über die Kirche der EJH bei. Auf diesen Umbruch folgt eine lebendige Zeit bei den Pfadfindern, wo nicht nur viele Sippen gegründet, sondern auch gut besuchte Fahrten organisiert wurden. 2018 findet mit 130 Teilnehmern eines der größten Pfingstlager der Stammesgeschichte an den Schaalsee statt. 2019 feiert der Stamm sein 70-jähriges Jubiläum mit einer großen Veranstaltung. Dort sind unter anderem der Stammesgründer Hartmut Clasen und andere ehemalige Pfadfinder anwesend. In den ersten Wochen des Jahres 2020 trennt siche die Kirchengemeinde St. Andreas in Harvestehude von den Pfadfindern St. Anderas. nachdem im Winter 2019 ein großer, öffentlicher Streit über die Pfadfinder in der Gemeinde entstanden war. Der Rauswurf konnte die Mitgliederanzahl des Stammes jedoch nicht bremsen und nur sehr wenige Sipplinge verließen den Stamm. Mitte 2020 zählen wir ungefähr 180 aktive Mitglieder in 20 Sippen.
+Anfang der 2010er Jahre wurde es zunehmend schwerer, neue Sipplinge für die Pfadfinder zu begeistern, weil es viele Konkurrenzangebote in Emsbüttel & Harvestehude gab und die Schulen zu großen Teilen auf Ganztagsbetreuung umstiegen. Um dieses Problem anzugehen, wurden 2013 die Schulfüchse - eine pfadfinderische Nachmittagsbetreuung, die sich sehr schnell großer Beliebtheit erfreute und viele Kinder zu den Pfadfindern brachte - gegründet. Mittlerweile konnte die Arbeit der Schulfüchse auf viele Kurse in unterschiedlichen Stadtteilen erweitert werden und sogar Ausbildungs- und FSJ-Stellen eingerichtet werden. In dieser Zeit fanden neben zunehmend erfolgriechen Fahrten (insbesondere Sommerfahrt & Sommerlager) auch internationale Begegnungen mit Teams aus den USA (Atlanta), Honduras, Dänemark oder Simbabwe statt. Ende 2013 wird den Pfadfindern St. Andreas nach längeren Auseinandersetzungen über den Einfluss des Stammes im Bezirk die Mitgliedschaft im VCP aberkannt und der Stamm tritt über die Kirche der EJH bei. Auf diesen Umbruch folgt eine lebendige Zeit bei den Pfadfindern, wo nicht nur viele Sippen gegründet, sondern auch gut besuchte Fahrten organisiert wurden. 2018 findet mit 130 Teilnehmern eines der größten Pfingstlager der Stammesgeschichte an den Schaalsee statt. 2019 feiert der Stamm sein 70-jähriges Jubiläum mit einer großen Veranstaltung. Dort waren unter anderem der Stammesgründer Hartmut Clasen und andere ehemalige Pfadfinder anwesend. In den ersten Wochen des Jahres 2020 trennt sich die Kirchengemeinde St. Andreas in Harvestehude von den Pfadfindern St. Anderas, nachdem im Herbst 2019 ein großer, öffentlicher Streit über die Pfadfinder in der Gemeinde entstanden war. Der Rauswurf konnte die Mitgliederanzahl des Stammes jedoch nicht bremsen und nur sehr wenige Sipplinge verließen den Stamm. Mitte 2020 zählen wir ungefähr 180 aktive Mitglieder in 20 Sippen.
 
-## Du kennst den Stammesleitsatz und die Stammesvision.
+\pagebreak
+
+## Du kennst den Stammesleitsatz und die Stammesvision
 
 Der Stammesleitsatz ist eine kurze und prägnante Zusammenfassung unserer Absichten und Ziele als Pfadfinder St. Andreas. Außerdem beinhaltet er, wie wir uns verhalten wollen. Die Stammesvision konkretisiert diese für ein ganzes Leben geltende Einstellung im Kontext der aktiven Pfadfinderarbeit - vor allem für Ulanen. 
 
@@ -289,7 +301,7 @@ Als christlicher Pfadfinderstamm St. Andreas bekennen wir uns zu unserem Herrn J
 
 Eines der Pfadfinderprinzipen von BP ist 'Fahrt und Lager'. Ein Pfadfinder ohne Sippen-, Wander- oder Großfahrten ist kein Pfadfinder. Deswegen gilt es, die Sipplinge bestmöglich und praktisch auf diesen wichtigen Teil der Pfadfinderarbeit vorzubereiten. Viele dieser Proben können deswegen am besten praktisch auf Fahrt umgesetzt werden.
 
-## Du kannst einen Waldpenner aufstellen und weißt wie man eine Kohte aufbaut.
+## Du kannst einen Waldpenner aufstellen und weißt wie man eine Kohte aufbaut
 
 Auf dem Weg zum Sippenführer ist es besonders wichtig, grundlegende Fahrtenbauten[^footnote3] zu kennen. Die Kohte und der Waldpenner sind die Lagerbauten, die in der Praxis am regelmäßigsten verwendet werden. *Es ist sinnvoll, im Anschluss an diese Probe bei einem Sippenabend oder auf Fahrt die Sipplinge beide Lagerbauten eigenständig aufbauen zu lassen.*
 
@@ -297,7 +309,7 @@ Auf dem Weg zum Sippenführer ist es besonders wichtig, grundlegende Fahrtenbaut
 
 \underline{Waldpenner}
 
-Der Waldpenner ist ein Ein-Personen-Zelt mit begrenztem Platz: Leute über 1,60 cm ragen leider aus dem Zelt heraus, schlafen also mit dem Kopf mehr oder weniger im Freien. Auch bläst einem der Wind gerne den Regen ins Zelt. Dafür ist der Waldpenner schnell nur mit einer Kohtenbahn aufzubauen und kann im Notfall auch zwei Menschen  ohne Rucksäcke beherbergen. Zum Aufbau benötigt man neben einer Kohtenbahn eine 100 cm hohe Stütze und fünf Heringe.
+Der Waldpenner ist ein Ein-Personen-Zelt mit begrenztem Platz: Leute über 1,60 cm ragen leider aus dem Zelt heraus, schlafen also mit dem Kopf mehr oder weniger im Freien. Auch bläst einem der Wind gerne den Regen ins Zelt. Dafür ist der Waldpenner schnell nur mit einer Kohtenbahn aufzubauen und kann im Notfall auch zwei Menschen ohne Rucksäcke beherbergen. Weil der Waldpenner so unkompliziert aufzubauen ist, eignet er sich gut für Wanderfahrten. Zum Aufbau benötigt man neben einer Kohtenbahn eine 100 cm hohe Stütze und fünf Heringe.
 
 ![Skizze eines Waldpenners](Waldpenner.jpg){width=100%}
 
@@ -311,9 +323,9 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 
 **Geschichte:**
 
-* Seit Ende der zwanziger Jahre gibt es bei uns die Kohte
+* Seit Ende der 1920er Jahre gibt es bei uns die Kohte
 * Idee stammt von tusk (Eberhard Koebel)
-* Nach mehreren Lapplandfahrten (1927 und 1929) nahm er Kontakt zu dem Nomadenvolk, welches dort lebt, - den Lappen - auf
+* Nach mehreren Lapplandfahrten (1927 und 1929) nahm er Kontakt zu dem Nomadenvolk, welches dort lebt, - den Lappen, die heute Lami genannt werden - auf
 * Die Lappen konnten sich keine festen Häuser bauen, weil sie mit ihren Herden immer neue Weideflächen aufsuchen mussten. Deswegen entwickelten sie eine transportable Zeltkonstruktion, in der man Feuer machen kann
 * Heutzutage ist die moderne Kohte, die von tusk verbessert wurde, in allen deutschen Pfadfinderverbänden verbreitet
 * Erkennungsmerkmal der deutschen Pfadfinder
@@ -341,7 +353,9 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 #. Achtel ausspannen
 #. Einräumen
 
-## Du kannst den Palstek (Weberknoten), Mastwurf, Achterknoten, Spannzug sowie den Kreuz-, Parallel- und Dreibocksbund.
+\pagebreak
+
+## Du kannst den Palstek (Weberknoten), Mastwurf, Achterknoten, Spannzug sowie den Kreuz-, Parallel- und Dreibocksbund
 
 *Auch bei dieser Probe muss die Anwendung praktisch erfolgen. Ganz nach BPs Pfadfinderprinzip 'Learning by doing' lernen die Sipplinge Knoten nur in der praktischen Anwendung. Man kann beispielsweise mit Tampen üben und später zwischen den Sipplingen einen Geschwindigkeitswettbewerb veranstalten oder die Knoten mit Süßigkeitenschlangen erstellen.*
 
@@ -413,7 +427,9 @@ Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Sch
 
 ![Skizze des Scherenbundes](Scherenbund.jpg){width=45%}
 
-## Du kannst Feuer machen und drei verschiedene Feuerarten anwenden.
+\pagebreak
+
+## Du kannst Feuer machen und drei verschiedene Feuerarten anwenden
 
 *Feuer ist ein wichtiges Fahrtenelement: Es ist nicht nur warm und sieht gut aus, sondern ist auch fürs Kochen wichtig und kann an kalten Tagen die Stimmung merklich bessern. Praktische Feuerproben eignen sich in Kombination mit Stockbrot, Spatenei oder Marshmellows als Belohnung für die Sipplinge, wenn sie ein Feuer anbekommen haben.*
 
@@ -423,7 +439,7 @@ Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Sch
 
 * Arbeitshandschuhe anziehen
 * Feuerstelle bauen. Entzündliches Material im Umkreis entfernen. **Achtung: Nicht auf Heide oder Moorboden, weil sich das Feuer dort durchfressen und an anderen Orten wieder aufflammen kann!**
-* Feuerstelle nach Möglichkeit mit Steinen oder einem Erdwall eingrenzen, damit es sich nicht unvorhergesehen ausbreiten kann
+* Feuerstelle mit Steinen oder einem Erdwall eingrenzen, damit es sich nicht unvorhergesehen ausbreiten kann
 * Reisig sammeln (dünne, trockene Zweigchen, Birkenrinde o.ä.)
 * Kleinholz und größeres Holz sammeln (damit das Feuer nicht gleich wieder ausgeht)
 * Unterschiedliche Haufen für variierende Holzdicken machen, damit schnell passend nachgelegt werden kann
@@ -464,7 +480,9 @@ Das Polynesische Feuer ist ein weiteres Kochfeuer, was gegenüber den vorher gen
 
 ![Visualisierung unterschiedlicher Feuerarten](feuerarten.jpg){width=100%}
 
-## Du kennst die Brenneigenschaften der bei uns üblichen Holzarten.
+\pagebreak
+
+## Du kennst die Brenneigenschaften der bei uns üblichen Holzarten
 
 Es gibt einige \underline{Faustregeln}, die sich lohnen im Hinterkopf zu haben, wenn man Holz für ein Feuer sammelt:
 
@@ -486,11 +504,15 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 * **Nadelhölzer** sollte man generell beim Kochen möglichst nur zum Feueranzünden verwenden, weil sie zwar leicht brennen, aber keine Glut bilden (stark rußend)
 * **Erle, Linde und Kastanie** brennen schnell weg und bilden keine Glut
 
-## Du hast an drei Fahrten teilgenommen.
+\pagebreak
+
+## Du hast an drei Fahrten teilgenommen
 
 *Diese Probe ist selbsterklärend.*
 
-## Du kannst richtig Hacken und Sägen und weißt, wie Du mit Lagerwerkzeug umgehst (Beil, Axt, Lampen, Tampen, Säge, Spaten).
+\pagebreak
+
+## Du kannst richtig Hacken und Sägen und weißt, wie Du mit Lagerwerkzeug umgehst (Beil, Axt, Lampen, Tampen, Säge, Spaten)
 
 *Ein Großteil dieser Probe wird bereits auf der A-Schulung besprochen. Trotzdem ist es wichtig, die hier beschriebenen Regel praktisch, beispielsweise anhand eines Fehler-Such-Bildes auf Fahrt zu festigen.* Im Folgenden werden wichtige Umgangsweisen mit den wichtigsten Fahrtenmaterialien genannt.
 
@@ -549,7 +571,9 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 * Lampe nicht ausblasen, weil der Docht dann weiter glüht
 * Aufpassen, das man den Docht nicht zu weit zurückdreht, sodass der Docht in den Tank fällt
 
-## Du hilfst beim Kochen einer vollen Mahlzeit und kannst Nudeln, Kartoffeln und Reis kochen.
+\pagebreak
+
+## Du hilfst beim Kochen einer vollen Mahlzeit und kannst Nudeln, Kartoffeln und Reis kochen
 
 *Es ist sicherlich sinnvoll, vor dieser Probe mit den Sipplingen über fahrtentaugliches Essen zu sprechen. Denn nicht jede Mahlzeit kann gut auf Fahrt gekocht werden.*
 
@@ -583,7 +607,9 @@ Für die Zubereitung von Reis wird die doppelte Menge an Wasser, etwas Salz und 
 #. Wasser vollständig abgießen
 #. Je nach Geschmack kann noch etwas Butter oder Öl zugegeben werden
 
-## Du kannst einen Rucksack packen und weißt, was man auf Fahrt mitnimmt.
+\pagebreak
+
+## Du kannst einen Rucksack packen und weißt, was man auf Fahrt mitnimmt
 
 *Bei dieser Probe kann es klug sein, mit den Sipplingen zusammen nach dem theoretischen Teil praktisch den Rucksack für eine Fahrt zu packen. Zum Beispiel jeder Sippling seinen Rucksack für die Fahrt am folgenden Wochenende.*
 
@@ -594,11 +620,11 @@ Beim Packen eines Rucksacks gilt es zwei Punkte zu beachten, wenn Gegenstände v
 #. Wo muss ich die Sachen hinpacken, damit der Rucksack insgesamt leicht bleibt? 
 #. Wie oft benutze ich diese Sache und wo sollte ich es deswegen hinpacken, um gut auf die Sache zugreifen zu können? 
 
-Deshalb ist es klug, wie in Abbildung 15 zu sehen ist, schwere Gegenstände an den Rücken des Rucksacks zu packen, weil dort die geringste Hebelwirkung greift. Außerdem sollte darauf geachtet werden, dass keine Gegenstände draußen am Rucksack befestigt werden oder dort rumbaumeln, weil das beim Wandern nervig ist, und durch die Bewegungen einen Widerstand aufbaut. Wichtige Sachen wie die Taschenlampe, das Brotbrettchen, ein Messer etc. werden gerne im Deckelfach aufbewahrt, weil sie dort schnell zu erreichen sind. Außerdem ist es sinnvoll, den Schlafsack mit allen weiteren Schlafsachen in das unterste Fach des Rucksacks zu packen, da dieser auf keinen Fall nass werden darf und dort am besten geschützt ist. 
+Deshalb ist es klug, wie in Abbildung 15 zu sehen ist, schwere Gegenstände an den Rücken des Rucksacks zu packen, weil dort die geringste Hebelwirkung greift. Außerdem sollte darauf geachtet werden, dass keine Gegenstände draußen am Rucksack befestigt werden oder dort rumbaumeln, weil das beim Wandern nervig ist, und durch die Bewegungen einen Widerstand aufbaut. Wichtige Sachen wie die Taschenlampe, das Brotbrettchen, ein Messer, der Impfausweis und die Krankenversicherungskarte des Sipplings werden gerne im Deckelfach aufbewahrt, weil sie dort schnell zu erreichen sind. Außerdem ist es sinnvoll, den Schlafsack mit allen weiteren Schlafsachen in das unterste Fach des Rucksacks zu packen, da dieser auf keinen Fall nass werden darf und dort am besten geschützt ist. 
 
 ![Packhilfe für einen Rucksack](packen.jpg){width=41%}
 
-Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. Die hier angeführte Packliste fasst aber die wichtigsten Gegenstände zusammen: 
+Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. Die einzupackenden Gegenstände variieren jenachdem, ob es Sommer oder Winter ist und, ob man eine Wander-, Zelt- oder Hausfahrt veranstaltet. Die hier angeführte Packliste fasst aber die wichtigsten Gegenstände zusammen: 
 
 * Schlafsack
 * Rucksack (gut sitzend und für eine Wanderung tragbar)
@@ -621,6 +647,7 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 * ggf. Stammespullover
 * ausreichend Wechselwäsche
 * Stammesliederbuch
+* Probenbuch & Bibel
 * Geschirrhandtuch, Schwamm & Taschentücher
 * 4x Kaltverpflegung (für eine Wochenendfahrt)
 * Fahrtenbeitrag
@@ -628,9 +655,11 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 
 **Nicht mitnehmen: technische Geräte, Föhn oder unnötiges Gepäck**
 
+Sippenführer müssen auf Fahrt zusätzliche Gegenständen mitnehmen. Ein paar wichtige Gegenstände für Ulanen sind folgende: Bibel, Ulanenmappe, Gitarre, Gitarrenliederbuch, Wanderkarte, Kamera, Akkuladekabel, Erste-Hilfe-Tasche und Extra-Bändsel.
+
 \pagebreak
 
-## Du fertigst Dir ein Trinkgefäß aus Naturprodukten an.
+## Du fertigst Dir ein Trinkgefäß aus Naturprodukten an
 
 *Bei dieser Probe sind dem Sippenführer keine Grenzen gesetzt. Vielleicht lohnt es sich auch, mit den Sipplingen kreative Ideen für ein Trinkgefäß aus Naturprodukten zu sammeln.* Trotzdem sind hier drei Vorschläge für Trinkgefäße aus Naturprodukten. 
 
@@ -671,7 +700,7 @@ Das Schnitzen eines Gefäßes aus Holz erfordert viel Kreativität und Durchhalt
 
 Ganz nach dem Pfadfindergesetz *'Ein Pfadfinder schützt die Natur und bewahrt die Schöpfung'* soll dieser wichtige Teil eines Pfadfinders nicht vernachlässigt werden. Als Pfadfinder verbringen wir einen Großteil unserer Fahrtenzeit mitten in der Schöpfung Gottes. Deswegen ist es wichtig, diese Umgebung zu kennen und zu schätzen.
 
-## Du kannst fünf verschiedene Pflanzen und Sträucher unserer Wälder nach ihrem Aussehen und ihren Früchten bestimmen.
+## Du kannst fünf verschiedene Pflanzen und Sträucher unserer Wälder nach ihrem Aussehen und ihren Früchten bestimmen
 
 *Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem in einem Memorie die Blätter den Früchten zugeordnet werden (ein fertiges Memorie ist im Anhang zu finden). Genauso kann man auch ein Quizz machen. Hier werden zehn Beispiele genannt, die auch auf fünf eingeschränkt werden können.*
 
@@ -749,7 +778,7 @@ Die Weißdorne ist ein in Deutschland mit drei unterschiedlichen Arten vertreten
 
 \pagebreak
 
-## Du bestimmst das Sternbild des Großen Wagens (Gr. Bär) und den Polarstern.
+## Du bestimmst das Sternbild des Großen Wagens (Gr. Bär) und den Polarstern
 
 *Es ist lohnenswert, diese Probe kreativ anzugehen. Ein Beispiel für einen kreativen Sternen-Sippenabend ist es, die Sternenbilder in eine dunkle Oberfläche zu stechen und die Sterne in einem abgedunkelten Raum durch eine einzige Lichtquelle an die Decke zu projezieren. Noch besser ist es natürlich, auf Fahrt diese Sternenbilder durchzusprechen und zu entdecken.*
 
@@ -767,7 +796,7 @@ Wenn man die hintere Achse des Großen Wagens 5x verlängter, kommt man zum Pola
 
 Wer schonmal einen fetzigen Tschaiabend miterlebt hat, wird sich bewusst sein, wie wichtig Musisches bei uns als Pfadfinder ist. Musisches bietet, wie diese Probenhilfe zeigt, aber noch viel mehr, als nur zu singen und zu basteln...
 
-## Du hast in Dein Pfadfinderbuch das nötige Pfadfinderwissen eingeschrieben.
+## Du hast in Dein Pfadfinderbuch das nötige Pfadfinderwissen eingeschrieben
 
 In ein Probenbuch gehören unter anderem folgende Inhalte, die es gilt im Probenbuch zu überprüfen. Alternativ kann auch anhand der Probenordnung in dem 'Sippenführer' überprüft werden, ob alles Wissen für die Proben bis zum Stand des Pfadfinders im Probenbuch vorhanden ist.
 
@@ -785,7 +814,9 @@ In ein Probenbuch gehören unter anderem folgende Inhalte, die es gilt im Proben
 * Knoten und Bünde
 * Lagerwerkzeug
 
-## Du planst und wirkst an einem Sippen- und einem Tschaiabend mit.
+\pagebreak
+
+## Du planst und wirkst an einem Sippen- und einem Tschaiabend mit
 
 *Das Planen und Durchführen von Sippen- und Tschaiabenden ist als Vorbereitung auf die Existenz als Ulane sehr wichtig. Deswegen bietet es sich an, einen von den Sipplingen geplanten Sippenabend eine Woche später unter Leitung einiger Sipplinge durchzuführen oder einen vorher geplanten Tschaiabend auf Fahrt stattfinden zu lassen.*
 
@@ -831,7 +862,9 @@ Eine Auswahl von möglichen Spielen wäre folgende:
 * Here She Comes
 * Löwenjagd
 
-## Du schreibst eine Fahrtenchronik.
+\pagebreak
+
+## Du schreibst eine Fahrtenchronik
 
 Die Erstellung einer Fahrtenchronik ist für eine Sippe wichtig, weil sie das Erlebte für spätere Tage zusammenfasst. In dem aktuellen Moment mag das nicht relevant erscheinen, doch später erinnert man sich gerne an die Zeit in der eigenen Sippe. Außerdem stärkt es den Sippengeist ein gemeinsames Werk zu haben. *Sollte deine Sippe noch keine Chronik haben, kann das ein Anstoß sein, nun mit einer (möglichst auch mit Fotos!) anzufangen.*
 
@@ -843,7 +876,7 @@ Neben Sippenfahrtseinträgen von den Sipplingen kann es auch schön sein, die Si
 
 Die Neigungsproben stellen einen variableren Teil der Pfadfinderproben dar. Dieser Teil ist genauso wichtig wie alle anderen Proben, passt aber nicht in die Einteilung der grundlegenden 'Pfadfinderelemente'.
 
-## Du weißt, wie man sich bei Bränden und Unfällen verhält und erste Hilfsmaßnahmen einleitet.
+## Du weißt, wie man sich bei Bränden und Unfällen verhält und erste Hilfsmaßnahmen einleitet
 
 *Um das hier gesammelte theoretische Wissen zu festigen, kann es sinnvoll sein, anhand eines Rollenspiels die vorher besprochenen Schritte durchzuspielen.*
 
@@ -873,10 +906,9 @@ Wenn ein Unfall oder ein Brand auf Fahrt passiert, gibt es ein paar grundlegende
 
 Sobald man beim Notruf mit der Zentrale verbunden ist, müssen die fünf W-Fragen beantwortet werden. Du muss sie dir nicht zwingend merken, die Beamten fragen nach allem, was sie wissen müssen. Trotzdem sind die W-Fragen folgende:
 
+* Wo ist es passiert?
 * Wer ruft an?
 * Was ist passiert?
-* Wo ist es passiert?
-* Wann ist es passiert?
 * Wie viele Verletzte?
 * **Warte auf Rückfragen!**
 
@@ -920,17 +952,21 @@ rechten Winkel zur Hüfte liegt
 #. Die an der Wange liegende Hand so ausrichten, dass der Hals die Hand berührt
 #. Bei dem Verletzten bleiben und Überstreckung des Halses regelmäßig kontrollieren
 
+\pagebreak
+
 ## Auswahlweise Neigungsproben
 
 Aus den folgenden drei Proben kann der Sippling zwei auswählen. Genauer gesagt kann er entweder die zwei hier vorgesehenen Proben machen oder eine der Proben durch eine individuell mit dem Sippenführer abgesprochene Probe ersetzen. 
 
-### Du besprichst mit Deinem Sippenführer eine Sonderprobe, die Du gerne erfüllen möchtest.
+### Du besprichst mit Deinem Sippenführer eine Sonderprobe, die Du gerne erfüllen möchtest
 
 Diese Probe ist wahlweise von dem Sippenführer auszuwählen. Es gilt darauf zu achten, dass sie einen angemessenen Umfang enthält.
 
-### Du wanderst mit Deiner Sippe 10 Kilometer.
+### Du wanderst mit Deiner Sippe 10 Kilometer
 
 *Diese Probe ist selbsterklärend, kann aber für den Ulanen Motivation sein, eine außergewöhnliche Wanderfahrt zu organisieren.*
+
+\pagebreak
 
 ### Du besitzt Grundkenntnisse im Umgang mit Karte und Kompaß (Einnorden, Peilen, Ablesen der Marschzahl).
 
