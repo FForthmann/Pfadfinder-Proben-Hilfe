@@ -385,6 +385,8 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 
 *Auch bei dieser Probe muss die Anwendung praktisch erfolgen. Ganz nach BPs Pfadfinderprinzip 'Learning by doing' lernen die Sipplinge Knoten nur in der praktischen Anwendung. Man kann beispielsweise mit Tampen üben und später zwischen den Sipplingen einen Geschwindigkeitswettbewerb veranstalten oder die Knoten mit Süßigkeitenschlangen erstellen.*
 
+&nbsp;
+
 \underline{Palstek (Weberknoten)}
 
 Der Palstek ist der wohl schwierigste grundlegende Knoten dieser Probe. Er ist aber um so nützlicher. Denn im Gegensatz zum Slipstek ('Zauberknoten' oder 'Hausfrauenknoten') lässt er sich leicht (auch nachdem er lange unter Zug stand) wieder öffnen: Man muss nur die Schlinge, die man im letzten Schritt gelegt hat, um das Zugseil kippen (siehe dafür Kreuzknoten). Deswegen wird der Palstek meist benutzt, wenn eine Schlinge gebraucht wird. Zum Beispiel bei der Kohtenstange zum Hochziehen des Kohtenkreuzes. 
@@ -405,7 +407,7 @@ Das Gegenstück zum Mastwurf ist der **Zimmermannsschlag**, der an dieser Stelle
 
 ![Skizze eines Zimmermannsschlags](Zimmermann.jpg){width=30%}
 
-\pagebreaj
+\pagebreak
 
 \underline{Achterknoten}
 
@@ -572,6 +574,8 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 * Bei einer Zweihandsäge nur ziehen
 * Sägeblatt wechseln durch Spanner am Griff & Lösen der Schraube gegenüber
 
+\pagebreak
+
 \underline{Beil}
 
 *In dieser Probe wird die Axt nicht betrachtet, weil sie von Sipplingen meist nicht verwendet wird.* Eine Axt ist ähnlich wie ein Beil und besitzt einen längeren Stiel. Eine Axt ist ausschließlich zum Spalten von Holz gedacht. Es ist mit ihr nicht möglich, so wie bei einem Beil, auch Heringe einzuschlagen.
@@ -693,6 +697,8 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 
 **Nicht mitnehmen: technische Geräte, Föhn oder unnötiges Gepäck**
 
+&nbsp;
+
 Sippenführer müssen auf Fahrt zusätzliche Gegenständen mitnehmen. Ein paar wichtige Gegenstände für Ulanen sind folgende: Bibel, Ulanenmappe, Gitarre, Gitarrenliederbuch, Wanderkarte, Kamera, Akkuladekabel, Erste-Hilfe-Tasche und Extra-Bändsel.
 
 \pagebreak
@@ -744,9 +750,9 @@ Ganz nach dem Pfadfindergesetz *'Ein Pfadfinder schützt die Natur und bewahrt d
 
 *Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem in einem Memorie die Blätter den Früchten zugeordnet werden (ein fertiges Memorie ist im Anhang zu finden). Genauso kann man auch ein Quizz machen. Hier werden zehn Beispiele genannt, die auch auf fünf eingeschränkt werden können.*
 
-&nbsp;
-
 In dieser Probe beschränken wir uns nicht nur auf Sträucher, sondern behandeln als Pflanzen vor allem Bäume. Die Pflanzen werden anhand ihrer Blätter und Früchte identifiziert.
+
+&nbsp;
 
 \underline{Linde}
 
@@ -895,6 +901,8 @@ Es gibt fünf unterschiedliche **Sippenabendtypen**, für die es sich lohnt, ein
     * Kohtenaufbau üben, Waldläuferzeichenlauf, Theoretische Probenbesprechung etc.
 
 Die Sippenabendtypen können sich bei einem Sippenabend durchaus überschneiden, wie man bei den hier genannten Beispielen sehen kann. Wie so oft gilt, dass eine Durchmischung der Sippenabendarten wichtig ist. Trotzdem ist klar, dass je nach Alter einige Sippenabendtypen mehr verwendet werden, als andere. Mit jungen Sipplingen spielt man beispielsweise mehr. Mit älteren Sipplingen wird dafür eine intensivere Probenarbeit praktiziert.
+
+&nbsp;
 
 \underline{Tschaiabend}
 
