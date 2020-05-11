@@ -2,7 +2,6 @@
 disablearabicstart: true
 lang: de-DE
 forceimages: true
-include-after: [PflanzenMemory.pdf]
 force-image-position: true
 link-citations: true
 lof: true
@@ -12,7 +11,9 @@ lot: true
 \pagenumbering{roman}
 \setcounter{page}{5}
 
-**Vorwort**
+\section*{Vorwort}
+\addcontentsline{toc}{section}{Vorwort}
+\markright{Vorwort}
 
 Als Pfadfinderprobenhilfe beansprucht dieses Werk keinen Anspruch auf Vollständigkeit oder absolute Aktualität. Vielmehr kann es als ergänzendes Mittel zu bereits vorhandenen Werken wie dem 'Sippenführer', alten Probenheften oder Schulungskladden verwendet werden. Als Sippenführer ist es immer wichtig, einen individuellen Sippenabend zu gestalten. Deswegen sind Aufzeichnungen wie diese als Orientierung, nicht aber als fertiger Sippenabend, anzuwenden. An dieser Stelle sei in aller Deutlichkeit darauf hingewiesen, dass Sipplinge Inhalte am besten verstehen, wenn sie kreativ aufbereitet werden. Deswegen lohnt es sich als Sippenführer, einen Moment zu nehmen, um eine spannende Probenarbeit vorzubereiten. Gegebenenfalls kann auch die Sammlung für kreatives Sippenabendprogramm behilflich sein.
 
@@ -352,25 +353,25 @@ Der Palstek ist der wohl schwierigste grundlegende Knoten dieser Probe. Er ist a
 
 Zum Binden des Palsteks kann folgende Eselsbrücke hilfreich sein: Es wird ein See mit dem Seil gebildet. Das obere Ende ist eine Schlange, die aus dem See herauskommt. Im nächsten Schritt geht die Schlange um den Baum (anderes Ende des Seils) herum und taucht wieder in den See ein. Zum Schluss wird der Knoten festgezogen. 
 
-![Erstellungsprozess eines Palsteks](Palstek.png){width=45%}
+![Erstellungsprozess eines Palsteks](Palstek.jpg){width=45%}
 
 \underline{Mastwurf}
 
 Der Mastwurf ('Autobahnknoten') wird als Knoten zum Festmachen an einem Baum oder als Abschlussknoten bei Bünden verwendet. Im Pfadfinderalltag wird er meist als Abschlussknoten beim Kohtenkreuz oder bei einer Affenschaukel verwendet.
 
-![Skizze eines Mastwurfs](Mastwurf.png){width=45%}
+![Skizze eines Mastwurfs](Mastwurf.jpg){width=45%}
 
 \pagebreak
 
 Das Gegenstück zum Mastwurf ist der Zimmermannsschlag, der an dieser Stelle kurz erwähnt werden soll. Mit ihm werden Bünde begonnen.
 
-![Skizze eines Zimmermannsschlags](Zimmermann.png){width=30%}
+![Skizze eines Zimmermannsschlags](Zimmermann.jpg){width=30%}
 
 \underline{Achterknoten}
 
 Als besonderer Überhandknoten (gängiger 'normaler' Knoten) hat sich der Achterknoten etabliert. Bei der Erstellung dieses Knotens macht man eine Extrarunde um das Seil und erstellt dadurch einen voluminösen Knoten. Deswegen wird der Achterknoten in der Praxis als Stoppknoten am Ende eines Tampen verwendet. Um einen noch größeren Achterknoten zu erzeugen, kann man den Achterknoten mit doppeltem Seil erstellen. Dieser Knoten nennt sich dann Doppelter Achterknoten.
 
-![Erstellungsprozess eines Achterknotens](Achterknoten.png){width=40%}
+![Erstellungsprozess eines Achterknotens](Achterknoten.jpg){width=40%}
 
 \pagebreak
 
@@ -380,11 +381,11 @@ Ein Spannzug kann beim Abspannen einer Jurte (weniger bei einer Kohte) behilflic
 
 Zur Erstellung dieses Spannzugs wird ungefähr auf der Hälfte des Seils ein Slipstek gebildet. Ein Slipstek funktioniert wie ein Überhandknoten nur, dass man im letzten Schritt nicht das ganze Seil durch die Schleife zieht, sondern eine Schlaufe durchlegt und dann festzieht. Sobald der Slipstek (alternativ kann auch ein Palstek genutzt werden) im Seil ist, wird das ganze Seil, welches bereits oben an der Stütze befestigt ist, um den Hering gelegt. Das Seilende wird durch den Slipstek gelegt und nach angemessenem Spannen mit Halben Schlägen an dem Seil befestigt. 
 
-![Skizze eines Slipsteks](Slipstek.png){width=40%}
+![Skizze eines Slipsteks](Slipstek.jpg){width=40%}
 
 Mindestens genauso wichtig wie ein Spannzug ist das normale Abspannen mit Halben Schlägen. Leider hält der Abspannknoten nicht wirklich bombenfest. Der große Vorteil an dem Knoten ist jedoch, dass man leicht durch Hochschieben der Schlingen nachspannen kann. Gerne dehnen sich nämlich Kohtenbahnen ein wenig, wenn sie länger stehen oder es geregnet hat.
 
-![Skizze von mehreren Halben Schlägen](Abspann.png){width=50%}
+![Skizze von mehreren Halben Schlägen](Abspann.jpg){width=50%}
 
 \pagebreak
 
@@ -394,7 +395,7 @@ Bünde werden vor allem bei Lagerbauten gerne verwendet und sind zur Fixierung m
 
 Wie jeder Bund beginnt der Kreuzbund mit einem Zimmermannsschlag. Der Tampen wird von da an immer abwechselnd über die eine Stange und unter die andere Stange gelegt. Wichtig ist dabei, zu beachten, dass der Tampen immer weiter nach innen gelegt wird, damit der Bund nicht zerfällt. Wenn sich der Tampen selber berüht, wird der Bund geknebelt und mit einem Mastwurf fixiert.
 
-![Skizze des Kreuzbundes](Kreuzbund.png){width=60%}
+![Skizze des Kreuzbundes](Kreuzbund.jpg){width=60%}
 
 \underline{Parallelbund}
 
@@ -402,7 +403,7 @@ Dieser Bund ist zu verwenden, wenn zwei Stangen wirklich parallel gehalten werde
 
 Ein Parallelbund wird durch das einfache Umwickeln zweier Stangen und das anschließende Knebeln zwischen beiden Stangen erstellt.
 
-![Skizze des Parallelbundes](Parallel.png){width=55%}
+![Skizze des Parallelbundes](Parallel.jpg){width=55%}
 
 \pagebreak
 
@@ -410,7 +411,7 @@ Ein Parallelbund wird durch das einfache Umwickeln zweier Stangen und das anschl
 
 Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Scherenbund zu verwenden. Anders als beim Parallelbund werden hier die Stangen nicht einfach, sondern wechselseitig umwickelt und jeder Zwischenraum am Ende geknebelt.
 
-![Skizze des Scherenbundes](Scherenbund.png){width=45%}
+![Skizze des Scherenbundes](Scherenbund.jpg){width=45%}
 
 ## Du kannst Feuer machen und drei verschiedene Feuerarten anwenden.
 
@@ -434,7 +435,7 @@ Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Sch
 
 Wenn diese Vorbereitungen getroffen sind, gilt es, das Feuer möglichst effektiv anzumachen. Wie sonst auch gilt: Vorbereitung ist die halbe Arbeit. Anfangs wird ein Haufen von Reisich gebildet und darüber ein kleiner Aufbau der ausgewählten Feuerart mit dünneren Stöckern gebaut. Sobald der Reisich dann angezündet wurde und sich etwas durchgebrannt hat, kann man anfangen, ein paar Stöcker dazuzulegen und zu blasen. Dabei ist darauf zu achten, das Feuer nicht durch zu viel Wind auszublasen oder es durch zu viel Holz zu ersticken - Übung macht den Meister.
 
-![Ablauf fürs Anzünden eines Feuers](Anzuenden.png){width=75%}
+![Ablauf fürs Anzünden eines Feuers](Anzuenden.jpg){width=75%}
 
 **Nachbereitung**
 
@@ -461,7 +462,7 @@ Ein Pagodenfeuer entsteht durch das systematische Stapeln der Holzscheite zu ein
 
 Das Polynesische Feuer ist ein weiteres Kochfeuer, was gegenüber den vorher genannten Feuerarten aber den Vorteil hat, Wind- und Regengeschützt zu sein, weil es sich in einem Loch befindet. In das Loch werden an die Seiten Holzscheite gestellt, die die Feuerquelle am Boden des Lochs speisen. Durch diese Feuerstrutur gibt es beim Kochen auch fast keinen Wärmeverlust und das Feuer ist von weitem fast unsichtbar.
 
-![Visualisierung unterschiedlicher Feuerarten](feuerarten.png){width=100%}
+![Visualisierung unterschiedlicher Feuerarten](feuerarten.jpg){width=100%}
 
 ## Du kennst die Brenneigenschaften der bei uns üblichen Holzarten.
 
@@ -595,7 +596,7 @@ Beim Packen eines Rucksacks gilt es zwei Punkte zu beachten, wenn Gegenstände v
 
 Deshalb ist es klug, wie in Abbildung 15 zu sehen ist, schwere Gegenstände an den Rücken des Rucksacks zu packen, weil dort die geringste Hebelwirkung greift. Außerdem sollte darauf geachtet werden, dass keine Gegenstände draußen am Rucksack befestigt werden oder dort rumbaumeln, weil das beim Wandern nervig ist, und durch die Bewegungen einen Widerstand aufbaut. Wichtige Sachen wie die Taschenlampe, das Brotbrettchen, ein Messer etc. werden gerne im Deckelfach aufbewahrt, weil sie dort schnell zu erreichen sind. Außerdem ist es sinnvoll, den Schlafsack mit allen weiteren Schlafsachen in das unterste Fach des Rucksacks zu packen, da dieser auf keinen Fall nass werden darf und dort am besten geschützt ist. 
 
-![Packhilfe für einen Rucksack](packen.png){width=41%}
+![Packhilfe für einen Rucksack](packen.jpg){width=41%}
 
 Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. Die hier angeführte Packliste fasst aber die wichtigsten Gegenstände zusammen: 
 
@@ -680,7 +681,7 @@ In dieser Probe beschränken wir uns nicht nur auf Sträucher, sondern behandeln
 
 Eine der in Deutschland am weitesten verbreiteten Baumarten ist die Linde. Sie kommt aber auch in anderen Ländern in Mitteleuropa vor und kann besonders gut in gemäßigten bis subtropischen Gebieten gedeihen.
 
-![Skizze von Blatt und Frucht der Linde](linde.png){width=60%}
+![Skizze von Blatt und Frucht der Linde](linde.jpg){width=60%}
 
 \pagebreak
 
@@ -688,13 +689,13 @@ Eine der in Deutschland am weitesten verbreiteten Baumarten ist die Linde. Sie k
 
 Die Hainbuche ist ein sehr verbreitetes Gewächs in Europa, vor allem aber in Deutschland. Sie wächst in Europa und Westasien als mittelgroßer, laubwerfender Baum oder Strauch und ist fester Bestandteil von deutschen Laubwäldern.
 
-![Skizze von Blatt und Frucht der Hainbuche](hainbuche.png){width=60%}
+![Skizze von Blatt und Frucht der Hainbuche](hainbuche.jpg){width=60%}
 
 \underline{Pappel}
 
 Weniger bekannt als die Buche ist die Pappel. Sie gehört zu Gattung der Weidengewächse (siehe Weide weiter unten) und ist vor allem auf der Nordhalbkugel verbreitet. In Deutschland findet man die Pappel entweder in größeren Wäldern oder am Wasser. 
 
-![Skizze von Blatt und Frucht der Pappel](pappel.png){width=60%}
+![Skizze von Blatt und Frucht der Pappel](pappel.jpg){width=60%}
 
 \pagebreak
 
@@ -702,13 +703,13 @@ Weniger bekannt als die Buche ist die Pappel. Sie gehört zu Gattung der Weideng
 
 Besonders markant für den Spitzahorn sind seine spitzen Blätter und seine Ahornfrucht, die man sich gut auf die Nase setzen kann. Der Spitzahorn ist in den meisten Teilen Europas zu finden. 
 
-![Skizze von Blatt und Frucht des Spitzahorns](spitzahorn.png){width=60%}
+![Skizze von Blatt und Frucht des Spitzahorns](spitzahorn.jpg){width=60%}
 
 \underline{Ulme}
 
 Die Ulme ist ein vergleichsweise simpler Baum. Er besitzt keine besonderen Früchte. Dafür gibt es umso mehr unterschiedliche Ulmensorten. Alleine in Mitteleuropa gibt es drei verschiedene Arten der Ulme, die aber alle relativ ähnlich aussehen.
 
-![Skizze von Blatt und Frucht der Ulme](Ulme.png){width=60%}
+![Skizze von Blatt und Frucht der Ulme](Ulme.jpg){width=60%}
 
 \pagebreak
 
@@ -716,13 +717,13 @@ Die Ulme ist ein vergleichsweise simpler Baum. Er besitzt keine besonderen Früc
 
 Ein gängier Baum, der noch mehr Arten als die Ulme hat, ist die Weide. Sie ist in der nördlichen gemäßigten Zone bis zur Arktis mit kanppen 450 Arten vertreten. Außerdem sind einige Weiden auch in den Tropen heimisch. Weiden zeichnen sich vor allem durch ihre langen, herunterhängenden Äste und das dadurch entstehende Erscheinungsbild aus.
 
-![Skizze von Blatt und Frucht der Weide](weide.png){width=60%}
+![Skizze von Blatt und Frucht der Weide](weide.jpg){width=60%}
 
 \underline{Rostkastanie}
 
 Vor allem im Herbst entfaltet sie ihre volle Schönheit: die Rostkastanie. Kaum ein Baum ist durch seine Frucht, die Kastanie, so beliebt für Bastelarbeiten wie die Rostkastanie. Die Rostkastanie ist in Nordamerika, Europa und Asien aufzufinden.
 
-![Skizze von Blatt und Frucht der Rostkastanie](rostkastanie.png){width=60%}
+![Skizze von Blatt und Frucht der Rostkastanie](rostkastanie.jpg){width=60%}
 
 \pagebreak
 
@@ -730,13 +731,13 @@ Vor allem im Herbst entfaltet sie ihre volle Schönheit: die Rostkastanie. Kaum 
 
 Der Strauch der Hasel, besser bekannt als Haselstrauch oder Haselnussstrauch, ist wohl am ehesten für seine Frucht, die Haselnus, bekannt. Die Hasel existiert in Europa und Kleinasien, kommt aber am häufigsten in Mitteleuropa vor.
 
-![Skizze von Blatt und Frucht der Hasel](hasel.png){width=60%}
+![Skizze von Blatt und Frucht der Hasel](hasel.jpg){width=60%}
 
 \underline{Kirsche}
 
 Auch der Kirschbaum ist vor allem durch seine Fruch bekannt, die gerne im Sommer verzehrt wird. Die Frucht der Kirsche befindet sich an einem Kirschbaum. Neben der in Deutschland als Speisekirsche bekannten Kirsche gibt es auch noch viele andere Kirschsorten.
 
-![Skizze von Blatt und Frucht des Kirschbaums](kirsche.png){width=60%}
+![Skizze von Blatt und Frucht des Kirschbaums](kirsche.jpg){width=60%}
 
 \pagebreak
 
@@ -744,7 +745,7 @@ Auch der Kirschbaum ist vor allem durch seine Fruch bekannt, die gerne im Sommer
 
 Die Weißdorne ist ein in Deutschland mit drei unterschiedlichen Arten vertretener Strauch. Er ist außerdem in Nordamerika und anderen Ländern Europas verbreitet und überzeugt dort vor allem durch schöne, weiße Blüten im Sommer.
 
-![Skizze von Blatt und Frucht der Weißdorne](weissdorn.png){width=60%}
+![Skizze von Blatt und Frucht der Weißdorne](weissdorn.jpg){width=60%}
 
 \pagebreak
 
@@ -899,7 +900,7 @@ Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzuleiten, we
 
 &nbsp;
 
-![Skizze der stabilen Seitenlage](seitenlage.png){width=40%}
+![Skizze der stabilen Seitenlage](seitenlage.jpg){width=40%}
 
 Die stabile Seitenlage kann durch folgende Schritte erreicht werden: 
 
@@ -948,7 +949,7 @@ Das Einnorden einer Karte ist wichtig, um die Karte mit der Umgebung um sich her
 
 Beim Peilen benutzt man den Kompass, um einen Punkt auf der Landkarte genau bestimmen zu können. Hier wollen wir neben dem Anpeilen von Objekten und der Streckenpeilung die in der Praxis relevanteste Peilung thematisieren - die **Kreuzpeilung**. Diese funktioniert wie folgt: 
 
-![Skizze des Einnordens und der Kreuzpeilung (links nach rechts)](kompass.png){width=100%}
+![Skizze des Einnordens und der Kreuzpeilung (links nach rechts)](kompass.jpg){width=100%}
 
 #. Wähle zwei anzupeilende Gradzahlen
 #. Die erste Gradzahl wird auf der Rosette des Kompasses eingestellt, bis N gedreht und mit dem Lineal gezeichnet
