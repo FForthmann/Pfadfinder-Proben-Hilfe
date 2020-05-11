@@ -90,6 +90,8 @@ Amen.
 
 Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönlichen Gesprächen die beste Grundlage etwas über das Evangelium zu erzählen. Eine erfolgreiche Andacht lebt neben einer guten Vorbereitung und einer Prise Gott vor allem von persönlichen Eindrücken und kreativen Darstellungen von Bibelstellen. *Ideen für Andachtsthemen aller Altersstufen finden sich im Sippenführer auf Seite 12 oder im C-Konzept.*
 
+&nbsp;
+
 \underline{Eine Andacht hat folgende Bestandteile:}
 
 * Vorbereitung
@@ -102,6 +104,8 @@ Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönli
 * Stille Zeit und Anbetung 
 * Lobpreis (z.B. durch Lieder an unterschiedlichen Stellen) 
 * Segen oder Abschlussgebet
+
+\pagebreak
 
 \underline{Zur inhaltlichen Gestaltung einer Andacht kann folgendes Schema verwendet werden:}
 
@@ -151,6 +155,8 @@ Die Kreuzlilie beinhaltet als verbindendes Symbol der Lilie das Kreuz, welches f
 
 Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unterschiedliche Wissensstände unter den Sipplingen und Ulanen aus, sondern sind auch ein Weg, Verbindlichkeit und Hierarchien in einer Organisation zu etablieren. Im Folgenden sind die unterschiedlichen Stände des Stammes mit ihren Aufgaben und einzusetzenden Bereichen aufgeführt. Die in der Tabelle genannten Altersspannen beziehen sich auf das typische Alter für den Stand.
 
+&nbsp;
+
 | Alter | Stand | Bereiche | Aufgabe |
 |-|---|---|------|
 | 8-9  | Wölfling        | Sippe   |    Sippe zugehörig  |
@@ -169,7 +175,11 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 
 *Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Sipplinge während des Things Notizen machen zu lassen. Zur Stammessituation gehören die Ämterbesetzungen und ein paar weitere Kennzahlen sowie ggf. weitere aktuelle Ereignisse.*
 
+&nbsp;
+
 Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige Beauftragungen sind beispielsweise die *Mitgliederverwaltungs-Beauftragung*, die *Seybruch-Beauftragung* oder die *Schulfüchse-Beauftragung*.
+
+&nbsp;
 
 **Ämter:**
 
@@ -201,9 +211,13 @@ Außerdem sind folgende Kennzahlen zu besprechen:
 
 *Nun folgt das Pfadfinderversprechen. In der Besprechung des Versprechens lohnt es sich, den Begriff 'Mitgestalter des Sippenlebens' sowie die Redewendung 'Im Vertraun auf Gottes Hilfe' zu vertiefen. Außerdem kann beim Sippenabend ein Vergleich dieses Versprechens mit dem ursprünglichen Pfadfinderversprechen BPs hilfreich sein.*
 
+&nbsp;
+
 \underline{Versprechen:}
 
 **'Im Vertrauen auf Gottes Hilfe verspreche ich, die Aufgaben des Pfadfinders als Mitgestalter des Sippenlebens zu erfüllen.'**
+
+&nbsp;
 
 \underline{Ursprüngliches Pfadfinderversprechen von BP:}
 
@@ -219,7 +233,11 @@ On my honour I promise that I will do my best –
 
 *Es kann sinnvoll sein, zum tieferen Verständnis und zur besseren Veranschaulichung in der Vorbereitung und beim Sippenabend die Jubiläumsbroschüren der Jubiläen 50 und 70 Jahre Stamm St. Andreas zu verwenden. Dort sind neben detaillierten Beschreibungen auch interessante Fotos vorhanden, die sonst im Stammesarchiv besichtigt werden können. Diese Schilderung ist **Stand Mai 2020**. Alle weiteren wichtigen Ereignisse müssen nach Ermessen des Sippenführers ergänzt werden.*
 
+&nbsp;
+
 Im Folgenden wird die Stammesgeschichte in zwei Formen dargelegt. Einmal in kompakten Stichpunkten und das zweite Mal als detaillierter Fließtext.
+
+&nbsp;
 
 \underline{Stichpunkte}
 
@@ -277,9 +295,13 @@ Der Stammesleitsatz ist eine kurze und prägnante Zusammenfassung unserer Absich
 
 *Es ist sinnvoll, mit den Sipplingen aktiv darüber zu diskutieren, wieso ein Leitsatz und eine Vision wichtig sind und, wie unser Stamm aussehen würde, wenn sich jeder an diesen Ideen orientieren würde.*
 
+&nbsp;
+
 \underline{Stammesleitsatz}
 
 Als christlicher Pfadfinderstamm St. Andreas bekennen wir uns zu unserem Herrn Jesus Christus. Diesen Glauben wollen wir in Wort und Tat leben und andere dazu einladen. Allzeit bereit wollen wir nach den Pfadfindergesetzen handeln und unsere Gaben in der Gemeinschaft einsetzen.
+
+&nbsp;
 
 \underline{Stammesvision}
 
@@ -307,6 +329,8 @@ Auf dem Weg zum Sippenführer ist es besonders wichtig, grundlegende Fahrtenbaut
 
 [^footnote3]: Weitere Informationen zu wichtigen Fahrtenbauten sind in dem 'Sippenführer' ab Seite 109 zu finden. Dort werden unter anderem der Frosch, die Kröte, der Mor og barn und Jurten thematisert. 
 
+&nbsp;
+
 \underline{Waldpenner}
 
 Der Waldpenner ist ein Ein-Personen-Zelt mit begrenztem Platz: Leute über 1,60 cm ragen leider aus dem Zelt heraus, schlafen also mit dem Kopf mehr oder weniger im Freien. Auch bläst einem der Wind gerne den Regen ins Zelt. Dafür ist der Waldpenner schnell nur mit einer Kohtenbahn aufzubauen und kann im Notfall auch zwei Menschen ohne Rucksäcke beherbergen. Weil der Waldpenner so unkompliziert aufzubauen ist, eignet er sich gut für Wanderfahrten. Zum Aufbau benötigt man neben einer Kohtenbahn eine 100 cm hohe Stütze und fünf Heringe.
@@ -319,6 +343,8 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 
 ![Skizze einer Kröte](Waldpenner-zusammen.jpg){width=50%}
 
+&nbsp;
+
 \underline{Kohte}
 
 **Geschichte:**
@@ -330,6 +356,8 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 * Heutzutage ist die moderne Kohte, die von tusk verbessert wurde, in allen deutschen Pfadfinderverbänden verbreitet
 * Erkennungsmerkmal der deutschen Pfadfinder
 
+\pagebreak
+
 **Aufbau:**
 
 *Material:*
@@ -340,8 +368,6 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 * 8 Heringe
 * 1x ca. 4 m lange Kohtenstange
 * 2x ca. 1 m lange Stangen fürs Kohtenkreuz
-
-\pagebreak
 
 *Aufbauschritte:*
 
@@ -359,8 +385,6 @@ Um etwas geschüzter vor Wind und Witterung zu sein, ist es möglich, zwei Waldp
 
 *Auch bei dieser Probe muss die Anwendung praktisch erfolgen. Ganz nach BPs Pfadfinderprinzip 'Learning by doing' lernen die Sipplinge Knoten nur in der praktischen Anwendung. Man kann beispielsweise mit Tampen üben und später zwischen den Sipplingen einen Geschwindigkeitswettbewerb veranstalten oder die Knoten mit Süßigkeitenschlangen erstellen.*
 
-\pagebreak
-
 \underline{Palstek (Weberknoten)}
 
 Der Palstek ist der wohl schwierigste grundlegende Knoten dieser Probe. Er ist aber um so nützlicher. Denn im Gegensatz zum Slipstek ('Zauberknoten' oder 'Hausfrauenknoten') lässt er sich leicht (auch nachdem er lange unter Zug stand) wieder öffnen: Man muss nur die Schlinge, die man im letzten Schritt gelegt hat, um das Zugseil kippen (siehe dafür Kreuzknoten). Deswegen wird der Palstek meist benutzt, wenn eine Schlinge gebraucht wird. Zum Beispiel bei der Kohtenstange zum Hochziehen des Kohtenkreuzes. 
@@ -369,17 +393,19 @@ Zum Binden des Palsteks kann folgende Eselsbrücke hilfreich sein: Es wird ein S
 
 ![Erstellungsprozess eines Palsteks](Palstek.jpg){width=45%}
 
+\pagebreak
+
 \underline{Mastwurf}
 
 Der Mastwurf ('Autobahnknoten') wird als Knoten zum Festmachen an einem Baum oder als Abschlussknoten bei Bünden verwendet. Im Pfadfinderalltag wird er meist als Abschlussknoten beim Kohtenkreuz oder bei einer Affenschaukel verwendet.
 
 ![Skizze eines Mastwurfs](Mastwurf.jpg){width=45%}
 
-\pagebreak
-
-Das Gegenstück zum Mastwurf ist der Zimmermannsschlag, der an dieser Stelle kurz erwähnt werden soll. Mit ihm werden Bünde begonnen.
+Das Gegenstück zum Mastwurf ist der **Zimmermannsschlag**, der an dieser Stelle kurz erwähnt werden soll. Mit ihm werden Bünde begonnen.
 
 ![Skizze eines Zimmermannsschlags](Zimmermann.jpg){width=30%}
+
+\pagebreaj
 
 \underline{Achterknoten}
 
@@ -433,6 +459,8 @@ Wenn die Stangen wie beim Dreibock doch aufgefächert werden sollen, ist ein Sch
 
 *Feuer ist ein wichtiges Fahrtenelement: Es ist nicht nur warm und sieht gut aus, sondern ist auch fürs Kochen wichtig und kann an kalten Tagen die Stimmung merklich bessern. Praktische Feuerproben eignen sich in Kombination mit Stockbrot, Spatenei oder Marshmellows als Belohnung für die Sipplinge, wenn sie ein Feuer anbekommen haben.*
 
+&nbsp;
+
 \underline{Ablauf}
 
 **Vorbereitung**
@@ -460,6 +488,8 @@ Wenn diese Vorbereitungen getroffen sind, gilt es, das Feuer möglichst effektiv
 * Vorm Zuschütten der Feuerstelle ein Kreuz aus Stöckern in die Feuerstelle legen
 * Holz wegräumen
 
+&nbsp;
+
 \underline{Feuerarten}
 
 **Sternfeuer**
@@ -478,6 +508,8 @@ Ein Pagodenfeuer entsteht durch das systematische Stapeln der Holzscheite zu ein
 
 Das Polynesische Feuer ist ein weiteres Kochfeuer, was gegenüber den vorher genannten Feuerarten aber den Vorteil hat, Wind- und Regengeschützt zu sein, weil es sich in einem Loch befindet. In das Loch werden an die Seiten Holzscheite gestellt, die die Feuerquelle am Boden des Lochs speisen. Durch diese Feuerstrutur gibt es beim Kochen auch fast keinen Wärmeverlust und das Feuer ist von weitem fast unsichtbar.
 
+&nbsp;
+
 ![Visualisierung unterschiedlicher Feuerarten](feuerarten.jpg){width=100%}
 
 \pagebreak
@@ -494,6 +526,8 @@ Es gibt einige \underline{Faustregeln}, die sich lohnen im Hinterkopf zu haben, 
 * Gute Glut geben Buche, Eiche, Esche und Ahorn
 * Abgelagertes Holz brennt besser und Schadstoffärmer als frisches Holz
 * Zum Anzünden eignen sich besonders Birke, Kiefer und Fichte
+
+&nbsp;
 
 Für die \underline{konkreten Holzarten} bedeutet das: 
 
@@ -515,6 +549,8 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 ## Du kannst richtig Hacken und Sägen und weißt, wie Du mit Lagerwerkzeug umgehst (Beil, Axt, Lampen, Tampen, Säge, Spaten)
 
 *Ein Großteil dieser Probe wird bereits auf der A-Schulung besprochen. Trotzdem ist es wichtig, die hier beschriebenen Regel praktisch, beispielsweise anhand eines Fehler-Such-Bildes auf Fahrt zu festigen.* Im Folgenden werden wichtige Umgangsweisen mit den wichtigsten Fahrtenmaterialien genannt.
+
+&nbsp;
 
 \underline{Gängige Fahrtenmaterialien}
 
@@ -577,6 +613,8 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 
 *Es ist sicherlich sinnvoll, vor dieser Probe mit den Sipplingen über fahrtentaugliches Essen zu sprechen. Denn nicht jede Mahlzeit kann gut auf Fahrt gekocht werden.*
 
+&nbsp;
+
 \underline{Kartoffeln}
 
 #. Kartoffeln schälen, je nach Größe halbieren oder vierteln und waschen
@@ -615,7 +653,7 @@ Für die Zubereitung von Reis wird die doppelte Menge an Wasser, etwas Salz und 
 
 Bevor der Rucksack gepackt wird, muss darauf geachtet werden, ob der Wanderrucksack auch gut passt. Entscheidend dafür ist die Größe und, wie er eingestellt ist. Für das Packen gilt die goldene Regel: **„So viel wie nötig, so wenig wie möglich“**. Die Sipplinge müssen dafür sensibilisiert werden, dass eine (Wander-)Fahrt nicht der Ausrüstung vom Alltag bedarf, denn **jedes Gramm wandert mit**.
 
-Beim Packen eines Rucksacks gilt es zwei Punkte zu beachten, wenn Gegenstände verstaut werden: 
+Beim Packen eines Rucksacks gilt es zwei Punkte zu beachten: 
 
 #. Wo muss ich die Sachen hinpacken, damit der Rucksack insgesamt leicht bleibt? 
 #. Wie oft benutze ich diese Sache und wo sollte ich es deswegen hinpacken, um gut auf die Sache zugreifen zu können? 
@@ -663,6 +701,8 @@ Sippenführer müssen auf Fahrt zusätzliche Gegenständen mitnehmen. Ein paar w
 
 *Bei dieser Probe sind dem Sippenführer keine Grenzen gesetzt. Vielleicht lohnt es sich auch, mit den Sipplingen kreative Ideen für ein Trinkgefäß aus Naturprodukten zu sammeln.* Trotzdem sind hier drei Vorschläge für Trinkgefäße aus Naturprodukten. 
 
+&nbsp;
+
 \underline{Konuss}
 
 Eine Konuss ist ein Trinkgefäß, das aus der ausgehöhlten unteren Hälfe einer Kokusnuss besteht. Bei viel Engagement kann auch noch ein Ständer für dieses Gefäß gebaut werden. 
@@ -703,6 +743,8 @@ Ganz nach dem Pfadfindergesetz *'Ein Pfadfinder schützt die Natur und bewahrt d
 ## Du kannst fünf verschiedene Pflanzen und Sträucher unserer Wälder nach ihrem Aussehen und ihren Früchten bestimmen
 
 *Es kann Sinn ergeben, diese Probe entweder praktisch auf einer Fahrt oder durch ein interessantes Spiel beim Sippenabend durchzuführen. Beispielsweise indem in einem Memorie die Blätter den Früchten zugeordnet werden (ein fertiges Memorie ist im Anhang zu finden). Genauso kann man auch ein Quizz machen. Hier werden zehn Beispiele genannt, die auch auf fünf eingeschränkt werden können.*
+
+&nbsp;
 
 In dieser Probe beschränken wir uns nicht nur auf Sträucher, sondern behandeln als Pflanzen vor allem Bäume. Die Pflanzen werden anhand ihrer Blätter und Früchte identifiziert.
 
@@ -782,6 +824,8 @@ Die Weißdorne ist ein in Deutschland mit drei unterschiedlichen Arten vertreten
 
 *Es ist lohnenswert, diese Probe kreativ anzugehen. Ein Beispiel für einen kreativen Sternen-Sippenabend ist es, die Sternenbilder in eine dunkle Oberfläche zu stechen und die Sterne in einem abgedunkelten Raum durch eine einzige Lichtquelle an die Decke zu projezieren. Noch besser ist es natürlich, auf Fahrt diese Sternenbilder durchzusprechen und zu entdecken.*
 
+&nbsp;
+
 Der Große Wagen, auch Großer Bär genannt, ist das wohl einfachste Sternenbild und kann meistens bei sternenklarer Nacht erkannt werden. Wie der Große Wagen aussieht, ist in Abbildung 26 dargestellt. 
 
 Wenn man die hintere Achse des Großen Wagens 5x verlängter, kommt man zum Polarstern. Dieser Stern ist zur Orientierung besonders wichtig, weil er immer im Norden steht. Außerdem ist er Teil des Kleinen Wagens und stellt den Griff dieses Sternenbilds dar. 
@@ -798,7 +842,7 @@ Wer schonmal einen fetzigen Tschaiabend miterlebt hat, wird sich bewusst sein, w
 
 ## Du hast in Dein Pfadfinderbuch das nötige Pfadfinderwissen eingeschrieben
 
-In ein Probenbuch gehören unter anderem folgende Inhalte, die es gilt im Probenbuch zu überprüfen. Alternativ kann auch anhand der Probenordnung in dem 'Sippenführer' überprüft werden, ob alles Wissen für die Proben bis zum Stand des Pfadfinders im Probenbuch vorhanden ist.
+In ein Probenbuch gehören unter anderem folgende Inhalte, die es im Probenbuch zu überprüfen gilt. Alternativ kann auch anhand der Probenordnung in dem 'Sippenführer' überprüft werden, ob alles Wissen für die Proben bis zum Stand des Pfadfinders im Probenbuch vorhanden ist.
 
 * AB–Päckchen 
 * Stammesinterne Ständeregelung 
@@ -820,6 +864,8 @@ In ein Probenbuch gehören unter anderem folgende Inhalte, die es gilt im Proben
 
 *Das Planen und Durchführen von Sippen- und Tschaiabenden ist als Vorbereitung auf die Existenz als Ulane sehr wichtig. Deswegen bietet es sich an, einen von den Sipplingen geplanten Sippenabend eine Woche später unter Leitung einiger Sipplinge durchzuführen oder einen vorher geplanten Tschaiabend auf Fahrt stattfinden zu lassen.*
 
+&nbsp;
+
 \underline{Sippenabend}
 
 * Sippenabendplanung ist eine der Hauptaufgaben eines Sippenführers, weil Sippenabende die meiste Zeit mit den Sipplingen ausmachen
@@ -840,14 +886,15 @@ Es gibt fünf unterschiedliche **Sippenabendtypen**, für die es sich lohnt, ein
     * Weihnachtskarten basteln, Brotbretter löten, Pfingstfahrtverkleidung erstellen etc.
 * Christliche Arbeit
     * Bibelgeschichte (mit der Volxbibel) besprechen, Fotogeschichte einer Geschichte machen, christliche Lieder singen, Besuch eines Gottesdienstes etc.
+
+\pagebreak
+
 * Musische Arbeit (oft mit christicher Arbeit verbunden)
     * Fahrtenlieder singen, Kastanienmännchen basteln etc. 
 * Probenarbeit
     * Kohtenaufbau üben, Waldläuferzeichenlauf, Theoretische Probenbesprechung etc.
 
 Die Sippenabendtypen können sich bei einem Sippenabend durchaus überschneiden, wie man bei den hier genannten Beispielen sehen kann. Wie so oft gilt, dass eine Durchmischung der Sippenabendarten wichtig ist. Trotzdem ist klar, dass je nach Alter einige Sippenabendtypen mehr verwendet werden, als andere. Mit jungen Sipplingen spielt man beispielsweise mehr. Mit älteren Sipplingen wird dafür eine intensivere Probenarbeit praktiziert.
-
-\pagebreak
 
 \underline{Tschaiabend}
 
@@ -868,6 +915,8 @@ Eine Auswahl von möglichen Spielen wäre folgende:
 
 Die Erstellung einer Fahrtenchronik ist für eine Sippe wichtig, weil sie das Erlebte für spätere Tage zusammenfasst. In dem aktuellen Moment mag das nicht relevant erscheinen, doch später erinnert man sich gerne an die Zeit in der eigenen Sippe. Außerdem stärkt es den Sippengeist ein gemeinsames Werk zu haben. *Sollte deine Sippe noch keine Chronik haben, kann das ein Anstoß sein, nun mit einer (möglichst auch mit Fotos!) anzufangen.*
 
+&nbsp;
+
 Neben Sippenfahrtseinträgen von den Sipplingen kann es auch schön sein, die Sippenchronik gemeinsam zu verzieren und als Sippe die vergangenen Fahrten mit Hilfe der Chronik revue passieren zu lassen. Besonders schön ist es dabei, wenn auch Fotos von den Fahrten in der Sippenchronik zu finden sind. 
 
 \pagebreak
@@ -879,6 +928,8 @@ Die Neigungsproben stellen einen variableren Teil der Pfadfinderproben dar. Dies
 ## Du weißt, wie man sich bei Bränden und Unfällen verhält und erste Hilfsmaßnahmen einleitet
 
 *Um das hier gesammelte theoretische Wissen zu festigen, kann es sinnvoll sein, anhand eines Rollenspiels die vorher besprochenen Schritte durchzuspielen.*
+
+&nbsp;
 
 Wenn ein Unfall oder ein Brand auf Fahrt passiert, gibt es ein paar grundlegende Regeln, die eingehalten werden müssen, bevor Maßnahmen zur Erste-Hilfe oder andere Schritte eingeleitet werden.[^footnote4]
 
@@ -926,7 +977,7 @@ Ergänzend zu den oben genannten Schritten können beim Auffinden einer Person u
 
 \pagebreak
 
-**Stabile Seitenlage**
+\underline{Stabile Seitenlage}
 
 Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzuleiten, wenn der Verletzte kein Bewusstsein mehr besitzt, aber atment. Sie ist wichtig, um die Schmerzen erträglicher zu machen aber vor allem, damit der Patient nicht an seiner Zunge oder an Erbrochenem ersticken kann. Zusätzlich zu der stabilen Seitenlage sollte der Puls und die Atmung des Patienten stetig überprüft und eine Decke zum über- & unterlegen besorgt werden. Außerdem muss darauf geachtet werden, den Betroffenen möglichst nicht auf eine Wunde oder Verletzung zu drehen.
 
@@ -972,14 +1023,14 @@ Diese Probe ist wahlweise von dem Sippenführer auszuwählen. Es gilt darauf zu 
 
 *Der Umgang mit Karte und Kompass ist vor allem für besonders pfadfinderische Fahrten wie die Herbstschulung oder die Sommerfahrten wichtig. Als Pfadfinder sollte man sich im Gelände bewegen können. Deswegen ergibt es großen Sinn, das Erlernte auf einer Sippenfahrt anhand einer Rallye oder eines kleinen Haiks zu festigen.*
 
+&nbsp;
+
 \underline{Einnorden}
 
 Das Einnorden einer Karte ist wichtig, um die Karte mit der Umgebung um sich herum in Zusammenhang bringen zu können. Bevor man mit Karte und Kompass loswandert, ist es also notwendig, die Karte einzunorden. Eine Karte wird wie folgt eingenordet: 
 
 #. Kompass an Rasterlinien anlegen
 #. Karte so lange drehen, bis die Karte mit der Nadel in eine Richtung, nach Norden zeigt
-
-\pagebreak
 
 \underline{Peilen}
 
@@ -991,6 +1042,8 @@ Beim Peilen benutzt man den Kompass, um einen Punkt auf der Landkarte genau best
 #. Die erste Gradzahl wird auf der Rosette des Kompasses eingestellt, bis N gedreht und mit dem Lineal gezeichnet
 #. Danach stellt man die zweite Zahl ein und zeichnet erneut eine Linie
 #. Der angepeilte Punkt ist dort, wo sich die beiden Linien treffen
+
+\pagebreak
 
 \underline{Marschzahl}
 
