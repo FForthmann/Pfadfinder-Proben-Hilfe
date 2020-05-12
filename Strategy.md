@@ -1,5 +1,6 @@
 ---
 disablearabicstart: true
+include-after: ["PfadfinderprobenListe.pdf", "PflanzenMemory.pdf"]
 lang: de-DE
 forceimages: true
 force-image-position: true
