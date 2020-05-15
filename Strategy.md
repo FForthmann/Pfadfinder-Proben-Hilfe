@@ -197,7 +197,9 @@ Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige
 | Werkkammerwart  | Werkkammer | ________ |
 | Thinggraf | Einberufung & Durchführung des Things sowie Überwachung der Stammesordnung| ________ |
 | Neue-Medien-Wart |  Website und Ähnliches | ________ |
+| Mitglieder-Beauftragter | Mitgliederverwaltung |________ |
 | Schulfüchse-Beauftragter | Verbindung zum Schulprojekt |________ |
+| Seybruch-Beauftragter | Verbindung zum Seybruch |________ |
 
   : Vorlage für Ämterbesetzung
   
