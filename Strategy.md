@@ -944,7 +944,7 @@ Die Neigungsproben stellen einen variableren Teil der Pfadfinderproben dar. Dies
 
 Wenn ein Unfall oder ein Brand auf Fahrt passiert, gibt es ein paar grundlegende Regeln, die eingehalten werden müssen, bevor Maßnahmen zur Ersten-Hilfe oder andere Schritte eingeleitet werden.[^footnote4]
 
-[^footnote4]: Detailliertere Informationen zur Ersten-Hilfe- und anderen Notfallmaßnahmen sind in dem 'Sippenführer' ab Seite 79 zu finden.
+[^footnote4]: Detailliertere Informationen zur Ersten-Hilfe und anderen Notfallmaßnahmen sind in dem 'Sippenführer' ab Seite 79 zu finden.
 
 \underline{Verhalten bei Unfällen}
 
