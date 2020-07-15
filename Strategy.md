@@ -154,7 +154,7 @@ Die Kreuzlilie beinhaltet als verbindendes Symbol der Lilie das Kreuz, welches f
 
 ## Du kennst die stammesinterne Ständeregelung
 
-Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unterschiedliche Wissensstände unter den Sipplingen und Ulanen aus, sondern sind auch ein Weg, Verbindlichkeit und Hierarchien in einer Organisation zu etablieren. Im Folgenden sind die unterschiedlichen Stände des Stammes mit ihren Aufgaben und einzusetzenden Bereichen aufgeführt. Die in der Tabelle genannten Altersspannen beziehen sich auf das typische Alter für den Stand.
+Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unterschiedliche Wissensstände unter den Sipplingen und Ulanen aus, sondern sind auch ein Weg, Verbindlichkeit und Hierarchien in einer Organisation zu etablieren. Im Folgenden sind die unterschiedlichen Stände des Stammes mit ihren Aufgaben und einzusetzenden Bereichen aufgeführt. Die in der Tabelle genannten Altersspannen beziehen sich auf das typische Alter für den Stand. Bei den meisten Ständen ist laut Stammesordnung bereits ein deutlich früheres Eintreten in den Stand möglich - jedoch nicht zu empfehlen.
 
 &nbsp;
 
@@ -799,11 +799,11 @@ Ein gängiger Baum, der noch mehr Arten als die Ulme hat, ist die Weide. Sie ist
 
 ![Skizze von Blatt und Frucht der Weide](weide.jpg){width=60%}
 
-\underline{Rostkastanie}
+\underline{Rosskastanie}
 
-Vor allem im Herbst entfaltet sie ihre volle Schönheit: die Rostkastanie. Kaum ein Baum ist durch seine Frucht, die Kastanie, so beliebt für Bastelarbeiten wie die Rostkastanie. Die Rostkastanie ist in Nordamerika, Europa und Asien aufzufinden.
+Vor allem im Herbst entfaltet sie ihre volle Schönheit: die Rosskastanie. Kaum ein Baum ist durch seine Frucht, die Kastanie, so beliebt für Bastelarbeiten wie die Rosskastanie. Der Name dieser Pflanze kommt daher, dass die Rosskastanie gerne von Rossen als Snack verputzt wird. Sie ist in Nordamerika, Europa und Asien aufzufinden.
 
-![Skizze von Blatt und Frucht der Rostkastanie](rostkastanie.jpg){width=60%}
+![Skizze von Blatt und Frucht der Rosskastanie](rosskastanie.jpg){width=60%}
 
 \pagebreak
 
