@@ -1,5 +1,6 @@
 ---
 disablearabicstart: true
+include-before: "Deckblatt.pdf"
 include-after: ["PfadfinderprobenListe.pdf", "PflanzenMemory.pdf"]
 lang: de-DE
 forceimages: true
@@ -18,7 +19,7 @@ lot: true
 
 Als Pfadfinderprobenhilfe beansprucht dieses Werk keinen Anspruch auf Vollständigkeit oder absolute Aktualität. Vielmehr kann es als ergänzendes Mittel zu bereits vorhandenen Werken wie dem 'Sippenführer', alten Probenheften oder Schulungskladden verwendet werden. Als Sippenführer ist es immer wichtig, einen individuellen Sippenabend zu gestalten. Deswegen sind Aufzeichnungen wie diese als Orientierung, nicht aber als fertiger Sippenabend anzuwenden. An dieser Stelle sei in aller Deutlichkeit darauf hingewiesen, dass Sipplinge Inhalte am besten verstehen, wenn sie kreativ aufbereitet werden. Deswegen lohnt es als Sippenführer, sich einen Moment zu nehmen, um eine spannende Probenarbeit vorzubereiten. Gegebenenfalls kann auch die Sammlung für kreatives Sippenabendprogramm behilflich sein.
 
-Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und die Pfadfinderprobenordnung der Stammesordnung und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2020 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' auf den Seiten 98 & 99 und in der Stammesordnung. In dieser Probenhilfe wird sich auf die *4. Auflage des 'Sippenführers' von 1998* bezogen. Wegen der Nutzung von urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
+Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und die Pfadfinderprobenordnung der Stammesordnung und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2021 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' auf den Seiten 98 & 99 und in der Stammesordnung. In dieser Probenhilfe wird sich auf die *4. Auflage des 'Sippenführers' von 1998* bezogen. Wegen der Nutzung von urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
 
 &nbsp;
 
@@ -174,9 +175,7 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 
 ## Du weißt über die Stammessituation Bescheid
 
-*Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Sipplinge während des Things Notizen machen zu lassen. Zur Stammessituation gehören die Ämterbesetzungen und ein paar weitere Kennzahlen sowie ggf. weitere aktuelle Ereignisse.*
-
-&nbsp;
+*Diese Probe **muss** aktuell vorbereitet werden. Es bietet sich an, sie im Anschluss an einen Thing zu machen und die Sipplinge während des Things Notizen machen zu lassen. Zur Stammessituation gehören die Ämterbesetzungen, weitere Kennzahlen und weitere aktuelle Ereignisse.*
 
 Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige Beauftragungen sind beispielsweise die *Mitgliederverwaltungs-Beauftragung*, die *Seybruch-Beauftragung* oder die *Schulfüchse-Beauftragung*.
 
@@ -189,6 +188,7 @@ Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige
 |   Stammesführer  |  Leitung & Koordination des Stammes  | ________ |
 |  Geschäftsführer  | Verwaltung der Stammesgelder  | ________ |
 | Stammesältester | Außenstehender Ansprechpartner bei Problemen | ________ |
+| Stammesdiakon | Unterstützung des Stammesführers bei theologischen Fragen & Angeboten| ________ |
 |    Materialwart  |  Stammesmaterial (Kohten, Beile, Tampen etc.) | ________ |
 | Bürowart | Verkauf & Verwaltung kleinerer Budgets | ________ |
 | Speikawart | Speisekammer & Kochutensilien | ________ |
