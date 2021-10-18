@@ -179,8 +179,6 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 
 Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige Beauftragungen sind beispielsweise die *Mitgliederverwaltungs-Beauftragung*, die *Seybruch-Beauftragung* oder die *Schulfüchse-Beauftragung*.
 
-&nbsp;
-
 **Ämter:**
 
 | Amt | Aufgabe | Besetzung |
@@ -829,7 +827,7 @@ Die Weißdorne ist ein in Deutschland mit drei unterschiedlichen Arten vertreten
 
 \pagebreak
 
-## Du bestimmst das Sternbild des Großen Wagens (Gr. Bär) und des Polarsterns
+## Du bestimmst das Sternbild des Großen Wagens (Großer Bär) und des Polarsterns
 
 *Es ist lohnenswert, diese Probe kreativ anzugehen. Ein Beispiel für einen kreativen Sternen-Sippenabend ist es, die Sternenbilder in eine dunkle Oberfläche zu stechen und die Sterne in einem abgedunkelten Raum durch eine einzige Lichtquelle an die Decke zu projizieren. Noch besser ist es natürlich, auf Fahrt diese Sternenbilder durchzusprechen und zu entdecken.*
 
@@ -1033,8 +1031,6 @@ Diese Probe ist wahlweise von dem Sippenführer auszuwählen. Es gilt darauf zu 
 ### Du besitzt Grundkenntnisse im Umgang mit Karte und Kompass (Einnorden, Peilen, Ablesen der Marschzahl).
 
 *Der Umgang mit Karte und Kompass ist vor allem für besonders pfadfinderische Fahrten wie die Herbstschulung oder die Sommerfahrten wichtig. Als Pfadfinder sollte man sich im Gelände bewegen können. Deswegen ergibt es großen Sinn, das Erlernte auf einer Sippenfahrt anhand einer Rallye oder eines kleinen Haiks zu festigen.*
-
-&nbsp;
 
 \underline{Einnorden}
 
