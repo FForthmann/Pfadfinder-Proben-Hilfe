@@ -19,7 +19,7 @@ lot: true
 
 Als Pfadfinderprobenhilfe beansprucht dieses Werk keinen Anspruch auf Vollständigkeit oder absolute Aktualität. Vielmehr kann es als ergänzendes Mittel zu bereits vorhandenen Werken wie dem 'Sippenführer', alten Probenheften oder Schulungskladden verwendet werden. Als Sippenführer ist es immer wichtig, einen individuellen Sippenabend zu gestalten. Deswegen sind Aufzeichnungen wie diese als Orientierung, nicht aber als fertiger Sippenabend anzuwenden. An dieser Stelle sei in aller Deutlichkeit darauf hingewiesen, dass Sipplinge Inhalte am besten verstehen, wenn sie kreativ aufbereitet werden. Deswegen lohnt es als Sippenführer, sich einen Moment zu nehmen, um eine spannende Probenarbeit vorzubereiten. Gegebenenfalls kann auch die Sammlung für kreatives Sippenabendprogramm behilflich sein.
 
-Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und die Pfadfinderprobenordnung der Stammesordnung und vereint vorherige Pfadfinderprobenhilfen von Nils & Stefan Langhein. Sie wurde 2021 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' auf den Seiten 98 & 99 und in der Stammesordnung. In dieser Probenhilfe wird sich auf die *4. Auflage des 'Sippenführers' von 1998* bezogen. Wegen der Nutzung von urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
+Diese Pfadfinderpobenhilfe ist angelehnt an die Proben des 'Sippenführers' und die Pfadfinderprobenordnung der Stammesordnung und vereint vorherige Pfadfinderprobenhilfen von Nils und Stefan Langhein. Sie wurde 2021 von Fabian Forthmann ergänzt und aktualisiert. Die Pfadfinderprobenordnung befindet sich in der aktuellen Ausgabe des 'Sippenführers' auf den Seiten 98 und 99 und in der Stammesordnung. In dieser Probenhilfe wird sich auf die *4. Auflage des 'Sippenführers' von 1998* bezogen. Wegen der Nutzung von urheberrechtlich geschützten Inhalten, ist diese Probenhilfe ausschließlich für den internen Gebrauch vorgesehen.
 
 &nbsp;
 
@@ -97,7 +97,7 @@ Die Andacht ist ein fester Bestandteil der Fahrt und bietet dort neben persönli
 \underline{Eine Andacht hat folgende Bestandteile:}
 
 * Vorbereitung
-    * Thema & passende Bibelstellen auswählen
+    * Thema und passende Bibelstellen auswählen
     * Wichtige Kernbotschaften identifizieren und über kreative Gestaltung nachdenken
     * Mit anderen Ulanen über das Thema austauschen und Gott mit einbeziehen
     * Reinschrift anfertigen, Lieder für die Andacht auswählen und ggf. Requisiten besorgen
@@ -164,9 +164,9 @@ Stände sind als Teil der Probenarbeit essenziell. Sie zeichnen nicht nur unters
 | 8-9  | Wölfling        | Sippe   |    Sippe zugehörig  |
 | 9-11 | Jungpfadfinder  | Sippe   |   Grundlegendes Pfadfinderwissen vorhanden   |
 | 11-13 | Pfadfinder      | Sippe   |     Sippe aktiv mitgestalten  |
-| 13-16 | Knappe          | Sippe & Stamm              |     Sippe hauptverantwortlich leiten  |
-| 16-18 | Späher          | Sippe & Stamm |     Stamm führend gestalten  |
-| ab 18 | Kreuzpfadfinder | Sippe, Stamm & wahlweise weitere | Christliche Botschaft lebenslang teilen |
+| 13-16 | Knappe          | Sippe und Stamm              |     Sippe hauptverantwortlich leiten  |
+| 16-18 | Späher          | Sippe und Stamm |     Stamm führend gestalten  |
+| ab 18 | Kreuzpfadfinder | Sippe, Stamm und wahlweise weitere | Christliche Botschaft lebenslang teilen |
 |    ab 14  |    Rover |     Stamm   |  Externer Unterstützer  |
 
   : Zusammengefasste Ständeregelung
@@ -183,17 +183,17 @@ Zusätzlich zu den gängigen Ämtern kann es auch Beauftragungen geben. Gängige
 
 | Amt | Aufgabe | Besetzung |
 |-------|-------------|----|
-|   Stammesführer  |  Leitung & Koordination des Stammes  | ________ |
+|   Stammesführer  |  Leitung und Koordination des Stammes  | ________ |
 |  Geschäftsführer  | Verwaltung der Stammesgelder  | ________ |
 | Stammesältester | Außenstehender Ansprechpartner bei Problemen | ________ |
-| Stammesdiakon | Unterstützung des Stammesführers bei theologischen Fragen & Angeboten| ________ |
+| Stammesdiakon | Unterstützung des Stammesführers bei theologischen Fragen und Angeboten| ________ |
 |    Materialwart  |  Stammesmaterial (Kohten, Beile, Tampen etc.) | ________ |
-| Bürowart | Verkauf & Verwaltung kleinerer Budgets | ________ |
-| Speikawart | Speisekammer & Kochutensilien | ________ |
-| Musischer Wart | Musische Mittel (Basteln & Musik) | ________ |
+| Bürowart | Verkauf und Verwaltung kleinerer Budgets | ________ |
+| Speikawart | Speisekammer und Kochutensilien | ________ |
+| Musischer Wart | Musische Mittel (Basteln und Musik) | ________ |
 | Erste-Hilfe-Wart | Medizinische Versorgung  | ________ |
 | Werkkammerwart  | Werkkammer | ________ |
-| Thinggraf | Einberufung & Durchführung des Things sowie Überwachung der Stammesordnung| ________ |
+| Thinggraf | Einberufung und Durchführung des Things sowie Überwachung der Stammesordnung| ________ |
 | Neue-Medien-Wart |  Website und Ähnliches | ________ |
 | Mitglieder-Beauftragter | Mitgliederverwaltung |________ |
 | Schulfüchse-Beauftragter | Verbindung zum Schulprojekt |________ |
@@ -248,7 +248,7 @@ Im Folgenden wird die Stammesgeschichte in zwei Formen dargelegt. Einmal in komp
 * Ab 1957 Kohten in der Sippe Wildgänse
 * 1960: erste Krise des Stammes durch den Weggang der Führung --> Existenz bedroht
 * Letzte verbliebende Sippe fährt auf das Bundeslager 1960; aus ihr entstehen 1964 zwei neue Sippen (ab jetzt mit Völkernamen)
-* Es folgt eine Zeit mit interessanten Aktionen & Fahrten, vor allem ins Ausland
+* Es folgt eine Zeit mit interessanten Aktionen und Fahrten, vor allem ins Ausland
 * Anfang der 70er Jahre droht der Stamm erneut einzugehen (Folge der 68er und der Fusion des CPD mit EMP / BEMP zum VCP in 1971 / 72)
     * Pfadfinderei wurde als veraltet angesehen, lose Aktivitäten und spontane Aktionen ohne Sippencharakter waren die Folge
 * 1972 gründet Kai Langhein die Sippe Inka, sie ist der Grundstein für 25 Sippen mit 250 Mitgliedern in den 80er Jahren
@@ -286,7 +286,7 @@ Die folgenden Jahre verliefen ruhig. Die Sommerfahrtstradition wurde aufrechterh
 
 Nach einem großen Pfingstlager 2004 zeichnete sich erneut eine Stammesspaltung ab. Nach den Sommerfahrten war es dann soweit: Ca. 12 Ulanen verließen mit ihren Sippen den Stamm St. Andreas, um in der Nachbarschaft an der Christuskirche den Stamm St. Paulus zu gründen. Andere Ulanen hörten mit der Pfadfinderarbeit auf. Übrig blieben 8 junge, motivierte Ulanen, die in den folgenden Jahren eine christlich und pfadfinderisch starke Arbeit aufbauten, so dass sich in wenigen Jahren die Sipplingszahlen nahezu verdoppelten. Die alten St.-Andreas-Traditionen wurden aufrechterhalten und ausgebaut. Immer mehr Sippen wurden erfolgreich gegründet. Der Kontakt zur Kirchengemeinde und die Einbindung in die Gemeinde entwickelten sich ausgesprochen gut. Der Kontakt zum Bezirk Alstergau und dem Landesverband wurde auf ein Minimum zurückgefahren, um eine Eigendynamik entstehen zu lassen und sich auf inhaltsstarke und christliche Pfadfinderarbeit zu konzentrieren. Als Folge dieser Entwicklung führte der Stamm auch eigene, VCP-unabhängige Mitgliedschaften ein, die später zur Aberkennung der VCP-Mitgliedschaft des Stammes führten. Im Jahre 2005 gewinnt der Stamm eine Pachtausschreibung des Landes Niedersachsen für das Seybruch-Gelände. In Folge von intensiven Renovierungsarbeiten wird der Seybruch unser neues Pfadfindergelände. 2011 fuhr der Stamm erstmals als eigener Trupp auf das weltweite Pfadfindertreffen, das Jamboree, nach Schweden. 40 Stammesmitglieder repräsentierten dort vor der internationalen Pfadfinderschaft Hamburg und einen Teil Deutschlands.
 
-Anfang der 2010er Jahre wurde es zunehmend schwerer, neue Sipplinge für die Pfadfinder zu begeistern, weil es viele Konkurrenzangebote in Emsbüttel & Harvestehude gab und die Schulen zu großen Teilen auf Ganztagsbetreuung umstiegen. Um dieses Problem anzugehen, wurden 2013 die Schulfüchse - eine pfadfinderische Nachmittagsbetreuung, die sich sehr schnell großer Beliebtheit erfreute und viele Kinder zu den Pfadfindern brachte - gegründet. Mittlerweile konnte die Arbeit der Schulfüchse auf viele Kurse in unterschiedlichen Stadtteilen erweitert werden und sogar Ausbildungs- und FSJ-Stellen eingerichtet werden. In dieser Zeit fanden neben zunehmend erfolgreichen Fahrten (insbesondere Sommerfahrt & Sommerlager) auch internationale Begegnungen mit Teams aus den USA (Atlanta), Honduras, Dänemark oder Simbabwe statt. Ende 2013 wird den Pfadfindern St. Andreas nach längeren Auseinandersetzungen über den Einfluss des Stammes im Bezirk die Mitgliedschaft im VCP aberkannt und der Stamm tritt über die Kirche der EJH bei. Auf diesen Umbruch folgt eine lebendige Zeit bei den Pfadfindern, wo nicht nur viele Sippen gegründet, sondern auch gut besuchte Fahrten organisiert wurden. 2018 findet mit 130 Teilnehmern eines der größten Pfingstlager der Stammesgeschichte an den Schaalsee statt. 2019 feiert der Stamm sein 70-jähriges Jubiläum mit einer großen Veranstaltung. Dort waren unter anderem der Stammesgründer Hartmut Clasen und andere ehemalige Pfadfinder anwesend. In den ersten Wochen des Jahres 2020 trennt sich die Kirchengemeinde St. Andreas in Harvestehude von den Pfadfindern St. Andreas, nachdem im Herbst 2019 ein großer, öffentlicher Streit über die Pfadfinder in der Gemeinde entstanden war. Der Rauswurf konnte die Mitgliederanzahl des Stammes jedoch nicht beeinträchtigen und nur sehr wenige Sipplinge verließen den Stamm. Mitte 2020 zählen wir ungefähr 180 aktive Mitglieder in 20 Sippen.
+Anfang der 2010er Jahre wurde es zunehmend schwerer, neue Sipplinge für die Pfadfinder zu begeistern, weil es viele Konkurrenzangebote in Emsbüttel und Harvestehude gab und die Schulen zu großen Teilen auf Ganztagsbetreuung umstiegen. Um dieses Problem anzugehen, wurden 2013 die Schulfüchse - eine pfadfinderische Nachmittagsbetreuung, die sich sehr schnell großer Beliebtheit erfreute und viele Kinder zu den Pfadfindern brachte - gegründet. Mittlerweile konnte die Arbeit der Schulfüchse auf viele Kurse in unterschiedlichen Stadtteilen erweitert werden und sogar Ausbildungs- und FSJ-Stellen eingerichtet werden. In dieser Zeit fanden neben zunehmend erfolgreichen Fahrten (insbesondere Sommerfahrt und Sommerlager) auch internationale Begegnungen mit Teams aus den USA (Atlanta), Honduras, Dänemark oder Simbabwe statt. Ende 2013 wird den Pfadfindern St. Andreas nach längeren Auseinandersetzungen über den Einfluss des Stammes im Bezirk die Mitgliedschaft im VCP aberkannt und der Stamm tritt über die Kirche der EJH bei. Auf diesen Umbruch folgt eine lebendige Zeit bei den Pfadfindern, wo nicht nur viele Sippen gegründet, sondern auch gut besuchte Fahrten organisiert wurden. 2018 findet mit 130 Teilnehmern eines der größten Pfingstlager der Stammesgeschichte an den Schaalsee statt. 2019 feiert der Stamm sein 70-jähriges Jubiläum mit einer großen Veranstaltung. Dort waren unter anderem der Stammesgründer Hartmut Clasen und andere ehemalige Pfadfinder anwesend. In den ersten Wochen des Jahres 2020 trennt sich die Kirchengemeinde St. Andreas in Harvestehude von den Pfadfindern St. Andreas, nachdem im Herbst 2019 ein großer, öffentlicher Streit über die Pfadfinder in der Gemeinde entstanden war. Der Rauswurf konnte die Mitgliederanzahl des Stammes jedoch nicht beeinträchtigen und nur sehr wenige Sipplinge verließen den Stamm. Mitte 2020 zählen wir ungefähr 180 aktive Mitglieder in 20 Sippen.
 
 \pagebreak
 
@@ -372,8 +372,8 @@ Um etwas geschützter vor Wind und Witterung zu sein, ist es möglich, zwei Wald
 
 *Aufbauschritte:*
 
-#. Knüpfen & Regenknebel schließen
-#. Kreuz & Stange binden
+#. Knüpfen und Regenknebel schließen
+#. Kreuz und Stange binden
 #. Ausspannen (rechter Winkel an jeder Ecke)
 #. Hochziehen
 #. Deckel montieren
@@ -570,10 +570,10 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 * Bei Benutzung immer Arbeitshandschuhe tragen!
 * Nicht in den Boden sägen, sonst wird das Blatt stumpf
 * Unterlage benutzen
-* Säge beim Tragen über die Schulter & mit Sägeblatt immer nach hinten
+* Säge beim Tragen über die Schulter und mit Sägeblatt immer nach hinten
 * Beim Sägen ohne Druck arbeiten
 * Bei einer Zweihandsäge nur ziehen
-* Sägeblatt wechseln durch Spanner am Griff & Lösen der Schraube gegenüber
+* Sägeblatt wechseln durch Spanner am Griff und Lösen der Schraube gegenüber
 
 \pagebreak
 
@@ -608,7 +608,7 @@ Für die \underline{konkreten Holzarten} bedeutet das:
 * Petroleum brennt nur mit Docht
 * Nicht umkippen oder schräg hinstellen, weil das Petroleum sonst ausläuft, es ist giftig
 * Regelmäßig reinigen, da sonst der Ruß festbrennt
-* Glas kann gut mit etwas Klopapier & Petroleum gereinigt werden
+* Glas kann gut mit etwas Klopapier und Petroleum gereinigt werden
 * Lampe nicht ausblasen, weil der Docht dann weiter glüht
 * Aufpassen, dass man den Docht nicht zu weit zurückdreht, sodass der Docht in den Tank fällt
 
@@ -672,7 +672,7 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 * Schlafsack
 * Rucksack (gut sitzend und für eine Wanderung tragbar)
 * Isomatte
-* Wanderstiefel / feste Schuhe zum Wandern (fest, bequem, wasserdicht & imprägniert)
+* Wanderstiefel / feste Schuhe zum Wandern (fest, bequem, wasserdicht und imprägniert)
 * Schlafsachen (Jogginganzug)
 * Poncho oder Regenjacke
 * Kochgeschirr, Besteck, ggf. Konus
@@ -680,7 +680,7 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 * Brotbrettchen
 * Fahrtenmesser (bitte im Gepäck)
 * Arbeitshandschuhe
-* AB-Päckchen (Feuerzeug, Nähzeug, Knöpfe, Bändsel, ein bisschen Geld, Pflaster & kleine Schere)
+* AB-Päckchen (Feuerzeug, Nähzeug, Knöpfe, Bändsel, ein bisschen Geld, Pflaster und kleine Schere)
 * Taschenlampe 
 * Streichhölzer oder Feuerzeug
 * Kluft (schon angezogen) ggf. Halstuch + Stift (!)
@@ -690,11 +690,11 @@ Die \underline{Packliste} für eine Fahrt kann je nach Veranstaltung variieren. 
 * ggf. Stammespullover
 * ausreichend Wechselwäsche
 * Stammesliederbuch
-* Probenbuch & Bibel
-* Geschirrhandtuch, Schwamm & Taschentücher
+* Probenbuch und Bibel
+* Geschirrhandtuch, Schwamm und Taschentücher
 * 4x Kaltverpflegung (für eine Wochenendfahrt)
 * Fahrtenbeitrag
-* Kulturbeutel (Zahnbürste & –pasta, Kamm oder Bürste & persönliche Medikamente)
+* Kulturbeutel (Zahnbürste und –pasta, Kamm oder Bürste und persönliche Medikamente)
 
 **Nicht mitnehmen: technische Geräte, Föhn oder unnötiges Gepäck**
 
@@ -839,7 +839,7 @@ Wenn man die hintere Achse des Großen Wagens 5x verlängert, kommt man zum Pola
 
 &nbsp;
 
-![Darstellung von Kleinem & Großem Wagen sowie von dem Polarstern](wagen.jpg){width=50%}
+![Darstellung von Kleinem und Großem Wagen sowie von dem Polarstern](wagen.jpg){width=50%}
 
 \pagebreak
 
@@ -947,7 +947,7 @@ Wenn ein Unfall oder ein Brand auf Fahrt passiert, gibt es ein paar grundlegende
 \underline{Verhalten bei Unfällen}
 
 #. **Ruhe bewahren**
-#. Den Verletzten beruhigen & Verletzung feststellen
+#. Den Verletzten beruhigen und Verletzung feststellen
 #. Notruf tätigen
 #. Wenn keine Sippenführer in der Nähe sind, Hilfe, zum Beispiel in einem naheliegenden Dorf, holen. Bei mehreren Anwesenden sollte mindestens einer beim Verletzten bleiben
 #. Erste-Hilfe-Maßnahmen einleiten
@@ -988,7 +988,7 @@ Ergänzend zu den oben genannten Schritten können beim Auffinden einer Person u
 
 \underline{Stabile Seitenlage}
 
-Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzuleiten, wenn der Verletzte kein Bewusstsein mehr besitzt, aber atmet. Sie ist wichtig, um die Schmerzen erträglicher zu machen, aber vor allem, damit der Patient nicht an seiner Zunge oder an Erbrochenem ersticken kann. Zusätzlich zu der stabilen Seitenlage sollten der Puls und die Atmung des Patienten stetig überprüft und eine Decke zum Über- & Unterlegen besorgt werden. Außerdem muss darauf geachtet werden, den Betroffenen möglichst nicht auf eine Wunde oder Verletzung zu drehen.
+Die stabile Seitenlage ist wie in dem oben geschilderten Prozess einzuleiten, wenn der Verletzte kein Bewusstsein mehr besitzt, aber atmet. Sie ist wichtig, um die Schmerzen erträglicher zu machen, aber vor allem, damit der Patient nicht an seiner Zunge oder an Erbrochenem ersticken kann. Zusätzlich zu der stabilen Seitenlage sollten der Puls und die Atmung des Patienten stetig überprüft und eine Decke zum Über- und Unterlegen besorgt werden. Außerdem muss darauf geachtet werden, den Betroffenen möglichst nicht auf eine Wunde oder Verletzung zu drehen.
 
 &nbsp;
 
